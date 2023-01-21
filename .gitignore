@@ -1,0 +1,6 @@
+.env
+venv
+__pycache__
+*.pyc
+nums_api.egg-info/
+flutter

@@ -1,0 +1,1236 @@
+1788*{'date': 'January 1', 'text': 'The first edition of The Times, previously The Daily Universal Register, is published in London.', 'self': False, 'pos': 'DET'}
+1788*{'date': 'January 2', 'text': 'Georgia ratifies the United States Constitution and becomes the fourth U.S. state under the new government.', 'self': False, 'pos': 'NP'}
+1788*{'date': 'January 9', 'text': 'Connecticut ratifies the United States Constitution and becomes the fifth U.S. state.', 'self': False, 'pos': 'NP'}
+1788*{'date': 'January 18', 'text': "The leading ship in Captain Arthur Phillip's First Fleet arrives at Botany Bay to colonise Australia.", 'self': False, 'pos': 'DET'}
+1788*{'date': 'January 22', 'text': 'Cyrus Griffin becomes the tenth and last President of the United States in Congress Assembled.', 'self': False, 'pos': 'NP'}
+1788*{'date': 'January 24', 'text': 'The La Perouse expedition in the Astrolabe and Boussole arrives off Botany Bay just as Captain Arthur Phillip is attempting to move his colony from there to Sydney Cove in Port Jackson.', 'self': False, 'pos': 'DET'}
+1788*{'date': 'January 31', 'text': 'Henry Benedict Stuart becomes the new Stuart claimant to the throne of Great Britain as King Henry IX and the figurehead of Jacobitism.', 'self': False, 'pos': 'NP'}
+1788*{'date': 'February 1', 'text': 'Isaac Briggs and William Longstreet patent a steamboat.', 'self': False, 'pos': 'NP'}
+1788*{'date': 'February 9', 'text': 'Austria enters the Russo-Turkish War of 1787–1792 and attacks Moldavia.', 'self': False, 'pos': 'NP'}
+1788*{'date': 'February 17', 'text': 'The uninhabited Lord Howe Island is discovered by the brig HMS Supply, commanded by Lieutenant Ball, who is on his way from Botany Bay to Norfolk Island with convicts to start a penal settlement there.', 'self': False, 'pos': 'DET'}
+1788*{'date': 'March 10', 'text': 'The La Perouse expedition leaves Sydney Cove for New Caledonia, never to be seen again.', 'self': False, 'pos': 'DET'}
+1788*{'date': 'March 14', 'text': 'The Edinburgh Evening Courant carries a notice of £200 reward for the capture of William Brodie, a town councilor doubling as a burglar.', 'self': False, 'pos': 'DET'}
+1788*{'date': 'March 21', 'text': 'Great New Orleans Fire kills 25% of the population and destroys 856 buildings, including St. Louis Cathedral and the Cabildo, leaving most of the town in ruins.', 'self': False, 'pos': 'NP'}
+1788*{'date': 'April 13', 'text': "America's first recorded riot, the 'Doctors' Mob', begins.", 'self': False, 'pos': 'NP'}
+1788*{'date': 'April 28', 'text': 'Maryland ratifies the United States Constitution and becomes the seventh U.S. state.', 'self': False, 'pos': 'NP'}
+1788*{'date': 'May 10', 'text': "The Royal Dramatic Theatre (Kungliga Dramatiska Teatern), Sweden's national drama company, is founded.", 'self': False, 'pos': 'DET'}
+1788*{'date': 'May 23', 'text': 'South Carolina ratifies the United States Constitution and becomes the eighth U.S. state.', 'self': False, 'pos': 'NP'}
+1788*{'date': 'June 9', 'text': 'The African Association, an exploration group dedicated to plotting the Niger River and finding Timbuktu, is founded in England.', 'self': False, 'pos': 'DET'}
+1788*{'date': 'June 21', 'text': 'New Hampshire ratifies the United States Constitution and becomes the ninth U.S. state, enabling the Constitution to go into effect.', 'self': False, 'pos': 'NP'}
+1788*{'date': 'June 25', 'text': 'The Virginia Ratifying Convention\u200e ratifies the United States Constitution and becomes the tenth U.S. state under the new government.', 'self': False, 'pos': 'DET'}
+1788*{'date': 'June 26', 'text': 'Wolfgang Amadeus Mozart, in Vienna, completes his antepenultimate symphony, now called the Symphony No.', 'self': False, 'pos': 'NP'}
+1788*{'date': 'July 13', 'text': "A hailstorm sweeps across France and the Dutch Republic with hailstones 'as big as quart bottles' that take 'three days to melt'; immense damage is done.", 'self': False, 'pos': 'DET'}
+1788*{'date': 'July 26', 'text': 'New York ratifies the United States Constitution and becomes the eleventh U.S. state.', 'self': False, 'pos': 'NP'}
+1788*{'date': 'July 28', 'text': 'Wolfgang Amadeus Mozart, in Vienna, completes his penultimate symphony, now called the Symphony No.', 'self': False, 'pos': 'NP'}
+1788*{'date': 'August 10', 'text': 'Wolfgang Amadeus Mozart, in Vienna, completes his final symphony, now called the Symphony No.', 'self': False, 'pos': 'NP'}
+1788*{'date': 'August 27', 'text': 'The trial of William Brodie begins in Edinburgh, Scotland; he is sentenced to death by hanging.', 'self': False, 'pos': 'DET'}
+1788*{'date': 'October 1', 'text': 'William Brodie is hanged.', 'self': False, 'pos': 'NP'}
+1789*{'date': 'January 21', 'text': 'The first American novel, The Power of Sympathy or the Triumph of Nature Founded in Truth, is printed in Boston, Massachusetts.', 'self': False, 'pos': 'DET'}
+1789*{'date': 'January 23', 'text': 'Georgetown University is founded in Washington, D.C., becoming the first Catholic college in the United States.', 'self': False, 'pos': 'NP'}
+1789*{'date': 'February 4', 'text': 'George Washington is unanimously elected the first President of the United States by the United States Electoral College.', 'self': False, 'pos': 'NP'}
+1789*{'date': 'April 7', 'text': 'Selim III (1789–1807) succeeds Abd-ul-Hamid I (1773–1789) as Ottoman Sultan.', 'self': True, 'pos': 'NP'}
+1789*{'date': 'April 30', 'text': 'George Washington is inaugurated at Federal Hall in New York City, beginning his term as the first President of the United States.', 'self': False, 'pos': 'NP'}
+1789*{'date': 'June 20', 'text': 'Tennis Court Oath is made in Versailles.', 'self': False, 'pos': 'NP'}
+1789*{'date': 'June 23', 'text': 'Louis XVI of France makes a conciliatory speech urging reforms to a joint session and orders the three estates to meet together.', 'self': False, 'pos': 'NP'}
+1789*{'date': 'July', 'text': "An estimated 150,000 of Paris's 600,000 people are without work.", 'self': False, 'pos': 'DET'}
+1789*{'date': 'July 1', 'text': 'The comic ballet La fille mal gardée choreographed by Jean Dauberval is first presented under the title Le ballet de la paille at the Grand Théâtre de Bordeaux, in Bordeaux, France.', 'self': False, 'pos': 'DET'}
+1789*{'text': 'The Theater War officially ends.', 'self': False, 'pos': 'DET'}
+1789*{'date': 'July 10', 'text': 'Alexander Mackenzie reaches Mackenzie River Delta.', 'self': False, 'pos': 'NP'}
+1789*{'date': 'July 11', 'text': 'Louis XVI of France fires popular Chief Minister Necker.', 'self': False, 'pos': 'NP'}
+1789*{'date': 'July 12', 'text': 'An angry Parisian crowd demonstrates against the King’s decision to dismiss Minister Necker.', 'self': False, 'pos': 'DET'}
+1789*{'date': 'July 13', 'text': 'The people begin to seize arms for the defense of Paris.', 'self': False, 'pos': 'DET'}
+1789*{'date': 'July 27', 'text': 'The first U.S. federal government agency under the new Constitution, the Department of Foreign Affairs (later renamed the Department of State), is established.', 'self': False, 'pos': 'DET'}
+1789*{'date': 'August 7', 'text': 'The United States Department of War is established.', 'self': False, 'pos': 'DET'}
+1789*{'date': 'August 21', 'text': 'A proposal for a Bill of Rights is adopted by the United States House of Representatives.', 'self': False, 'pos': 'DET'}
+1789*{'date': 'August 26', 'text': 'The Declaration of the Rights of Man is proclaimed in France by the Constituent Assembly.', 'self': False, 'pos': 'DET'}
+1789*{'date': 'August 28', 'text': "William Herschel discovers Enceladus, one of Saturn's moons.", 'self': False, 'pos': 'NP'}
+1789*{'date': 'September 2', 'text': 'The United States Department of the Treasury is founded.', 'self': False, 'pos': 'DET'}
+1789*{'date': 'September 24', 'text': 'The Judiciary Act of 1789 establishes the federal judiciary and the United States Marshals Service.', 'self': True, 'pos': 'DET'}
+1789*{'date': 'September 25', 'text': 'The United States Congress proposes a set of 12 amendments for ratification by the states.', 'self': False, 'pos': 'DET'}
+1789*{'date': 'September 29', 'text': "The U.S. Department of War establishes the nation's first regular army, with a strength of several hundred men.", 'self': False, 'pos': 'DET'}
+1789*{'date': 'October', 'text': 'Some 7,000 women march 12 miles (19\xa0km) from Paris to Versailles to demand action.', 'self': False, 'pos': 'DET'}
+1789*{'date': 'November 6', 'text': 'Pope Pius VI appoints John Carroll the first Roman Catholic bishop in the United States.', 'self': False, 'pos': 'NP'}
+1789*{'date': 'November 20', 'text': 'New Jersey ratifies the United States Bill of Rights, the first state to do so.', 'self': False, 'pos': 'NP'}
+1789*{'date': 'November 21', 'text': 'North Carolina ratifies the United States Constitution and becomes the 12th U.S. state.', 'self': False, 'pos': 'NP'}
+1789*{'date': 'November 26', 'text': 'A national Thanksgiving Day is observed in the United States as recommended by President George Washington and approved by Congress.', 'self': False, 'pos': 'DET'}
+1789*{'date': 'December 11', 'text': 'The University of North Carolina, the oldest public university in the United States, is founded.', 'self': False, 'pos': 'DET'}
+1789*{'date': 'December 23', 'text': 'A leaflet circulated in France accuses marquis de Favras of plotting to rescue the royal family.', 'self': False, 'pos': 'DET'}
+1789*{'text': 'The Bengal Presidency first establishes a penal colony in the Andaman Islands.', 'self': False, 'pos': 'DET'}
+1789*{'text': 'Thomas Jefferson returns from Europe, bringing the first macaroni machine to the United States.', 'self': False, 'pos': 'NP'}
+1789*{'text': "Influenced by Dr. Benjamin Rush's argument against the excessive use of alcohol, about 200 farmers in a Connecticut community form a temperance association.", 'self': False, 'pos': 'NP'}
+1789*{'text': 'Joseph II, Holy Roman Emperor, decrees that all peasant labor obligations be converted into cash payments.', 'self': False, 'pos': 'NP'}
+1789*{'text': 'Fort Washington, Cincinnati, Ohio, is built to protect early U.S. settlements in the Northwest Territory.', 'self': False, 'pos': 'NP'}
+1780*{'date': 'February', 'text': 'The League of Armed Neutrality is formed between Denmark, Sweden, and Russia.', 'self': False, 'pos': 'DET'}
+1780*{'date': 'February 29', 'text': 'The Omicron Delta Omega co-ed fraternity is founded by Benjamin Franklin.', 'self': False, 'pos': 'DET'}
+1780*{'date': 'March 26', 'text': 'The British Gazette and Sunday Monitor, the first Sunday newspaper in Britain, begins publication.', 'self': False, 'pos': 'DET'}
+1780*{'date': 'April 16', 'text': 'The University of Münster in Münster, North Rhine-Westphalia, Germany is founded.', 'self': False, 'pos': 'DET'}
+1780*{'date': 'May 13', 'text': 'Cumberland Compact signed by American settlers in the Cumberland Valley of Tennessee.', 'self': False, 'pos': 'NP'}
+1780*{'date': 'August 24', 'text': 'Louis XVI of France abolishes the use of torture in extracting confessions.', 'self': False, 'pos': 'NP'}
+1780*{'date': 'September 21', 'text': 'Benedict Arnold gives detailed plans of West Point to Major John André.', 'self': False, 'pos': 'NP'}
+1780*{'date': 'September 25', 'text': 'Benedict Arnold flees to British-held New York.', 'self': False, 'pos': 'NP'}
+1780*{'date': 'November 29', 'text': 'Maria Theresa of Austria dies and her Habsburg dominions pass to her ambitious son, Joseph II, who has already been Holy Roman Emperor since 1765.', 'self': False, 'pos': 'NP'}
+1780*{'date': 'December 16', 'text': 'Emperor Kōkaku accedes to the throne of Japan.', 'self': False, 'pos': 'NP'}
+1780*{'text': 'December 20 start of the Fourth Anglo-Dutch War.', 'self': False, 'pos': 'NP'}
+1780*{'text': 'The original Craven Cottage is built by William Craven, 6th Baron Craven (located on the centre circle of the pitch).', 'self': False, 'pos': 'DET'}
+1780*{'text': 'Jose Gabriel Kunturkanki, businessman and landowner, proclaims himself Inca Tupac Amaru II.', 'self': False, 'pos': 'NP'}
+1780*{'text': "Nikephoros Theotokis starts introducing Edinoverie, an attempt to integrate the Old Believers into Russia's established church.", 'self': False, 'pos': 'NP'}
+1780*{'text': 'Western countries pay 16,000,000 ounces of silver for Chinese goods.', 'self': False, 'pos': 'NP'}
+1780*{'text': 'C. 9 million population in Britain.', 'self': False, 'pos': 'NP'}
+1780*{'text': 'Det Dramatiske Selskab is founded in Norway.', 'self': False, 'pos': 'NP'}
+1781*{'date': 'January', 'text': 'William Pitt the Younger, later Prime Minister, enters Parliament.', 'self': False, 'pos': 'NP'}
+1781*{'date': 'January 2', 'text': 'Virginia passes a law ceding its western land claims, paving the way for Maryland to ratify the Articles of Confederation.', 'self': False, 'pos': 'NP'}
+1781*{'date': 'February 2', 'text': 'The Articles of Confederation are ratified by Maryland, the 13th and final state to do so.', 'self': False, 'pos': 'DET'}
+1781*{'date': 'March 1', 'text': 'The United States Continental Congress implements the Articles of Confederation, forming its Perpetual Union as the United States in Congress Assembled.', 'self': False, 'pos': 'DET'}
+1781*{'date': 'March 13', 'text': 'Sir William Herschel discovers the planet Uranus.', 'self': False, 'pos': 'NP'}
+1781*{'date': 'May 18', 'text': 'An army sent from Lima put down the rebellions and captures and savagely execute Túpac Amaru II.', 'self': False, 'pos': 'DET'}
+1781*{'date': 'May 27', 'text': 'Kenneth Ellen Parcell was born in Stone Creek, PA.', 'self': False, 'pos': 'NP'}
+1781*{'date': 'September 4', 'text': 'Los Angeles is founded as El Pueblo de Nuestra Señora La Reina de Los Ángeles de Porciuncula (City of Our Lady the Queen of the Angels of Porciuncula) by a group of 44 Spanish settlers.', 'self': False, 'pos': 'NP'}
+1781*{'date': 'October 20', 'text': 'A Patent of Tolerance, providing limited freedom of worship, is approved in the Habsburg Monarchy.', 'self': False, 'pos': 'DET'}
+1781*{'date': 'November 5', 'text': 'John Hanson is elected President of the Continental Congress.', 'self': False, 'pos': 'NP'}
+1781*{'text': 'The slave ship Zong dumps its living cargo into the sea to claim insurance.', 'self': False, 'pos': 'DET'}
+1781*{'text': 'Henry Hurle officially founds the Ancient Order of Druids (AOD) in London, England.', 'self': False, 'pos': 'NP'}
+1781*{'date': 'December', 'text': 'A school is founded in Washington County, Pennsylvania that would later be known as Washington & Jefferson College.', 'self': False, 'pos': 'DET'}
+1781*{'text': 'Bank of North America is chartered by the Continental Congress.', 'self': False, 'pos': 'NP'}
+1781*{'text': 'Charles Messier publishes the final catalog of Messier objects.', 'self': False, 'pos': 'NP'}
+1781*{'text': 'Carl Wilhelm Scheele discovers tungsten.', 'self': False, 'pos': 'NP'}
+1781*{'text': 'Immanuel Kant publishes his Critique of Pure Reason.', 'self': False, 'pos': 'NP'}
+1781*{'text': 'Jeremy Bentham formulates utilitarian ethics.', 'self': False, 'pos': 'NP'}
+1781*{'text': 'Joseph II, Holy Roman Emperor abolishes serfdom.', 'self': False, 'pos': 'NP'}
+1782*{'date': 'January 7', 'text': 'The first American commercial bank (Bank of North America) opens.', 'self': False, 'pos': 'DET'}
+1782*{'date': 'January 15', 'text': 'Superintendent of Finance Robert Morris goes before the U.S. Congress to recommend establishment of a national mint and decimal coinage.', 'self': False, 'pos': 'NP'}
+1782*{'date': 'January 23', 'text': 'Laird of Johnstone, George Ludovic Houston invites people to buy marked plots of land which, when built upon, form the planned town of Johnstone, Scotland, to provide employment for his thread and cotton mills.', 'self': False, 'pos': 'NP'}
+1782*{'text': 'The Spanish defeat British forces and capture Minorca.', 'self': False, 'pos': 'DET'}
+1782*{'text': 'March 8 In Ohio, the Gnadenhutten massacre of Native Americans takes place in which 29 men, 27 women, and 34 children are killed by white militiamen in retaliation for raids carried out by another Native American group.', 'self': False, 'pos': 'NP'}
+1782*{'date': 'March 27', 'text': 'Charles Watson-Wentworth, 2nd Marquess of Rockingham becomes Prime Minister of the United Kingdom.', 'self': False, 'pos': 'NP'}
+1782*{'date': 'April 6', 'text': "Rama I succeeds King Taksin of Siam (now Thailand) who is overthrown in an coup d'etat and moves the political capital from Thonburi across the Menam to Rattanakosin Island, the historic center of Bangkok.", 'self': False, 'pos': 'NP'}
+1782*{'date': 'April 19', 'text': 'John Adams secures recognition of the United States as an independent government by the Dutch Republic.', 'self': False, 'pos': 'NP'}
+1782*{'date': 'May 17', 'text': "The Parliament of Great Britain passes the Repeal of Act for Securing Dependence of Ireland Act, a major component of the reforms collectively known as the 'Constitution of 1782' which restore legislative independence to the Parliament of Ireland.", 'self': True, 'pos': 'DET'}
+1782*{'date': 'June 20', 'text': 'The bald eagle is chosen as the emblem of the United States of America.', 'self': False, 'pos': 'DET'}
+1782*{'date': 'July', 'text': 'Joseph II, Holy Roman Emperor, receives a visit from Pope Pius VI.', 'self': False, 'pos': 'NP'}
+1782*{'date': 'July 1', 'text': 'American privateers attack Lunenburg, Nova Scotia.', 'self': False, 'pos': 'NP'}
+1782*{'date': 'August 7', 'text': 'George Washington orders the creation of the Badge of Military Merit (or the Order of the Purple Heart) to honor soldiers\' merit in battle (reinstated later by Franklin D. Roosevelt and renamed to the more poetic "Purple Heart" to honor soldiers wounded in action).', 'self': False, 'pos': 'NP'}
+1782*{'text': 'London creates the Foot Patrol for public security.', 'self': False, 'pos': 'NP'}
+1782*{'text': "The British parliament extends James Watt's patent for the steam engine to the year 1800.", 'self': False, 'pos': 'DET'}
+1782*{'text': 'The North Carolina General Assembly incorporates Washington, North Carolina.', 'self': False, 'pos': 'DET'}
+1782*{'text': 'Saint Petersburg has 300,000 inhabitants.', 'self': False, 'pos': 'NP'}
+1783*{'text': 'A sequence of earthquakes begins in Calabria, Italy, leaves 50,000 dead.', 'self': False, 'pos': 'DET'}
+1783*{'date': 'February 26', 'text': 'Continental Army Corps of Engineers disbanded.', 'self': False, 'pos': 'NP'}
+1783*{'date': 'April 15', 'text': 'Preliminary articles of peace ending the American Revolutionary War are ratified.', 'self': False, 'pos': 'NP'}
+1783*{'date': 'May 18', 'text': 'Saint John, New Brunswick, Canada – The first United Empire Loyalists reach Parrtown.', 'self': False, 'pos': 'NP'}
+1783*{'date': 'May 26', 'text': 'A Great Jubilee Day celebrating end of American Revolution held in Trumbull, Connecticut.', 'self': False, 'pos': 'DET'}
+1783*{'date': 'June 4 or June 5', 'text': 'The Montgolfier brothers publicly demonstrate their montgolfière (hot air balloon) in Annonay, France.', 'self': False, 'pos': 'DET'}
+1783*{'date': 'June 8', 'text': "The volcano Laki, in Iceland, begins an 8-month eruption which kills tens of thousands throughout Europe, including 1/5 of Iceland's population, and causes widespread famine.", 'self': False, 'pos': 'DET'}
+1783*{'date': 'July 24', 'text': 'The Treaty of Georgievsk is signed between the Imperial Russia and the Kingdom of Kartli and Kakheti (Georgia).', 'self': False, 'pos': 'DET'}
+1783*{'date': 'August 5', 'text': 'Mount Asama erupts, causing turmoil in Edo period Japan.', 'self': False, 'pos': 'NP'}
+1783*{'date': 'August 18', 'text': 'A large fireball passes on a thousand-mile track across the North Sea, the United Kingdom and France, prompting scientific discussion.', 'self': False, 'pos': 'DET'}
+1783*{'date': 'August 27', 'text': "Le Globe - Jacques Charles and Les Frères Robert launched the world's first hydrogen-filled balloon in Paris.", 'self': False, 'pos': 'NP'}
+1783*{'date': 'September 9', 'text': 'Dickinson College was chartered in Carlisle, Pennsylvania.', 'self': False, 'pos': 'NP'}
+1783*{'date': 'October 3', 'text': 'The Waterford Glassware Factory begins production in Waterford City, Ireland.', 'self': False, 'pos': 'DET'}
+1783*{'date': 'November 30', 'text': 'A 5.3 magnitude earthquake struck New Jersey.', 'self': False, 'pos': 'DET'}
+1783*{'date': 'December 1', 'text': 'La Charlière - Jacques Charles and Nicolas-Louis Robert made the first manned flight in a hydrogen-filled balloon in Paris.', 'self': False, 'pos': 'NP'}
+1783*{'text': 'The city of Sevastopol is founded on the Crimean peninsula of the Russian Empire.', 'self': False, 'pos': 'DET'}
+1783*{'text': 'United Empire Loyalists flee to Canada from the new United States.', 'self': False, 'pos': 'NP'}
+1783*{'text': 'The Treaty of Versailles is signed, ending hostilities between the Franco-Spanish Alliance and England.', 'self': False, 'pos': 'DET'}
+1783*{'text': "Ireland's last grey wolf is killed.", 'self': False, 'pos': 'NP'}
+1783*{'text': "Evan William's distillery was founded in Bardstown Kentucky.", 'self': False, 'pos': 'NP'}
+1784*{'date': 'January 6', 'text': "The Turks agree to Russia's annexation of the Crimea in the Treaty of Constantinople.", 'self': False, 'pos': 'DET'}
+1784*{'date': 'January 14', 'text': 'The Congress of the United States ratifies the Treaty of Paris with Great Britain to end the American Revolutionary War, with the signature of President of Congress Thomas Mifflin.', 'self': False, 'pos': 'DET'}
+1784*{'date': 'January 15', 'text': "Henry Cavendish's paper to the Royal Society of London, Experiments on Air, reveals the composition of water.", 'self': False, 'pos': 'NP'}
+1784*{'date': 'February 27', 'text': 'The Count of St. Germain dies of pneumonia in Schleswig-Holstein.', 'self': False, 'pos': 'DET'}
+1784*{'date': 'February 28', 'text': 'John Wesley ordains ministers for the Methodist Church in the United States.', 'self': False, 'pos': 'NP'}
+1784*{'date': 'June 4', 'text': 'Elizabeth Thible is the first woman to ride in a hot air balloon, at Lyon, France.', 'self': False, 'pos': 'NP'}
+1784*{'date': 'August 15', 'text': "Cardinal de Rohan is called before the court to account for his actions in the Queen's Necklace Affair.", 'self': False, 'pos': 'NP'}
+1784*{'date': 'August 16', 'text': 'Britain creates the colony of New Brunswick.', 'self': False, 'pos': 'NP'}
+1784*{'date': 'September 22', 'text': 'Russia establishes a colony at Kodiak, Alaska.', 'self': False, 'pos': 'NP'}
+1784*{'date': 'November 26', 'text': 'The Roman Catholic Apostolic Prefecture of the United States is established.', 'self': False, 'pos': 'DET'}
+1784*{'date': 'December 25', 'text': 'The Methodist Episcopal Church, USA is officially formed at the "Christmas Conference" led by Thomas Coke and Francis Asbury.', 'self': False, 'pos': 'DET'}
+1784*{'text': 'Emperor Josef II suspends the Hungarian Constitution because of a revolution in Transylvania.', 'self': False, 'pos': 'NP'}
+1784*{'text': 'The North Carolina General Assembly incorporates the town of Morgansborough, named for Daniel Morgan.', 'self': False, 'pos': 'DET'}
+1784*{'text': 'The North Carolina General Assembly changes the name of Kingston, North Carolina, originally named for King George III of Great Britain, to Kinston.', 'self': False, 'pos': 'DET'}
+1784*{'text': 'The Japanese famine continues as 300,000 die of starvation.', 'self': False, 'pos': 'DET'}
+1784*{'text': 'A huge locust swarm hits South Africa.', 'self': False, 'pos': 'DET'}
+1784*{'text': 'Benjamin Franklin tries in vain to persuade the French to alter their clocks in winter to take advantage of the daylight.', 'self': False, 'pos': 'NP'}
+1784*{'text': 'Benjamin Franklin invents bifocal spectacles.', 'self': False, 'pos': 'NP'}
+1784*{'text': 'Antoine Lavoisier pioneers quantitative chemistry.', 'self': False, 'pos': 'NP'}
+1784*{'text': 'Cholesterol is isolated.', 'self': False, 'pos': 'NP'}
+1784*{'text': 'Madame du Coudray, pioneer of modern midwifery, retires.', 'self': False, 'pos': 'NP'}
+1784*{'text': 'The India Act requires that the governor general be chosen from outside the British East India Company and it makes company directors subject to parliamentary supervision.', 'self': False, 'pos': 'DET'}
+1784*{'text': 'Britain receives its first bales of imported American cotton.', 'self': False, 'pos': 'NP'}
+1784*{'text': 'Emmanuel Kant writes What is Enlightenment?.', 'self': False, 'pos': 'NP'}
+1785*{'date': 'January 1', 'text': 'The first issue of the Daily Universal Register, later known as The Times, is published in London.', 'self': False, 'pos': 'DET'}
+1785*{'date': 'January 7', 'text': 'Frenchman Jean-Pierre Blanchard and American John Jeffries travel from Dover, England to Calais, France in a hydrogen gas balloon, becoming the first to cross the English Channel by air.', 'self': False, 'pos': 'NP'}
+1785*{'date': 'January 27', 'text': 'The University of Georgia is founded.', 'self': False, 'pos': 'DET'}
+1785*{'date': 'May 10', 'text': "A hot air balloon crashes in Tullamore, causing a fire that burns down about 100 houses, making it the world's first aviation disaster (by 36 days).", 'self': False, 'pos': 'DET'}
+1785*{'date': 'June 3', 'text': 'Continental Navy disbanded.', 'self': False, 'pos': 'NP'}
+1785*{'date': 'July 6', 'text': 'The dollar is unanimously chosen as the money unit for the United States (the first time a nation has adopted a decimal coinage system).', 'self': False, 'pos': 'DET'}
+1785*{'date': 'August 1', 'text': 'The fleet of French explorer Jean-François de Galaup, comte de La Pérouse leaves Paris for the circumnavigation of the globe.', 'self': False, 'pos': 'DET'}
+1785*{'date': 'August 15', 'text': 'Cardinal de Rohan is arrested in Paris; the Necklace Affair comes into the open.', 'self': False, 'pos': 'NP'}
+1785*{'date': 'November', 'text': 'A drought occurs in Haiti.', 'self': False, 'pos': 'DET'}
+1785*{'date': 'November 28', 'text': 'The Treaty of Hopewell is signed between the United States of America and the Cherokee Nation.', 'self': False, 'pos': 'DET'}
+1785*{'text': 'The University of New Brunswick is founded in Fredericton, New Brunswick, Canada.', 'self': False, 'pos': 'DET'}
+1785*{'text': 'Coal gas is first used for illumination.', 'self': False, 'pos': 'NP'}
+1785*{'text': 'Louis XVI of France signs to a law that a handkerchief must be square.', 'self': False, 'pos': 'NP'}
+1785*{'text': 'The British government establishes a permanent land force in the Eastern Caribbean, based in Barbados.', 'self': False, 'pos': 'DET'}
+1785*{'text': 'The North Carolina General Assembly incorporates Lincolnton, North Carolina (named for American General Benjamin Lincoln) as the new county seat for Lincoln County.', 'self': False, 'pos': 'DET'}
+1785*{'text': 'Belfast Academy (later Belfast Royal Academy) is founded by Rev.', 'self': False, 'pos': 'NP'}
+1785*{'text': 'Friedrich Heinrich Jacobi publishes Letters on the Teachings of Spinoza, and starts the Pantheism controversy.', 'self': False, 'pos': 'NP'}
+1785*{'text': 'Napoleon Bonaparte becomes a lieutenant in the French artillery.', 'self': False, 'pos': 'NP'}
+1786*{'date': 'January 3', 'text': 'The Treaty of Hopewell is signed between the United States of America and the Choctaw Nation.', 'self': False, 'pos': 'DET'}
+1786*{'date': 'January 10', 'text': 'The Treaty of Hopewell is signed between the United States of America and the Chickasaw Nation.', 'self': False, 'pos': 'DET'}
+1786*{'date': 'May 1', 'text': "Mozart's opera The Marriage of Figaro premieres in Vienna.", 'self': False, 'pos': 'NP'}
+1786*{'date': 'May 21', 'text': 'The trial of the Necklace Affair ends in Paris.', 'self': False, 'pos': 'DET'}
+1786*{'date': 'June 10', 'text': 'An earthquake-caused landslide dam on the Dadu River gives way, killing 100,000 in the Sichuan province of China.', 'self': False, 'pos': 'DET'}
+1786*{'date': 'June 25', 'text': 'Gavriil Pribylov discovers St. George Island of the Pribilof Islands in the Bering Sea.', 'self': False, 'pos': 'NP'}
+1786*{'date': 'August', 'text': 'James Rumsey tests his first steam boat in the Potomac river at Shepherdstown Virginia (now West Virginia).', 'self': False, 'pos': 'NP'}
+1786*{'date': 'August 1', 'text': 'Caroline Herschel discovers a comet (the first discovered by a woman).', 'self': False, 'pos': 'NP'}
+1786*{'date': 'August 8', 'text': 'Mont Blanc is climbed for the first time by Dr. Michael-Gabriel Paccard and Jacques Balmat.', 'self': False, 'pos': 'NP'}
+1786*{'date': 'August 11', 'text': 'Captain Francis Light, known as the founder of Penang, lands in Penang and renames it Prince of Wales Island in honour of the heir to the British throne.', 'self': False, 'pos': 'NP'}
+1786*{'date': 'September–December', 'text': 'Goethe undertakes his Italian Journey (published in 1817).', 'self': False, 'pos': 'NP'}
+1786*{'date': 'September 2', 'text': 'A hurricane strikes Barbados.', 'self': False, 'pos': 'DET'}
+1786*{'date': 'September 11–September 14', 'text': 'Annapolis Convention held, but the only result was the scheduling of the Philadelphia Convention.', 'self': False, 'pos': 'NP'}
+1786*{'date': 'November 7', 'text': 'The oldest musical organization in the United States (the Stoughton Musical Society) is founded.', 'self': False, 'pos': 'DET'}
+1786*{'date': 'November 30', 'text': 'Peter Leopold Joseph of Habsburg-Lorraine, Grand Duke of Tuscany, promulgates a penal reform making his country the first state to abolish the death penalty.', 'self': False, 'pos': 'NP'}
+1786*{'text': 'Robert Burns publishes Poems, Chiefly in the Scottish Dialect.', 'self': False, 'pos': 'NP'}
+1786*{'text': 'Francis Light acquires the island of Penang from the Sultan of Kedah on behalf of the British East India Company.', 'self': False, 'pos': 'NP'}
+1786*{'text': 'An Anglo-Spanish treaty gives Belize to Britain.', 'self': False, 'pos': 'DET'}
+1786*{'text': 'The trade with Iceland is opened to all Danish and Norwegian traders.', 'self': False, 'pos': 'DET'}
+1786*{'text': 'Reykjavík, the capital of Iceland, is founded.', 'self': False, 'pos': 'NP'}
+1786*{'text': 'The town of Martinsborough, North Carolina, itself named for Royal Governor Josiah Martin in 1771, is renamed "Greenesville" in honor of United States General Nathanael Greene by the North Carolina General Assembly; the name "Greenesville" is later shortened to become Greenville.', 'self': False, 'pos': 'DET'}
+1787*{'date': 'January 6', 'text': 'The North Carolina General Assembly authorizes nine commissioners to purchase 100 acres (0.40\xa0km2) of land for the county seat of Chatham County.', 'self': False, 'pos': 'DET'}
+1787*{'date': 'January 11', 'text': 'William Herschel discovers Titania and Oberon, 2 moons of Uranus.', 'self': False, 'pos': 'NP'}
+1787*{'date': 'February 28', 'text': 'A charter is granted establishing the institution known today as the University of Pittsburgh.', 'self': False, 'pos': 'DET'}
+1787*{'date': 'April 2', 'text': 'A Charter of Justice is signed providing the authority for the establishment of the first New South Wales (i.e.', 'self': False, 'pos': 'DET'}
+1787*{'date': 'May 13', 'text': 'Captain Arthur Phillip leaves Portsmouth, England with 11 ships packed with 1,000 convicts and their jailers to establish a penal colony in Australia.', 'self': False, 'pos': 'NP'}
+1787*{'date': 'May', 'text': 'Orangist troops attack Vreeswijk, Harmelen and Maarssen; civil war starts in the Netherlands.', 'self': False, 'pos': 'NP'}
+1787*{'date': 'June 6', 'text': 'Franklin College, named for Benjamin Franklin, opens in Lancaster, Pennsylvania.', 'self': False, 'pos': 'NP'}
+1787*{'date': 'June 20', 'text': 'Oliver Ellsworth moves at the Federal Convention that the government be called the United States.', 'self': False, 'pos': 'NP'}
+1787*{'date': 'July 13', 'text': 'The U.S. Congress enacts the Northwest Ordinance establishing governing rules for the Northwest Territory.', 'self': False, 'pos': 'DET'}
+1787*{'date': 'July 15', 'text': "Lord's cricket ground is established and the MCC incorporated.", 'self': False, 'pos': 'NP'}
+1787*{'date': 'September 17', 'text': 'The United States Constitution is adopted by the Constitutional Convention in Philadelphia.', 'self': False, 'pos': 'DET'}
+1787*{'date': 'September 24', 'text': 'Washington Academy (now Washington & Jefferson College) was chartered by the Pennsylvania General Assembly.', 'self': False, 'pos': 'NP'}
+1787*{'date': 'October 27', 'text': 'The first of the Federalist Papers, a series of essays calling for ratification of the U.S. Constitution, is published in a New York paper.', 'self': False, 'pos': 'DET'}
+1787*{'date': 'October 29', 'text': "Wolfgang Amadeus Mozart's opera Don Giovanni (libretto by Lorenzo da Ponte) premieres in the Estates Theatre in Prague.", 'self': False, 'pos': 'NP'}
+1787*{'date': 'December 3', 'text': 'James Rumsey demonstrates a water-jet propelled boat on the Potomac.', 'self': False, 'pos': 'NP'}
+1787*{'date': 'December 7', 'text': 'Delaware ratifies the Constitution and becomes the first U.S. state.', 'self': False, 'pos': 'NP'}
+1787*{'date': 'December 12', 'text': 'Pennsylvania becomes the second U.S. state.', 'self': False, 'pos': 'NP'}
+1787*{'date': 'December 18', 'text': 'New Jersey becomes the third U.S. state.', 'self': False, 'pos': 'NP'}
+1787*{'text': 'The North Carolina General Assembly incorporates Waynesborough and designates it the county seat for Wayne County, North Carolina.', 'self': False, 'pos': 'DET'}
+1787*{'text': 'The element Silicon is first identified by Antoine Lavoisier as a component of the Latin term silex or "Flints" (meaning "Hard Rocks").', 'self': False, 'pos': 'DET'}
+1775*{'date': 'January 17', 'text': 'James Cook takes possession of South Georgia for Britain.', 'self': False, 'pos': 'NP'}
+1775*{'date': 'February 15', 'text': 'Pope Pius VI succeeds Pope Clement XIV as the 250th pope.', 'self': False, 'pos': 'NP'}
+1775*{'date': 'June 16', 'text': 'Post of Chief Engineer of the Continental Army created.', 'self': False, 'pos': 'NP'}
+1775*{'date': 'June 19', 'text': 'Post of Commanding General was created by the Continental Congress.', 'self': False, 'pos': 'NP'}
+1775*{'date': 'July 26', 'text': 'The Second Continental Congress appoints Benjamin Franklin to be the first Postmaster General of what later becomes the United States Post Office Department.', 'self': False, 'pos': 'DET'}
+1775*{'date': 'August 29', 'text': 'September 12 – The Independence Hurricane from South Carolina to Nova Scotia kills 4,170, mostly fishermen and sailors.', 'self': False, 'pos': 'NP'}
+1775*{'date': 'October', 'text': 'The Sayre Plotters attempt to kidnap George III of the United Kingdom.', 'self': False, 'pos': 'DET'}
+1775*{'text': 'First Anglo-Maratha war fought between the British and the Marathas in India.It ended with the Treaty of Salbai(1782).', 'self': False, 'pos': 'NP'}
+1775*{'text': "James Watt's 1769 steam engine patent is extended to June 1800 by Act of Parliament and the first engines are built under it.", 'self': False, 'pos': 'NP'}
+1775*{'text': 'John Wilkinson (industrialist) invents and patents a new kind of boring machine.', 'self': False, 'pos': 'NP'}
+1775*{'text': 'Austria forces the Ottoman Empire to cede Bukovina.', 'self': False, 'pos': 'NP'}
+1775*{'text': 'Catherine the Great gives the nobles absolute control over their serfs.', 'self': False, 'pos': 'NP'}
+1775*{'text': 'A smallpox epidemic begins in New England.', 'self': False, 'pos': 'DET'}
+1775*{'text': 'Tseax Cone in northwestern British Columbia erupts.', 'self': False, 'pos': 'NP'}
+1775*{'text': 'Typhoon Liengkieki devastates the Pacific atoll of Pingelap.', 'self': False, 'pos': 'NP'}
+1774*{'date': 'January 21', 'text': 'Mustafa III, Sultan of the Ottoman Empire dies and is succeeded by his brother Abd-ul-Hamid I.', 'self': False, 'pos': 'NP'}
+1774*{'date': 'January 27', 'text': 'An angry crowd in America seizes a British customs collector and then tars and feathers him.', 'self': False, 'pos': 'DET'}
+1774*{'date': 'April 17', 'text': 'The first avowedly Unitarian congregation, Essex Street Chapel, is founded in London by Theophilus Lindsey.', 'self': False, 'pos': 'DET'}
+1774*{'date': 'May 10', 'text': 'Louis XVI becomes King of France following the death of his grandfather, Louis XV.', 'self': False, 'pos': 'NP'}
+1774*{'date': 'June 22', 'text': 'The British pass the Quebec Act, setting out rules of governance for the colony of Quebec in British North America.', 'self': False, 'pos': 'DET'}
+1774*{'date': 'August 1', 'text': 'The element oxygen is discovered for the third (and last) time – the second quantitatively following the somewhat earlier work of Carl Wilhelm Scheele (1771–1772) – by Joseph Priestley, who publishes the fact in 1775 and so names the element and usually gets all the credit.', 'self': False, 'pos': 'DET'}
+1774*{'date': 'September 5', 'text': 'The First Continental Congress assembles in Philadelphia, Pennsylvania.', 'self': False, 'pos': 'DET'}
+1774*{'date': 'September 21', 'text': 'George Mason and George Washington found the Fairfax County Militia Association, a military unit independent of British control.', 'self': False, 'pos': 'NP'}
+1774*{'date': 'October 21', 'text': 'The word "Liberty" is first displayed on a flag raised by colonists in Taunton, Massachusetts, in defiance of British rule in Colonial America.', 'self': False, 'pos': 'DET'}
+1774*{'date': 'October 25', 'text': 'Edenton Tea Party takes place in North Carolina, marking the first major gathering of women in support of the American cause.', 'self': False, 'pos': 'NP'}
+1774*{'text': 'Johann Wolfgang von Goethe publishes his epistolary novel The Sorrows of Young Werther (Die Leiden des jungen Werthers) which is influential in the Sturm und Drang movement and Romanticism.', 'self': False, 'pos': 'NP'}
+1777*{'date': 'January 15', 'text': 'Vermont declares its independence from New York, becoming the Vermont Republic, an independent country, a status it retains until it joins the United States as the 14th state in 1791.', 'self': False, 'pos': 'NP'}
+1777*{'date': 'May 16', 'text': 'Lachlan McIntosh and Button Gwinnett shoot each other during a duel near Savannah, Georgia.', 'self': False, 'pos': 'NP'}
+1777*{'date': 'June 14', 'text': 'The Stars and Stripes is adopted by the Continental Congress as the Flag of the United States.', 'self': False, 'pos': 'DET'}
+1777*{'date': 'September 26', 'text': 'American Revolution – British troops occupy Philadelphia during the Revolutionary War.', 'self': False, 'pos': 'NP'}
+1777*{'date': 'November 17', 'text': 'The Articles of Confederation are submitted to the states for ratification.', 'self': False, 'pos': 'DET'}
+1777*{'date': 'November 29', 'text': 'San Jose, California is founded.', 'self': False, 'pos': 'NP'}
+1777*{'date': 'December 20', 'text': 'Morocco becomes the first nation to formally recognize the American colonies thereby beginning Morocco – United States relations.', 'self': False, 'pos': 'NP'}
+1777*{'date': 'December 24', 'text': 'Kiritimati is discovered by James Cook.', 'self': False, 'pos': 'NP'}
+1777*{'text': 'The 2nd edition of Encyclopædia Britannica is published.', 'self': False, 'pos': 'DET'}
+1777*{'text': 'The code duello is adopted at the Clonmell Summer Assizes as the form for pistol duels in Ireland.', 'self': False, 'pos': 'DET'}
+1777*{'text': 'Kunsthochschule Kassel is founded.', 'self': False, 'pos': 'NP'}
+1776*{'date': 'January 15', 'text': 'Thomas Paine publishes Common Sense.', 'self': False, 'pos': 'NP'}
+1776*{'date': 'February 17', 'text': 'Edward Gibbon publishes the first volume of The History of the Decline and Fall of the Roman Empire.', 'self': False, 'pos': 'NP'}
+1776*{'date': 'March 9', 'text': 'Adam Smith publishes The Wealth of Nations.', 'self': False, 'pos': 'NP'}
+1776*{'date': 'March 28', 'text': 'Juan Bautista de Anza finds the site for the Presidio of San Francisco.', 'self': False, 'pos': 'NP'}
+1776*{'date': 'May 1', 'text': 'Adam Weishaupt founds the Bavarian Illuminati (Order of the Illuminati) in Ingolstadt, Bavaria.', 'self': False, 'pos': 'NP'}
+1776*{'date': 'May 4', 'text': 'Rhode Island becomes the first American colony to renounce allegiance to King George III of Great Britain.', 'self': False, 'pos': 'NP'}
+1776*{'date': 'June 17', 'text': 'Lt. Jose Joaquin Moraga leads a band of colonists from Monterey Presidio, landing on June 29 and constructing the Mission Dolores of the new Presidio of San Francisco.', 'self': False, 'pos': 'NP'}
+1776*{'date': 'July 12', 'text': 'Captain James Cook sets off from Plymouth England on his third, and fatal, expedition to the Pacific Ocean.', 'self': False, 'pos': 'NP'}
+1776*{'date': 'July 21', 'text': "Mozart's celebrated Haffner Serenade is first performed in Salzburg, Austria.", 'self': False, 'pos': 'NP'}
+1776*{'date': 'September', 'text': 'First running of the St. Leger Stakes horse race in England.', 'self': False, 'pos': 'NP'}
+1776*{'date': 'September 6', 'text': 'Hurricane hits Guadeloupe, killing more than 6000.', 'self': False, 'pos': 'NP'}
+1776*{'date': 'October 7', 'text': 'Crown Prince Paul of Russia marries Sophie Marie Dorothea of Württemberg.', 'self': False, 'pos': 'NP'}
+1776*{'date': 'October 9', 'text': 'Father Francisco Palou founds Mission San Francisco de Asis in what is now San Francisco, California.', 'self': False, 'pos': 'NP'}
+1776*{'date': 'December 5', 'text': 'The Phi Beta Kappa society is founded at the College of William and Mary.', 'self': False, 'pos': 'DET'}
+1771*{'date': 'January 5', 'text': 'Great Kalmyk (Torghut) Migration under Ubashi Khan from the east bank of the Lower Volga River back to the homeland of Dzungaria, at this time under Qing Dynasty rule.', 'self': False, 'pos': 'NP'}
+1771*{'date': 'January 9', 'text': "Emperor Go-Momozono accedes to the throne of Japan, following his aunt's abdication.", 'self': False, 'pos': 'NP'}
+1771*{'date': 'March 12', 'text': 'The North Carolina General Assembly establishes Wake County (named for Margaret Wake, the wife of North Carolina Royal Governor William Tryon) from portions of Cumberland, Johnston and Orange counties.', 'self': False, 'pos': 'DET'}
+1771*{'date': 'August 8', 'text': 'The first recorded town cricket match at Horsham in England is played.', 'self': False, 'pos': 'DET'}
+1771*{'date': 'September 15–17', 'text': 'Plague Riot in Moscow resulting from an outbreak of bubonic plague which kills 57,000.', 'self': False, 'pos': 'NP'}
+1771*{'date': 'October 9', 'text': 'The Dutch merchant ship Vrouw Maria sinks off the coast of Finland; Captain Raymund Lourens and his crew escape unharmed.', 'self': False, 'pos': 'DET'}
+1771*{'text': 'The territory of Baden-Baden is inherited by the Margrave of Baden-Durlach, forming Baden.', 'self': False, 'pos': 'DET'}
+1771*{'text': 'The trade monopoly with Iceland is transferred to the Danish crown.', 'self': False, 'pos': 'DET'}
+1771*{'text': 'The North Carolina General Assembly passes an act establishing the town of Martinsborough, named for Royal Governor Josiah Martin, on the land of Richard Evans, which will serve as the county seat of Pitt County.', 'self': False, 'pos': 'DET'}
+1770*{'date': 'April', 'text': 'James Cook drops anchor in a wide bay about 16 kilometres (10\xa0mi) south of the present city of Sydney, Australia.', 'self': False, 'pos': 'NP'}
+1770*{'date': 'May 16', 'text': 'Marie Antoinette marries Louis-Auguste (who later becomes Louis XVI King of France).', 'self': False, 'pos': 'NP'}
+1770*{'date': 'June', 'text': 'The Spanish governor of Buenos Aires sends five frigates to Port Egmont, landing some 1600 marines.', 'self': False, 'pos': 'DET'}
+1770*{'date': 'June 3', 'text': 'Gasper de Portola and Father Junipero Serra establish Monterey, the presidio of Alta California territory for Spain from 1777–1822, United Mexican States 1824–1846, until the California Republic.', 'self': False, 'pos': 'NP'}
+1770*{'date': 'July 1', 'text': "Lexell's Comet (D/1770 L1) passes the Earth at a distance of 2184129\xa0km, the closest approach by a comet in recorded history.", 'self': True, 'pos': 'NP'}
+1770*{'date': 'August 22', 'text': 'James Cook claims the eastern coast of New Holland (Australia) for Great Britain.', 'self': False, 'pos': 'NP'}
+1770*{'text': 'Falkland Crisis (1770).', 'self': True, 'pos': 'NP'}
+1770*{'text': 'Johann Gottfried Herder meets Johann Wolfgang von Goethe in Strasbourg.', 'self': False, 'pos': 'NP'}
+1770*{'text': 'Joseph Priestley, British chemist, recommends the use of a rubber to remove pencil marks.', 'self': False, 'pos': 'NP'}
+1770*{'text': "Joseph Louis Lagrange proves Bachet's Conjecture.", 'self': False, 'pos': 'NP'}
+1770*{'text': "The Baron d'Holbach's (anonymous) materialist work Le Système de la Nature ou Des Loix du Monde Physique et du Monde Moral is produced in Neuchâtel.", 'self': False, 'pos': 'DET'}
+1770*{'text': 'The Louth Navigation canal in Lincolnshire, England opens.', 'self': False, 'pos': 'DET'}
+1773*{'date': 'January 12', 'text': 'The first American museum opens to the public in Charleston, South Carolina.', 'self': False, 'pos': 'DET'}
+1773*{'date': 'January 17', 'text': 'Captain James Cook becomes the first European explorer to cross the Antarctic Circle.', 'self': False, 'pos': 'NP'}
+1773*{'date': 'January 18', 'text': 'The first opera performance in the Swedish language, Thetis and Phelée, performed by Carl Stenborg and Elisabeth Olin in Bollhuset, marks the establishment of the Royal Swedish Opera.', 'self': False, 'pos': 'DET'}
+1773*{'date': 'April 27 or May 10', 'text': 'The British Parliament passes the Tea Act, designed to save the British East India Company by granting it a monopoly on the North American tea trade.', 'self': False, 'pos': 'DET'}
+1773*{'date': 'September 11', 'text': 'The Public Advertiser publishes a satirical essay titled Rules By Which A Great Empire May Be Reduced To A Small One, written by Benjamin Franklin.', 'self': False, 'pos': 'DET'}
+1773*{'text': 'Daniel Boone leads the first attempt by British colonists to establish a settlement in Kentucky, but is turned back in an attack by American Indians in which his son is killed.', 'self': False, 'pos': 'NP'}
+1773*{'text': 'Paul Revere marries Rachel Walker, his second wife.', 'self': False, 'pos': 'NP'}
+1773*{'date': 'October 12', 'text': "America's first insane asylum opens for Persons of Insane and Disordered Minds in Williamsburg, Virginia.", 'self': False, 'pos': 'NP'}
+1773*{'date': 'October 14', 'text': 'The Komisja Edukacji Narodowej (Polish for Commission for the Education of the People), formed in the Polish-Lithuanian Commonwealth, is considered to be the first ministry of education in the history of mankind.', 'self': False, 'pos': 'DET'}
+1773*{'text': 'Antigua, Guatemala is destroyed by an earthquake, and the capital of Guatemala is moved to Guatemala City.', 'self': False, 'pos': 'NP'}
+1773*{'text': 'Hilaire Rouelle discovers urea.', 'self': False, 'pos': 'NP'}
+1773*{'text': "Istanbul Technical University is established (under the original name of Royal School of Naval Engineering) as the world's first comprehensive institution of higher learning dedicated to engineering education.", 'self': False, 'pos': 'NP'}
+1773*{'text': 'John Harrison\'s "H4" wins him the Longitude prize for the Marine chronometer.', 'self': False, 'pos': 'NP'}
+1773*{'text': 'The Regulating Act creates the office of governor general, with an advising council, to exercise political authority over the territory controlled by The British East India Company.', 'self': False, 'pos': 'DET'}
+1773*{'text': 'Friedrich Gottlieb Klopstock publishes the last five cantos of his epic poem Der Messias in Hamburg.', 'self': False, 'pos': 'NP'}
+1772*{'date': 'January 17', 'text': 'Johann Friedrich Struensee and Queen Caroline Matilda are arrested, leading to his execution and her banishment from Denmark.', 'self': False, 'pos': 'NP'}
+1772*{'date': 'February 12', 'text': 'The Virginia Assembly amends an act to describe the punishments for the practice of gouging.', 'self': False, 'pos': 'DET'}
+1772*{'date': 'February 17', 'text': 'The first partition of Poland is agreed to by Russia and Prussia, later including Austria.', 'self': False, 'pos': 'DET'}
+1772*{'date': 'May', 'text': 'The Watauga Association is formed in East Tennessee.', 'self': False, 'pos': 'DET'}
+1772*{'date': 'June 9', 'text': 'The British vessel Gaspee is burned off of Rhode Island.', 'self': False, 'pos': 'DET'}
+1772*{'date': 'June 22', 'text': 'Lord Mansfield delivers the decision that leads to the end of slavery in England.', 'self': False, 'pos': 'NP'}
+1772*{'date': 'August 5', 'text': 'The First Partition of Polish-Lithuanian commonwealth begins.', 'self': False, 'pos': 'DET'}
+1772*{'date': 'August 12', 'text': 'The volcano Mount Papandayan in West Java erupts and partially collapses, the debris avalanche killing several thousands.', 'self': False, 'pos': 'DET'}
+1772*{'date': 'August 21', 'text': "The coup d'état by King Gustav III is completed by adopting a new Constitution, ending half a century of parliamentary rule in Sweden and making him an enlightened despot.", 'self': False, 'pos': 'DET'}
+1779*{'date': 'February 14', 'text': 'Captain James Cook dies on the Sandwich Islands on his third and last voyage.', 'self': False, 'pos': 'NP'}
+1779*{'date': 'March 10', 'text': 'Treaty of Aynalıkavak between Ottoman Turkey and Russian Empire about Crimean Khanate.', 'self': False, 'pos': 'NP'}
+1779*{'date': 'July', 'text': 'The Great Siege of Gibraltar (fourteenth and last military siege) starts.', 'self': False, 'pos': 'DET'}
+1779*{'date': 'October 4', 'text': 'The Fort Wilson Riot takes place.', 'self': False, 'pos': 'DET'}
+1779*{'date': 'November 2', 'text': 'The North Carolina General Assembly carves a new county from Dobbs County, North Carolina and names it Wayne County in honor of United States General Anthony Wayne.', 'self': False, 'pos': 'DET'}
+1779*{'date': 'December 13', 'text': 'Alexandre, Vicomte de Beauharnais marries Joséphine Tascher.', 'self': False, 'pos': 'NP'}
+1779*{'date': 'December 25', 'text': 'Fort Nashborough, later to become Nashville, Tennessee, is founded by James Robertson.', 'self': False, 'pos': 'NP'}
+1779*{'text': 'The Iron Bridge is completed across the River Severn in Shropshire (the first all cast-iron bridge ever constructed).', 'self': False, 'pos': 'DET'}
+1779*{'text': "Boulton and Watt's Smethwick Engine, now the oldest working engine in the world, is brought into service.", 'self': False, 'pos': 'NP'}
+1779*{'text': 'The city of Tampere, Finland, is founded.', 'self': False, 'pos': 'DET'}
+1779*{'text': 'Joint Spanish-Portuguese survey of Amazonia begins to determine the boundary between the colonial possessions in South America.', 'self': False, 'pos': 'NP'}
+1778*{'date': 'January 18', 'text': 'The third Pacific expedition of Capt.', 'self': False, 'pos': 'DET'}
+1778*{'date': 'February 5', 'text': 'South Carolina becomes the first state to ratify the Articles of Confederation.', 'self': False, 'pos': 'NP'}
+1778*{'date': 'May 30', 'text': 'Benedict Arnold signs US oath of allegiance at Valley Forge.', 'self': False, 'pos': 'NP'}
+1778*{'date': 'June 24', 'text': 'A total solar eclipse takes place across parts of USA from Texas to Virginia.', 'self': False, 'pos': 'DET'}
+1778*{'date': 'July 10', 'text': 'Louis XVI of France declares war on the Kingdom of Great Britain.', 'self': False, 'pos': 'NP'}
+1778*{'date': 'September', 'text': 'The Massachusetts Banishment Act, providing punishment for Loyalists, is passed.', 'self': False, 'pos': 'DET'}
+1778*{'date': 'September 17', 'text': 'The Treaty of Fort Pitt is signed, the first formal treaty between the United States and a Native American tribe (the Lenape or Delaware).', 'self': False, 'pos': 'DET'}
+1778*{'date': 'September 19', 'text': 'The Continental Congress passes the first budget of the United States.', 'self': False, 'pos': 'DET'}
+1778*{'text': 'The first settlement is made in the area of what is now Louisville, Kentucky by 13 families under Colonel George Rogers Clark.', 'self': False, 'pos': 'DET'}
+1778*{'text': 'First Iron bridge.', 'self': False, 'pos': 'NP'}
+1778*{'text': 'The term "thoroughbred" is first used in the United States in an advertisement in a Kentucky gazette to describe a New Jersey stallion called Pilgarlick.', 'self': False, 'pos': 'DET'}
+1799*{'date': 'March 1', 'text': 'Federalist James Ross becomes President Pro Tempore of the United States Senate.', 'self': False, 'pos': 'NP'}
+1799*{'date': 'March 7', 'text': 'Napoleon captures Jaffa in Palestine and his troops proceed to kill more than 2,000 Albanian captives.', 'self': False, 'pos': 'NP'}
+1799*{'date': 'March 22', 'text': 'Roddy McCorley is executed in the town of Toomebridge by the British for his part in the Irish Rebellion of 1798.', 'self': False, 'pos': 'NP'}
+1799*{'date': 'March 29', 'text': 'New York passes a law aimed at gradually abolishing slavery in the state.', 'self': False, 'pos': 'NP'}
+1799*{'date': 'August 27', 'text': 'The British and Russians send an expedition to the Batavian Republic (now the Netherlands).', 'self': False, 'pos': 'DET'}
+1799*{'date': 'October 9', 'text': 'The HMS Lutine (a famous treasure wreck) is sunk.', 'self': False, 'pos': 'DET'}
+1799*{'date': 'November 9', 'text': 'Napoleon overthrows the French Directory.', 'self': False, 'pos': 'NP'}
+1799*{'text': 'A new constitution is approved in a plebiscite in France.', 'self': False, 'pos': 'DET'}
+1799*{'text': 'Napoleon becomes First Consul.', 'self': False, 'pos': 'NP'}
+1799*{'date': 'December 14', 'text': 'George Washington, the first President of the United States, dies in Mount Vernon, Virginia.', 'self': False, 'pos': 'NP'}
+1799*{'text': 'The Place Royale in Paris is renamed Place des Vosges when the Department of Vosges becomes the first to pay new Revolutionary taxes.', 'self': False, 'pos': 'DET'}
+1799*{'text': 'Eli Whitney, holding a 1798 United States government contract for the manufacture of muskets, is introduced by Oliver Wolcott, Jr. to the French concept of interchangeable parts, an origin of the American system of manufacturing.', 'self': False, 'pos': 'NP'}
+1799*{'text': 'The small town of Tignish, PE, Canada is founded.', 'self': False, 'pos': 'DET'}
+1799*{'text': "The assassination of the 14th Tu'i Kanokupolu, Tukuʻaho, plunges Tonga into half a century of civil war.", 'self': False, 'pos': 'DET'}
+1799*{'text': 'The Nawab (provincial governor) of Oudh in northern India sends to George III of England the Padshah Nama, an official history of the reign of Shah Jahan.', 'self': False, 'pos': 'DET'}
+1799*{'text': 'William Cockerill begins building cotton-spinning equipment in Belgium.', 'self': False, 'pos': 'NP'}
+1798*{'date': 'January 22', 'text': "A coup d'état is staged in the Netherlands (Batavian Republic).", 'self': False, 'pos': 'DET'}
+1798*{'date': 'February 10', 'text': 'The papacy is removed from power by French General Louis Alexandre Berthier.', 'self': False, 'pos': 'DET'}
+1798*{'date': 'April 7', 'text': 'The Mississippi Territory is organized by the United States from territory ceded by Georgia and South Carolina; later it is twice expanded to include disputed territory claimed by both the U.S. and Spain (which acquired territory in trade with Great Britain).', 'self': False, 'pos': 'DET'}
+1798*{'date': 'April 26', 'text': 'France annexes Geneva.', 'self': False, 'pos': 'NP'}
+1798*{'text': 'The French take Malta.', 'self': False, 'pos': 'DET'}
+1798*{'text': "A moderate coup d'état in the Netherlands (Batavian Republic) deposes Pieter Vreede.", 'self': False, 'pos': 'DET'}
+1798*{'date': 'July 1', 'text': "Napoleon's troops land in Egypt.", 'self': False, 'pos': 'NP'}
+1798*{'date': 'July 11', 'text': 'The United States Marine Corps is re/established.', 'self': False, 'pos': 'DET'}
+1798*{'date': 'July 12', 'text': "Battle of Chobrakit between French and Mamelukes, during Napoleon's march from Alexandria to take Cairo.", 'self': False, 'pos': 'NP'}
+1798*{'date': 'July 14', 'text': 'The Alien and Sedition Acts become United States law, making it a federal crime to write, publish, or utter false or malicious statements about the United States government.', 'self': False, 'pos': 'DET'}
+1798*{'date': 'July 16', 'text': 'The Relief of Sick and Disabled Seamen Act is signed into law, creating the Marine Hospital Service, the forerunner to the current United States Public Health Service Commissioned Corps.', 'self': False, 'pos': 'DET'}
+1798*{'date': 'July 24', 'text': 'Napoleon occupies Cairo.', 'self': False, 'pos': 'NP'}
+1798*{'date': 'July 31', 'text': 'A second round of elections are held in the Netherlands (Batavian Republic); no general elections this time.', 'self': False, 'pos': 'DET'}
+1798*{'text': 'The first (anonymous) publication occurs of An Essay on the Principle of Population by Thomas Malthus.', 'self': False, 'pos': 'DET'}
+1798*{'text': 'Aarau becomes the temporary capital of the Helvetic Republic.', 'self': False, 'pos': 'NP'}
+1798*{'text': 'Alois Senefelder invents lithography.', 'self': False, 'pos': 'NP'}
+1798*{'text': 'Eli Whitney contracts with the U.S. federal government for 10,000 rifles, which he produces with interchangeable parts.', 'self': False, 'pos': 'NP'}
+1798*{'text': 'The first census in Brazil counts 2 million blacks in a total population of 3.25 million.', 'self': False, 'pos': 'DET'}
+1798*{'text': "The Ayrshire (Earl of Carrick's Own) Yeomanry, a British Yeomanry Cavalry Regiment, formed by The Earl of Cassillis at Culzean Castle, Ayrshire in 1794, is adopted onto the British Army List.", 'self': False, 'pos': 'DET'}
+1793*{'date': 'January 2', 'text': 'Russia and Prussia partition the Polish-Lithuanian Commonwealth.', 'self': False, 'pos': 'NP'}
+1793*{'date': 'February 1', 'text': 'France declares war on Great Britain and the Netherlands (see French Revolutionary Wars).', 'self': False, 'pos': 'NP'}
+1793*{'date': 'February 25', 'text': 'George Washington holds the first Cabinet meeting as President of the United States.', 'self': False, 'pos': 'NP'}
+1793*{'date': 'February 27', 'text': "The Giles resolutions are introduced to the United States House of Representatives, asking the House to condemn Alexander Hamilton's handling of loans.", 'self': False, 'pos': 'DET'}
+1793*{'date': 'March 1', 'text': 'John Langdon becomes President Pro Tempore of the United States Senate until March 3.', 'self': False, 'pos': 'NP'}
+1793*{'date': 'March 4', 'text': 'George Washington is sworn in as President of the United States in Philadelphia, for his second term.', 'self': False, 'pos': 'NP'}
+1793*{'date': 'March 7', 'text': 'France declares war on Spain.', 'self': False, 'pos': 'NP'}
+1793*{'date': 'March 18', 'text': 'The first republican state in Germany, the Republic of Mainz, is declared by Andreas Joseph Hofmann.', 'self': False, 'pos': 'DET'}
+1793*{'date': 'April 1', 'text': 'The Unsen volcano erupts in Japan and causes an earthquake; about 53,000 are killed.', 'self': False, 'pos': 'DET'}
+1793*{'date': 'April 6', 'text': 'The Committee of Public Safety is established in France with Georges Danton as its head.', 'self': False, 'pos': 'DET'}
+1793*{'date': 'April 25', 'text': 'The pioneer parishes of New Orleans and Louisiana were erected as well as incorporated into the Diocese of Louisiana and the Two Floridas.', 'self': False, 'pos': 'DET'}
+1793*{'date': 'April 22', 'text': 'George Washington signs the Neutrality Proclamation.', 'self': False, 'pos': 'NP'}
+1793*{'date': 'June', 'text': 'George Macartney, 1st Earl Macartney reaches Canton, China.', 'self': False, 'pos': 'NP'}
+1793*{'date': 'June 2', 'text': 'The Girondins are overthrown.', 'self': False, 'pos': 'DET'}
+1793*{'date': 'June 10', 'text': "The Jardin des Plantes and the Muséum national d'Histoire naturelle are created by the National Convention.", 'self': False, 'pos': 'DET'}
+1793*{'date': 'July 9', 'text': 'The Act Against Slavery is passed in Upper Canada.', 'self': False, 'pos': 'DET'}
+1793*{'date': 'July 13', 'text': 'Charlotte Corday kills Jean-Paul Marat in his bath.', 'self': False, 'pos': 'NP'}
+1793*{'date': 'July 17', 'text': 'Charlotte Corday is executed.', 'self': False, 'pos': 'NP'}
+1793*{'date': 'July 22', 'text': 'Alexander Mackenzie reaches the Pacific Ocean.', 'self': False, 'pos': 'NP'}
+1793*{'date': 'July 29', 'text': 'John Graves Simcoe decides to build a fort and settlement at Toronto, having sailed into the bay there.', 'self': False, 'pos': 'NP'}
+1793*{'date': 'September 18', 'text': 'President George Washington sets the foundation stone for the Capitol building.', 'self': False, 'pos': 'NP'}
+1793*{'date': 'October 12', 'text': 'The cornerstone of Old East, the oldest state university building in the United States, is laid in Chapel Hill, North Carolina, on the campus of the University of North Carolina (the 12th of October is now celebrated at the University as University Day).', 'self': False, 'pos': 'DET'}
+1793*{'date': 'October 14', 'text': 'The trial of Marie Antoinette begins.', 'self': False, 'pos': 'DET'}
+1793*{'date': 'October 15', 'text': 'Marie Antoinette is condemned to death.', 'self': False, 'pos': 'NP'}
+1793*{'date': 'October 16', 'text': 'Marie Antoinette is executed.', 'self': False, 'pos': 'NP'}
+1793*{'date': 'October 24', 'text': 'The French Republican Calendar is officially adopted.', 'self': False, 'pos': 'DET'}
+1793*{'date': 'October 28', 'text': 'Eli Whitney applies for a patent for his cotton gin (the patent is granted the following March).', 'self': False, 'pos': 'NP'}
+1793*{'date': 'October 31', 'text': 'Arrested Girondist leaders are executed in France, by guillotine.', 'self': False, 'pos': 'NP'}
+1793*{'date': 'December 8', 'text': 'Madame du Barry is executed.', 'self': False, 'pos': 'NP'}
+1793*{'date': 'December 9', 'text': "New York City's first daily newspaper, the American Minerva, is established by Noah Webster.", 'self': False, 'pos': 'NP'}
+1793*{'text': 'The British admiralty begins supplying citrus juice to Navy ships to prevent scurvy.', 'self': False, 'pos': 'DET'}
+1793*{'text': 'The First Coalition against France is formed.', 'self': False, 'pos': 'DET'}
+1793*{'text': 'The Holy Roman Empire declares war on France.', 'self': False, 'pos': 'DET'}
+1793*{'text': 'The metric system is adopted in France.', 'self': False, 'pos': 'DET'}
+1793*{'text': 'The Al Bu Falah move to Abu Dhabi.', 'self': False, 'pos': 'DET'}
+1793*{'text': 'The first year of regular production begins for the United States Mint and the half cent is minted for the first time.', 'self': False, 'pos': 'DET'}
+1793*{'text': 'Niccolò Paganini debuts as a violin virtuoso at age 11.', 'self': False, 'pos': 'NP'}
+1792*{'date': 'January 9', 'text': "The Treaty of Jassy ends Russia's war with the Ottoman Empire over Crimea.", 'self': False, 'pos': 'DET'}
+1792*{'date': 'February 20', 'text': 'The Postal Service Act, establishing the United States Post Office Department, is signed by President George Washington.', 'self': False, 'pos': 'DET'}
+1792*{'date': 'March 1', 'text': 'Francis II, Holy Roman Emperor, the last emperor, takes office.', 'self': False, 'pos': 'NP'}
+1792*{'date': 'March 20', 'text': 'A new capital of North Carolina and county seat of the newly formed Wake County is established after North Carolina State Senator and surveyor William Christmas submits his design for the city.', 'self': False, 'pos': 'DET'}
+1792*{'date': 'April 2', 'text': 'The Coinage Act is passed, establishing the United States Mint.', 'self': False, 'pos': 'DET'}
+1792*{'date': 'April 5', 'text': 'United States President George Washington vetoes a bill designed to apportion representatives among U.S. states.', 'self': False, 'pos': 'NP'}
+1792*{'date': 'April 20', 'text': 'France declares war against Austria.', 'self': False, 'pos': 'NP'}
+1792*{'date': 'April 24', 'text': 'The guillotine is first used experimentally in France.', 'self': False, 'pos': 'DET'}
+1792*{'text': 'Highwayman Nicolas J. Pelletier becomes the first person executed by guillotine.', 'self': False, 'pos': 'NP'}
+1792*{'text': 'La Marseillaise, the French national anthem, is composed by Claude Joseph Rouget de Lisle.', 'self': False, 'pos': 'NP'}
+1792*{'date': 'May 8', 'text': 'The Revenue Commission is established.[where?.', 'self': False, 'pos': 'DET'}
+1792*{'date': 'May 11', 'text': 'Captain Robert Gray becomes the first white man to enter the Columbia River.', 'self': False, 'pos': 'NP'}
+1792*{'date': 'May 17', 'text': 'The Buttonwood Agreement is signed, beginning the New York Stock Exchange.', 'self': False, 'pos': 'DET'}
+1792*{'date': 'May 21', 'text': 'An old lava dome collapses in Kyūshū, Japan when Mount Unzen volcano erupts; the resulting avalanche and tsunami kills about 14,300 people.', 'self': False, 'pos': 'DET'}
+1792*{'date': 'June 1', 'text': 'Kentucky becomes the 15th state of The United States of America.', 'self': False, 'pos': 'NP'}
+1792*{'date': 'June 4', 'text': 'Captain George Vancouver claims Puget Sound for Great Britain.', 'self': False, 'pos': 'NP'}
+1792*{'text': 'Prussia declares war against France.', 'self': False, 'pos': 'NP'}
+1792*{'date': 'September', 'text': 'George Macartney, 1st Earl Macartney sails from Portsmouth to China.', 'self': False, 'pos': 'NP'}
+1792*{'date': 'September 21', 'text': 'The French Convention abolishes the monarchy and establishes the First Republic.', 'self': False, 'pos': 'DET'}
+1792*{'date': 'September 22', 'text': 'The Era of the historical French Republican Calendar begins.', 'self': False, 'pos': 'DET'}
+1792*{'date': 'October 12', 'text': 'The first Columbus Day celebration in the USA is held in New York, 300 years after his arrival in the New World.', 'self': False, 'pos': 'DET'}
+1792*{'date': 'October 29', 'text': 'Mount Hood (Oregon) is named after the British naval officer Samuel Hood by Lt. William E. Broughton, who spots the mountain near the mouth of the Willamette River.', 'self': False, 'pos': 'NP'}
+1792*{'date': 'December 3', 'text': 'George Washington is re-elected President of the United States.', 'self': False, 'pos': 'NP'}
+1792*{'date': 'December 26', 'text': 'The trial of Louis XVI of France begins.', 'self': False, 'pos': 'DET'}
+1792*{'text': 'The Baptist Missionary Society is founded in Kettering, England.', 'self': False, 'pos': 'DET'}
+1792*{'text': 'Tipu Sultan invades Kerala in India, but is repulsed.', 'self': False, 'pos': 'NP'}
+1792*{'text': 'Franz Xaver, Baron Von Zach, an astronomer, publishes The Tables of the Sun, an essential early work for navigation.', 'self': False, 'pos': 'NP'}
+1792*{'text': 'Claude Chappe successfully demonstrates the first semaphore line, between Paris and Lille.', 'self': False, 'pos': 'NP'}
+1792*{'text': 'William Murdoch begins experimenting with gas lighting.', 'self': False, 'pos': 'NP'}
+1792*{'text': 'George Anschutz constructs the first blast furnace in Pittsburgh, Pennsylvania.', 'self': False, 'pos': 'NP'}
+1792*{'text': 'Thomas Holcroft produces the play Road to Ruin in London.', 'self': False, 'pos': 'NP'}
+1792*{'text': 'Barthelemy Catherine Joubert, later general, becomes sub-lieutenant.', 'self': False, 'pos': 'NP'}
+1792*{'text': 'Johann Georg Albrechtberger becomes Kapellmeister in Vienna.', 'self': False, 'pos': 'NP'}
+1792*{'text': 'The State Street Corporation is founded.', 'self': False, 'pos': 'DET'}
+1792*{'text': 'Shiloh Meeting House, predecessor of Shiloh United Methodist Church in Lynchburg, Virginia, is founded.', 'self': False, 'pos': 'NP'}
+1792*{'text': "Mary Wollstonecraft's A Vindication of the Rights of Woman is published.", 'self': False, 'pos': 'NP'}
+1792*{'text': 'The first written examinations in Europe are held at Cambridge University, England.', 'self': False, 'pos': 'DET'}
+1791*{'date': 'January 25', 'text': 'The British Parliament passes the Constitutional Act of 1791, splitting the old province of Quebec into Upper and Lower Canada.', 'self': True, 'pos': 'DET'}
+1791*{'date': 'March 4', 'text': 'Vermont is admitted as the 14th U.S. state.', 'self': False, 'pos': 'NP'}
+1791*{'date': 'April 21', 'text': 'The first of forty boundary stones delineating the borders of the new District of Columbia is laid at Jones Point Light, in Alexandria, Virginia.', 'self': False, 'pos': 'DET'}
+1791*{'date': 'May 3', 'text': 'The Sejm of the Polish–Lithuanian Commonwealth proclaims the Constitution of May 3, 1791, the first modern codified constitution in Europe.', 'self': True, 'pos': 'DET'}
+1791*{'date': 'June 20', 'text': 'The French Royal Family is captured when they try to flee in disguise.', 'self': False, 'pos': 'DET'}
+1791*{'date': 'July 14', 'text': 'The Priestley Riots break out in Birmingham, England.', 'self': False, 'pos': 'DET'}
+1791*{'date': 'July 17', 'text': 'The Champ de Mars Massacre occurs during the French Revolution.', 'self': False, 'pos': 'DET'}
+1791*{'date': 'August 4', 'text': 'The Treaty of Sistova is signed, ending the Ottoman-Habsburg wars.', 'self': False, 'pos': 'DET'}
+1791*{'date': 'August 6', 'text': 'The Brandenburg Gate in Berlin is finished.', 'self': False, 'pos': 'DET'}
+1791*{'date': 'August 26', 'text': 'John Fitch is granted a patent for the steamboat in the United States.', 'self': False, 'pos': 'NP'}
+1791*{'date': 'August 22', 'text': 'A slave rebellion breaks out in the French colony of Saint-Domingue.', 'self': False, 'pos': 'DET'}
+1791*{'date': 'September 13', 'text': 'Louis XVI of France accepts the final version of the completed constitution.', 'self': False, 'pos': 'NP'}
+1791*{'date': 'September 30', 'text': "Wolfgang Amadeus Mozart's singspiel Die Zauberflöte (Magic Flute) premieres in the Freihaustheater in Vienna.", 'self': False, 'pos': 'NP'}
+1791*{'date': 'October', 'text': 'The Legislative Assembly (France) convenes.', 'self': False, 'pos': 'DET'}
+1791*{'date': 'December 4', 'text': "The first issue of The Observer, the world's first Sunday newspaper, is published.", 'self': False, 'pos': 'DET'}
+1791*{'text': 'The first American ship reaches Japan.', 'self': False, 'pos': 'DET'}
+1791*{'text': 'A slave rebellion begins in Haiti; see Haitian Revolution.', 'self': False, 'pos': 'DET'}
+1791*{'text': 'An ordinance is written barring the game of baseball within 80 yards of the Meeting House in Pittsfield, Massachusetts (first known reference to the game of baseball in North America).', 'self': False, 'pos': 'DET'}
+1791*{'text': 'The metric system is adopted in France.', 'self': False, 'pos': 'DET'}
+1790*{'date': 'January 9', 'text': 'U.S. President George Washington gives the first State of the Union Address.', 'self': False, 'pos': 'NP'}
+1790*{'date': 'January 30', 'text': 'The first boat specialized as a lifeboat is tested on the River Tyne.', 'self': False, 'pos': 'DET'}
+1790*{'date': 'February 4', 'text': 'Louis XVI of France declares to the National Assembly that he will maintain the constitutional laws.', 'self': False, 'pos': 'NP'}
+1790*{'date': 'March 1', 'text': 'The first United States census is authorized.', 'self': False, 'pos': 'DET'}
+1790*{'date': 'March 4', 'text': 'France is divided into 83 départements, which cut across the former provinces, in an attempt to dislodge regional loyalties based on noble ownership of land.', 'self': False, 'pos': 'NP'}
+1790*{'date': 'March 21', 'text': 'Thomas Jefferson reports to President George Washington in New York as the new United States Secretary of State.', 'self': False, 'pos': 'NP'}
+1790*{'date': 'April 10', 'text': 'The United States patent system is established.', 'self': False, 'pos': 'DET'}
+1790*{'date': 'May 29', 'text': 'Rhode Island ratifies the United States Constitution and becomes the last of the 13 original states to do so.', 'self': False, 'pos': 'NP'}
+1790*{'date': 'June 9', 'text': 'Royal Assent Given To The Town Of Milford Haven.', 'self': False, 'pos': 'NP'}
+1790*{'date': 'July', 'text': 'Louis XVI of France accepts a constitutional monarchy.', 'self': False, 'pos': 'NP'}
+1790*{'date': 'July 16', 'text': 'The signing of the Residence Bill establishes a site along the Potomac River as the District of Columbia, the capital district of the United States.', 'self': False, 'pos': 'DET'}
+1790*{'date': 'July 27', 'text': 'The Convention of Reichenbach is signed between Prussia and Austria.', 'self': False, 'pos': 'DET'}
+1790*{'date': 'July 31', 'text': 'Inventor Samuel Hopkins becomes the first to be issued a U.S. patent (for an improved method of making potash).', 'self': False, 'pos': 'NP'}
+1790*{'date': 'August 4', 'text': 'A newly passed U.S. tariff act creates the system of cutters for revenue enforcement (later named the United States Revenue Cutter Service), the forerunner of the Coast Guard.', 'self': False, 'pos': 'DET'}
+1790*{'date': 'August 14', 'text': 'The Treaty of Värälä ends the Russo-Swedish War.', 'self': False, 'pos': 'DET'}
+1790*{'text': 'Prime Minister of Great Britain William Pitt refuses to recognize Belgian independence.', 'self': False, 'pos': 'NP'}
+1790*{'text': 'The first United States federal budget bill is introduced by Alexander Hamilton.', 'self': False, 'pos': 'DET'}
+1790*{'text': 'The 1790 United States Census is taken.', 'self': True, 'pos': 'DET'}
+1790*{'text': 'Leopold II, Holy Roman Emperor starts to rule.', 'self': False, 'pos': 'NP'}
+1797*{'date': 'January 1', 'text': "The first New Year's Eve Party with the invention of confetti and party hats is held.", 'self': False, 'pos': 'DET'}
+1797*{'date': 'January 3', 'text': 'The Treaty of Tripoli (a peace treaty between the United States and Tripoli) is signed at Algiers (see also 1796).', 'self': False, 'pos': 'DET'}
+1797*{'date': 'January 7', 'text': 'The parliament of the Cisalpine Republic adopts the Italian green-white-red tricolour as the official flag (this is considered the birth of the flag of Italy).', 'self': False, 'pos': 'DET'}
+1797*{'date': 'January 15', 'text': 'London haberdasher John Hetherington wears a silk top hat in public and attracts a large crowd of onlookers.', 'self': False, 'pos': 'NP'}
+1797*{'date': 'February 14', 'text': 'The Battle of Cape St. Vincent (1797), part of the Wars of the French Revolution.', 'self': True, 'pos': 'DET'}
+1797*{'date': 'February 22', 'text': 'The Last invasion of Britain begins.', 'self': False, 'pos': 'DET'}
+1797*{'date': 'February 25', 'text': 'William Tate surrenders to the British at Fishguard.', 'self': False, 'pos': 'NP'}
+1797*{'date': 'February 26', 'text': 'The Bank of England (national bank of Britain) issues the first one-pound and two-pound notes (discontinued March 11, 1988).', 'self': False, 'pos': 'DET'}
+1797*{'date': 'March 4', 'text': 'John Adams is sworn in as the second President of the United States of America.', 'self': False, 'pos': 'NP'}
+1797*{'date': 'April 16', 'text': 'Spithead and Nore mutinies.', 'self': False, 'pos': 'NP'}
+1797*{'date': 'April 17', 'text': 'Sir Ralph Abercromby unsuccessfully invades San Juan, Puerto Rico in what will be one of the largest British attacks on Spanish territories in the western hemisphere, and one of the worst defeats of the English navy for years to come.', 'self': False, 'pos': 'NP'}
+1797*{'date': 'May 10', 'text': 'The first ship of the United States Navy, the frigate USS UNITED STATES, is commissioned.', 'self': False, 'pos': 'DET'}
+1797*{'date': 'May 30', 'text': 'William Wilberforce marries Barbara Ann Spooner.', 'self': False, 'pos': 'NP'}
+1797*{'date': 'July 24', 'text': 'Horatio Nelson is wounded at the Battle of Santa Cruz, losing an arm.', 'self': False, 'pos': 'NP'}
+1797*{'date': 'October 17', 'text': 'The Treaty of Campo Formio ends the War of the First Coalition.', 'self': False, 'pos': 'DET'}
+1797*{'date': 'December 17', 'text': "Napoleon leads a successful French charge against Fort l'Aiguilette to secure Toulon.", 'self': False, 'pos': 'NP'}
+1797*{'text': 'Joseph Haydn composes the music to Gott erhalte Franz den Kaiser, the tune of which also became the music to the German national anthem, Deutschland, Deutschland über alles.', 'self': False, 'pos': 'NP'}
+1797*{'text': 'The XYZ Affair inflames tensions between France and the United States.', 'self': False, 'pos': 'DET'}
+1796*{'date': 'January 16', 'text': 'The first Dutch (and general) elections are held for the National Assembly of the Batavian Republic (the next Dutch general elections are held in 1888).', 'self': False, 'pos': 'DET'}
+1796*{'date': 'February 1', 'text': 'The capital of Upper Canada is moved from Newark to York.', 'self': False, 'pos': 'DET'}
+1796*{'date': 'February 9', 'text': 'The Qianlong Emperor abdicates at age 84 to make way for his son, the Jiaqing Emperor.', 'self': False, 'pos': 'DET'}
+1796*{'date': 'March 9', 'text': 'Widow Joséphine de Beauharnais marries General Napoléon Bonaparte.', 'self': False, 'pos': 'NP'}
+1796*{'date': 'March 30', 'text': 'Carl Gauss obtains conditions for the constructibility by ruler and compass of regular polygons, and is able to announce that the regular 17-gon is constructible by ruler and compasses.', 'self': False, 'pos': 'NP'}
+1796*{'date': 'April 2', 'text': "The only night of the would-be Shakespearean play Vortigern and Rowena (actually written by William Henry Ireland) ends in the audience's laughter.", 'self': False, 'pos': 'DET'}
+1796*{'date': 'May 14', 'text': 'Edward Jenner administers the first smallpox vaccination.', 'self': False, 'pos': 'NP'}
+1796*{'date': 'May 15', 'text': "Napoleon's troops take Milan.", 'self': False, 'pos': 'NP'}
+1796*{'date': 'May 20', 'text': 'The last mock Garrat Elections are held in Surrey, England.', 'self': False, 'pos': 'DET'}
+1796*{'date': 'June 1', 'text': 'Tennessee is admitted as the 16th U.S. state.', 'self': False, 'pos': 'NP'}
+1796*{'date': 'July 10', 'text': 'Carl Friedrich Gauss discovers that every positive integer is representable as a sum of at most 3 triangular numbers.', 'self': False, 'pos': 'NP'}
+1796*{'date': 'July 11', 'text': 'The United States takes possession of Detroit from Great Britain under the terms of the Jay Treaty.', 'self': False, 'pos': 'DET'}
+1796*{'date': 'July 21', 'text': 'Mungo Park reaches Ségou, the capital of the Bamana Empire.', 'self': False, 'pos': 'NP'}
+1796*{'date': 'September 17', 'text': 'U.S. President George Washington issues his Farewell Address, which warns against partisan politics and foreign entanglements.', 'self': False, 'pos': 'NP'}
+1796*{'date': 'November 3', 'text': 'John Adams defeats Thomas Jefferson in the U.S. presidential election.', 'self': False, 'pos': 'NP'}
+1796*{'date': 'November 4', 'text': 'The Treaty of Tripoli (between the United States and Tripoli) is signed at Tripoli (see also 1797).', 'self': False, 'pos': 'DET'}
+1796*{'text': 'November 6 (O.S.', 'self': False, 'pos': 'NP'}
+1796*{'date': 'December 7', 'text': 'The U.S.', 'self': False, 'pos': 'DET'}
+1796*{'text': 'Jane Austen writes her first draft of Pride and Prejudice, under the title First Impressions.', 'self': False, 'pos': 'NP'}
+1796*{'text': "Robert Burns' version of the Scots poem Auld Lang Syne is first published, in this year's volume of The Scots Musical Museum.", 'self': False, 'pos': 'NP'}
+1796*{'text': 'The British government purchases a 40-acre (162,000\xa0m²) site at Norman Cross for the first purpose-built prisoner of war camp in Britain.', 'self': False, 'pos': 'DET'}
+1796*{'text': 'The British seize Ceylon from the Dutch.', 'self': False, 'pos': 'DET'}
+1795*{'date': 'January 14', 'text': 'The University of North Carolina (renamed The University of North Carolina at Chapel Hill in 1963) opens to students, becoming the first state university in the United States.', 'self': False, 'pos': 'DET'}
+1795*{'date': 'January 16', 'text': 'The French occupy Utrecht, Netherlands.', 'self': False, 'pos': 'DET'}
+1795*{'date': 'January 19', 'text': 'The Batavian Republic is proclaimed.', 'self': False, 'pos': 'DET'}
+1795*{'date': 'January 21', 'text': 'The Dutch fleet, frozen in IJsselmeer, is captured by the French 8th Hussars.', 'self': False, 'pos': 'DET'}
+1795*{'date': 'February 7', 'text': 'The 11th Amendment to the United States Constitution is passed.', 'self': False, 'pos': 'DET'}
+1795*{'date': 'April 7', 'text': 'France adopts the metre as the unit of length.', 'self': False, 'pos': 'NP'}
+1795*{'date': 'April 8', 'text': 'George, Prince of Wales marries Caroline of Brunswick.', 'self': False, 'pos': 'NP'}
+1795*{'date': 'May–June', 'text': 'The Battle of Richmond Hill is fought in the colony of New South Wales, between the Darug people and British colonial forces.', 'self': False, 'pos': 'DET'}
+1795*{'date': 'June 5', 'text': 'The Copenhagen fire of 1795 starts in a naval warehouse.', 'self': True, 'pos': 'DET'}
+1795*{'date': 'June 7', 'text': 'The Copenhagen fire of 1795 dies out after destroying 941 houses.', 'self': True, 'pos': 'DET'}
+1795*{'date': 'June 8', 'text': 'The Dauphin, would-be-Louis XVII, dies.', 'self': False, 'pos': 'DET'}
+1795*{'date': 'June 28', 'text': 'The French government announces that the heir to the French throne has died of illness (many doubt the statement).', 'self': False, 'pos': 'DET'}
+1795*{'text': 'Mary Robinson writes the poem January, 1795.', 'self': True, 'pos': 'NP'}
+1795*{'date': 'August 3', 'text': 'The signature of the Treaty of Greenville puts an end to the Northwest Indian War.', 'self': False, 'pos': 'DET'}
+1795*{'date': 'September 11', 'text': 'Battle of Krtsanisi.', 'self': False, 'pos': 'NP'}
+1795*{'date': 'October 5', 'text': 'Royalist riots in Paris are crushed by troops under Paul Barras and newly reinstalled artillery officer Napoleon Bonaparte.', 'self': False, 'pos': 'NP'}
+1795*{'date': 'October 24', 'text': 'The Third Partition of Poland is made.', 'self': False, 'pos': 'DET'}
+1795*{'date': 'October 27', 'text': 'The United States and Spain sign the Treaty of Madrid, which establishes the boundaries between Spanish colonies and the United States.', 'self': False, 'pos': 'DET'}
+1795*{'date': 'December 13', 'text': 'A meteorite falls at Wold Newton, a hamlet in Yorkshire in England.', 'self': False, 'pos': 'DET'}
+1795*{'text': 'Sweden becomes the first monarchy to recognize the French Republic.', 'self': False, 'pos': 'NP'}
+1795*{'text': "The Hudson's Bay Company trading post Fort Edmonton is constructed; the city of Edmonton, Alberta eventually grows from it.", 'self': False, 'pos': 'DET'}
+1795*{'text': 'The harvest fails in Munich.', 'self': False, 'pos': 'DET'}
+1795*{'text': 'A large slave rebellion occurs in Curaçao.', 'self': False, 'pos': 'DET'}
+1795*{'text': 'Spain cedes its half of Hispaniola to France.', 'self': False, 'pos': 'NP'}
+1795*{'text': 'Daniel McGinnis discovers the famed money pit on Oak Island, Nova Scotia.', 'self': False, 'pos': 'NP'}
+1794*{'date': 'February 4', 'text': 'The French Republic abolishes slavery.', 'self': False, 'pos': 'DET'}
+1794*{'date': 'February 11', 'text': 'The first session of the United States Senate is open to the public.', 'self': False, 'pos': 'DET'}
+1794*{'date': 'March 11', 'text': 'Canonsburg Academy (now Washington & Jefferson College) was chartered by the General Assembly on March 11, 1794.', 'self': True, 'pos': 'NP'}
+1794*{'date': 'March 14', 'text': 'Eli Whitney is granted a patent for the cotton gin.', 'self': False, 'pos': 'NP'}
+1794*{'date': 'March 27', 'text': "The United States Government authorizes the building of the first 6 United States Navy vessels (in 1797 the first 3 frigates, USS United States, USS Constellation and USS Constitution go into service), not to be confused with October 13, 1775 which is observed as the Navy's Birthday.", 'self': False, 'pos': 'DET'}
+1794*{'date': 'July 12', 'text': 'Horatio Nelson loses the sight in his right eye at Calvi in Corsica.', 'self': False, 'pos': 'NP'}
+1794*{'date': 'September 10', 'text': 'The University of Tennessee is established at Knoxville.', 'self': False, 'pos': 'DET'}
+1794*{'date': 'October', 'text': 'A Federal army quells the Whiskey Rebellion in the United States.', 'self': False, 'pos': 'DET'}
+1794*{'date': 'November 14', 'text': 'The first recorded meeting of the Franklin Literary Society was held at Canonsburg Academy (now Washington & Jefferson College).', 'self': False, 'pos': 'DET'}
+1794*{'text': 'Coffee is forbidden by royal decree in Sweden.', 'self': False, 'pos': 'NP'}
+1794*{'text': 'France occupies Aachen.', 'self': False, 'pos': 'NP'}
+1794*{'text': "The Ayrshire (Earl of Carrick's Own) Yeomanry, a British Yeomanry Cavalry Regiment, is formed by the Earl of Cassillis at Culzean Castle, Ayrshire.", 'self': False, 'pos': 'DET'}
+1794*{'text': 'The Reign of Terror ends.', 'self': False, 'pos': 'DET'}
+1794*{'text': 'Britain agrees to evacuate border forts in the Northwest Territory (roughly the area north of the Ohio River and east of the Mississippi) and thereby end British support for the Indians.', 'self': False, 'pos': 'NP'}
+1794*{'text': 'Bowdoin College is founded.', 'self': False, 'pos': 'NP'}
+1794*{'text': 'The Oban Distillery is built.', 'self': False, 'pos': 'DET'}
+1701*{'date': 'January 18', 'text': 'The electorate of Brandenburg-Prussia becomes the Kingdom of Prussia as Elector Frederick III is proclaimed King Frederick I. Prussia remains part of the Holy Roman Empire.', 'self': False, 'pos': 'DET'}
+1701*{'date': 'March', 'text': 'The War of the Spanish Succession begins.', 'self': False, 'pos': 'DET'}
+1701*{'date': 'June 24', 'text': 'The Act of Settlement 1701 is passed by the Parliament of England to exclude the Catholic Stuarts from the British monarchy.', 'self': True, 'pos': 'DET'}
+1701*{'date': 'August 4', 'text': 'The Great Peace of Montreal was signed, ending 100 years of war between the Iroquois Confederacy and New France and its Huron and Algonquian allies.', 'self': False, 'pos': 'DET'}
+1701*{'date': 'October 9', 'text': 'The Collegiate School of Connecticut (later renamed Yale University) is chartered in Old Saybrook, Connecticut.', 'self': False, 'pos': 'DET'}
+1701*{'text': 'The Philharmonic Society (Academia philharmonicorum) is established in Ljubljana, Slovenia.', 'self': False, 'pos': 'DET'}
+1701*{'text': 'Jethro Tull (agriculturist) invented a drill for planting seeds in rows.', 'self': False, 'pos': 'NP'}
+1701*{'text': "Pierre Antoine Motteux's English translation of the novel Don Quixote is first published.", 'self': False, 'pos': 'NP'}
+1701*{'text': 'Robert Walpole enters Parliament and soon makes his name as a spokesman for Whig policy.', 'self': False, 'pos': 'NP'}
+1702*{'text': 'March 8 (O.S.', 'self': False, 'pos': 'NP'}
+1702*{'text': 'March 11 (O.S.', 'self': False, 'pos': 'NP'}
+1702*{'date': 'May', 'text': 'Warsaw is conquered by Charles XII of Sweden.', 'self': False, 'pos': 'NP'}
+1702*{'date': 'May 4–May 14', 'text': 'The War of the Spanish Succession widens, as war is declared on France by the Grand Alliance.', 'self': False, 'pos': 'DET'}
+1702*{'date': 'June', 'text': "Queen Anne's Captain-General John Churchill forces the surrender of Kaiserswerth on the Rhine.", 'self': False, 'pos': 'NP'}
+1702*{'date': 'September', 'text': 'Churchill forces the surrender of Venlo on the Meuse River.', 'self': False, 'pos': 'NP'}
+1702*{'text': 'Sir George Rooke fails to take Cádiz, but captures a Spanish treasure fleet and destroys French and Spanish warships.', 'self': False, 'pos': 'NP'}
+1702*{'date': 'December 14', 'text': 'John Churchill is created duke of Marlborough.', 'self': False, 'pos': 'NP'}
+1702*{'date': 'December 30', 'text': 'Siege of St. Augustine lifted.', 'self': False, 'pos': 'NP'}
+1702*{'text': 'Delaware designated a separate colony.', 'self': False, 'pos': 'NP'}
+1703*{'date': 'January 14', 'text': 'An earthquake hits Norcia, Italy.', 'self': False, 'pos': 'DET'}
+1703*{'date': 'February 2', 'text': "An earthquake hits the town of L'Aquila, Italy.", 'self': False, 'pos': 'DET'}
+1703*{'date': 'April 21', 'text': 'The Company of Quenching of Fire (i.e., a fire brigade) is founded in Edinburgh, Scotland.', 'self': False, 'pos': 'DET'}
+1703*{'date': 'May 27', 'text': 'The city of Saint Petersburg is founded in Russia.', 'self': False, 'pos': 'DET'}
+1703*{'date': 'May 26', 'text': 'Portugal joins the Grand Alliance.', 'self': False, 'pos': 'NP'}
+1703*{'date': 'June', 'text': 'The completed Icelandic census of 1703 is presented in the Althing.', 'self': True, 'pos': 'DET'}
+1703*{'date': 'July 29–July 31', 'text': 'Daniel Defoe is placed in a pillory, then imprisoned for four months for the crime of seditious libel, after publishing a politically satirical pamphlet (his release is granted in mid-November).', 'self': False, 'pos': 'NP'}
+1703*{'date': 'August 23', 'text': 'Mustafa II of the Ottoman (Turkish) Empire dethroned (Edirne event).', 'self': False, 'pos': 'NP'}
+1703*{'date': 'October', 'text': 'A whirlwind blows down the tower of the Gan Takal in Gondar, capital of Ethiopia, killing 30.', 'self': False, 'pos': 'DET'}
+1703*{'date': 'November 19', 'text': 'The Man in the Iron Mask dies in the Bastille.', 'self': False, 'pos': 'DET'}
+1703*{'date': 'November 24–December 2', 'text': 'The Great Storm of 1703, an Atlantic hurricane, ravages southern England and the English Channel, killing nearly 8,000, mostly at sea.', 'self': True, 'pos': 'DET'}
+1703*{'date': 'December 27', 'text': 'Portugal and England sign the Methuen Treaty, which gives preference to Portuguese wines imported into England.', 'self': False, 'pos': 'NP'}
+1703*{'date': 'December 28', 'text': 'Ahmed III succeeds Mustafa II as Ottoman Emperor.', 'self': False, 'pos': 'NP'}
+1703*{'text': 'George Psalmanazar arrives in London.', 'self': False, 'pos': 'NP'}
+1703*{'text': 'Isaac Newton becomes the chairman of the Royal Society.', 'self': False, 'pos': 'NP'}
+1703*{'text': 'The Hungarians rebel under Prince Francis II Rákóczi.', 'self': False, 'pos': 'DET'}
+1704*{'date': 'April 24', 'text': 'The first regular newspaper in British North America, The Boston News-Letter, is published.', 'self': False, 'pos': 'DET'}
+1704*{'text': 'A Tale of a Tub, the first major satire by Jonathan Swift, is published.', 'self': False, 'pos': 'DET'}
+1704*{'text': 'Isaac Newton publishes his Opticks.', 'self': False, 'pos': 'NP'}
+1704*{'text': "The Students' Monument is built in Aiud, Romania.", 'self': False, 'pos': 'DET'}
+1704*{'text': 'The Sultanate of Brunei cedes its north-east territories to the Sultanate of Sulu.', 'self': False, 'pos': 'DET'}
+1704*{'text': 'The lower 3 counties of the Province of Pennsylvania become the colony of Delaware.', 'self': False, 'pos': 'DET'}
+1704*{'text': 'An earthquake strikes Gondar, Ethiopia.', 'self': False, 'pos': 'DET'}
+1704*{'text': 'Daniel Defoe documents the Great Storm of 1703 with eyewitness testimonies in The Storm (1704).', 'self': True, 'pos': 'NP'}
+1704*{'text': 'Rome decrees that Roman ceremonial practice in Latin (not in Chinese) is to be the law for Chinese missions.', 'self': False, 'pos': 'NP'}
+1704*{'text': 'Thomas Darley purchases the bay Arabian horse Darley Arabian in Aleppo, Syria, and ships him to stud in England where he becomes the most important foundation sire of all modern thoroughbred racing bloodstock.', 'self': False, 'pos': 'NP'}
+1705*{'date': 'March 8', 'text': 'The Province of Carolina incorporates the town of Bath, making it the first incorporated town in present day North Carolina.', 'self': False, 'pos': 'DET'}
+1705*{'date': 'May 5', 'text': 'Joseph I, Holy Roman Emperor succeeds his father Leopold I.', 'self': False, 'pos': 'NP'}
+1705*{'date': 'November 5', 'text': 'The Dublin Gazette publishes its first edition.', 'self': False, 'pos': 'DET'}
+1705*{'date': 'December', 'text': 'The Sophia Naturalization Act is passed by the English Parliament, which naturalizes Sophia of Hanover and the "issue of her body" as English subjects.', 'self': False, 'pos': 'DET'}
+1705*{'text': 'Taichung City, Taiwan is founded as the village of Dadun.', 'self': False, 'pos': 'NP'}
+1705*{'text': 'The Shogunate confiscates the property of a merchant in Osaka "for conduct unbecoming a member of the commercial class".', 'self': False, 'pos': 'DET'}
+1707*{'date': 'January 1', 'text': 'John V is crowned King of Portugal.', 'self': False, 'pos': 'NP'}
+1707*{'date': 'January 16', 'text': 'The Treaty (or Act) of Union of the two Kingdoms of Scotland and England is ratified by the Scottish Parliament.', 'self': False, 'pos': 'DET'}
+1707*{'date': 'March 19', 'text': 'The Act of Union with Scotland is ratified by the English Parliament.', 'self': False, 'pos': 'DET'}
+1707*{'date': 'May 1', 'text': 'The Acts of Union become law, uniting the Parliaments of the Kingdom of England and Kingdom of Scotland to form the Parliament of the Kingdom of Great Britain.', 'self': False, 'pos': 'DET'}
+1707*{'date': 'April 25', 'text': 'The Allied army is defeated by the Bourbon army at Almanza, Spain, in the War of the Spanish Succession.', 'self': False, 'pos': 'DET'}
+1707*{'date': 'October 23', 'text': 'The Parliament of the Kingdom of Great Britain first meets in London.', 'self': False, 'pos': 'DET'}
+1707*{'date': 'December 16', 'text': 'The last recorded eruption of Mount Fuji begins in Japan.', 'self': False, 'pos': 'DET'}
+1707*{'date': 'December 24', 'text': 'The first British Governor of Gibraltar, directly appointed by Queen Anne, Roger Elliott, takes up his residence in the Convent of the Franciscan Friars.', 'self': False, 'pos': 'DET'}
+1707*{'date': 'December', 'text': 'Charles XII of Sweden launches his campaign to conquer Russia, marching to the east from Leipzig with 60,000 coalition troops.', 'self': False, 'pos': 'NP'}
+1707*{'text': 'A fortress is founded on the future site of Ust-Abakanskoye (modern Abakan).', 'self': False, 'pos': 'DET'}
+1707*{'text': 'The Lao empire of Lan Xang officially ends and splits into the kingdoms of Vientiane, Luang Prabang, and Champasak.', 'self': False, 'pos': 'DET'}
+1707*{'text': 'Hacienda Juriquilla is built in Queretaro, Mexico.', 'self': False, 'pos': 'NP'}
+1708*{'date': 'March 11', 'text': 'Queen Anne withholds Royal Assent from the Scottish Militia Bill, the last time a British monarch vetoes legislation.', 'self': False, 'pos': 'NP'}
+1708*{'date': 'March 23', 'text': 'James Francis Edward Stuart unsuccessfully tries to land at the Firth of Forth.', 'self': False, 'pos': 'NP'}
+1708*{'date': 'July 1', 'text': 'Tewoflos becomes Emperor of Ethiopia.', 'self': False, 'pos': 'NP'}
+1708*{'date': 'August', 'text': 'The future Charles VI, Holy Roman Emperor weds Elisabeth Christine of Brunswick-Wolfenbüttel.', 'self': False, 'pos': 'DET'}
+1708*{'date': 'August 23', 'text': 'Meidingu Pamheiba is crowned King of Manipur.', 'self': False, 'pos': 'NP'}
+1708*{'date': 'August 29', 'text': 'A native American attack in Haverhill, Massachusetts kills 16 settlers.', 'self': False, 'pos': 'DET'}
+1708*{'text': 'Kandahar is conquered by Mir Wais.', 'self': False, 'pos': 'NP'}
+1708*{'text': 'Johann Sebastian Bach is appointed as chamber musician and organist at the court in Weimar, Germany.', 'self': False, 'pos': 'NP'}
+1708*{'text': 'Fearful of a Swedish attack, the Russians blow up the city of Tartu in Estonia.', 'self': False, 'pos': 'NP'}
+1708*{'text': 'Merger (with consent of the Parliament of Great Britain) of the Company of Merchants of London Trading into the East Indies and the more recently established English Company Trading to the East Indies to form the United Company of Merchants of England Trading to the East Indies, known as the Honourable East India Company.', 'self': False, 'pos': 'NP'}
+1709*{'date': 'January 6', 'text': "Europe's coldest period in 500 years begins during the night, lasting three months and with its effects felt for the entire year.", 'self': False, 'pos': 'NP'}
+1709*{'date': 'January 10', 'text': 'Abraham Darby I successfully produces cast iron using coke fuel at his Coalbrookdale blast furnace in Shropshire, England.', 'self': False, 'pos': 'NP'}
+1709*{'date': 'February 2', 'text': 'Alexander Selkirk is rescued from shipwreck on a desert island, inspiring the book Robinson Crusoe by Daniel Defoe.', 'self': False, 'pos': 'NP'}
+1709*{'date': 'July 27', 'text': 'Emperor Nakamikado accedes to the throne of Japan.', 'self': False, 'pos': 'NP'}
+1709*{'date': 'August 8', 'text': 'The hot air balloon of Bartolomeu de Gusmão flies in Portugal.', 'self': False, 'pos': 'DET'}
+1709*{'date': 'October 12', 'text': 'The City of Chihuahua, México is founded.', 'self': False, 'pos': 'DET'}
+1709*{'text': 'Trinity School is founded as the Charity School of Trinity Church in New York City.', 'self': False, 'pos': 'NP'}
+1709*{'text': 'De Nostri Temporis Studiorum Rationae (On the Study Methods of Our Times) is published by Neapolitan philosopher Giambattista Vico.', 'self': False, 'pos': 'NP'}
+1713*{'date': 'February 25', 'text': 'Frederick William I of Prussia begins his reign.', 'self': False, 'pos': 'NP'}
+1713*{'date': 'March 27', 'text': 'First Treaty of Utrecht between Britain and Spain.', 'self': False, 'pos': 'NP'}
+1713*{'date': 'April 14', 'text': "First performance, in London, of Thomas Addison's libertarian play Cato, a Tragedy, which will be influential on both sides of the Atlantic.", 'self': False, 'pos': 'NP'}
+1713*{'text': 'June 1 (approx.', 'self': False, 'pos': 'NP'}
+1713*{'date': 'July 13', 'text': "The Treaty of Portsmouth brings an end to Queen Anne's War.", 'self': False, 'pos': 'DET'}
+1712*{'date': 'February', 'text': 'Sweden temporarily adopts February 30 as a day to adjust the Swedish Calendar back to the Julian calendar.', 'self': False, 'pos': 'NP'}
+1712*{'text': 'The Treaty of Aargau is signed by Catholics and Protestants, introducing the Protestant faith into Switzerland.', 'self': False, 'pos': 'DET'}
+1712*{'text': 'The first known working Newcomen steam engine is built by Thomas Newcomen with John Calley to pump water out of mines in the Black Country of England, the first practical device to harness the power of steam to produce mechanical work.', 'self': False, 'pos': 'DET'}
+1712*{'text': 'The VOC Zuytdorp is wrecked off the coast of Western Australia.', 'self': False, 'pos': 'DET'}
+1712*{'text': 'John Arbuthnot creates the character of John Bull to represent Britain.', 'self': False, 'pos': 'NP'}
+1711*{'date': 'February 24', 'text': 'Rinaldo by George Frideric Handel, the first Italian opera written for the London stage, premieres in that city.', 'self': False, 'pos': 'NP'}
+1711*{'date': 'April 30', 'text': 'Treaty of Szatmár.', 'self': False, 'pos': 'NP'}
+1711*{'date': 'July 21', 'text': 'Treaty of the Pruth.', 'self': False, 'pos': 'NP'}
+1711*{'date': 'September 10', 'text': 'John Lawson, Christoph von Graffenried, 2 African American slaves and 2 Native Americans leave on an exploration expedition from New Bern, and travel north by canoe up the Neuse River (this event has also been dated September 12, 1711).', 'self': True, 'pos': 'NP'}
+1711*{'date': 'September 14', 'text': 'Tuscarora natives capture John Lawson, Christoph von Graffenried and their expeditionary party and bring them to Catechna (approximate date).', 'self': False, 'pos': 'NP'}
+1711*{'date': 'September 16', 'text': 'Tuscarora natives kill John Lawson.', 'self': False, 'pos': 'NP'}
+1711*{'text': 'Alexander Pope publishes An Essay on Criticism.', 'self': False, 'pos': 'NP'}
+1711*{'text': 'John Shore invents the tuning fork.', 'self': False, 'pos': 'NP'}
+1711*{'text': 'South Sea Company founded.', 'self': False, 'pos': 'NP'}
+1710*{'date': 'April 10', 'text': "The world's first copyright legislation, Britain's Statute of Anne, becomes effective.", 'self': False, 'pos': 'DET'}
+1710*{'date': 'June 8', 'text': 'The Tuscarora nation sends a petition to the Province of Pennsylvania, protesting the seizure of their lands and enslavement of their people by citizens of the Province of Carolina.', 'self': False, 'pos': 'DET'}
+1710*{'text': "St. Francis Abbey Brewery, Kilkenny, Ireland is founded by John Smithwick, the home of Smithwick's Ale.", 'self': False, 'pos': 'NP'}
+1717*{'date': 'January 4', 'text': 'The Netherlands, Britain & France sign the Triple Alliance.', 'self': False, 'pos': 'DET'}
+1717*{'date': 'February 1', 'text': "The Silent Sejm, in the Polish-Lithuanian Commonwealth, marks the beginning of the Russian Empire's increasing influence and control over the Commonwealth.", 'self': False, 'pos': 'DET'}
+1717*{'date': 'March 31', 'text': 'Bishop Benjamin Hoadly, acting on the advice of King George, begins the Bangorian Controversy by saying that God favors churches with no government.', 'self': False, 'pos': 'NP'}
+1717*{'date': 'April 26', 'text': 'The Whydah Gally, flagship of "Black Sam" Bellamy, is wrecked in a storm off Wellfleet, Massachusetts.', 'self': False, 'pos': 'DET'}
+1717*{'date': 'June 24', 'text': "The Premier Grand Lodge of England, the 'Modern' and first Free-Masonic Grand Lodge (which later merges with the Ancient Grand Lodge of England in 1813 to form the United Grand Lodge of England), is founded in London, England.", 'self': False, 'pos': 'DET'}
+1717*{'date': 'September', 'text': 'The first known Druid revival ceremony is held by John Toland at Primrose Hill, in London, at the Autumnal Equinox, to found the Mother Grove, what is later to become the Ancient Order of Druids (AOD).', 'self': False, 'pos': 'DET'}
+1717*{'date': 'September 29', 'text': 'A 7.4 magnitude earthquake strikes Antigua Guatemala, destroying much of the city and making authorities consider moving the capital of Guatemala to a different city.', 'self': False, 'pos': 'DET'}
+1717*{'date': 'December', 'text': 'Blackbeard teams up with Stede Bonnet but later takes his ship and demotes Bonnet to guest.', 'self': False, 'pos': 'NP'}
+1717*{'date': 'December 24–December 25', 'text': 'A disastrous flood hits the North Sea coast between the Netherlands and Denmark; thousands die or lose their houses.', 'self': False, 'pos': 'DET'}
+1716*{'date': 'January 27', 'text': 'The Tugaloo Massacre changes the course of the Yamasee War.', 'self': False, 'pos': 'DET'}
+1716*{'date': 'February 10', 'text': 'James Edward Stuart flees from Scotland to France with a handful of supporters following failure of the Jacobite Rebellion.', 'self': False, 'pos': 'NP'}
+1716*{'date': 'May', 'text': 'John Law founds the Banque de France.', 'self': False, 'pos': 'NP'}
+1716*{'date': 'May 28', 'text': 'John Churchill, 1st Duke of Marlborough, suffers a paralytic stroke.', 'self': False, 'pos': 'NP'}
+1716*{'date': 'August 24', 'text': 'Charles VII, Holy Roman Emperor, returns from Italy.', 'self': False, 'pos': 'NP'}
+1716*{'date': 'November 9', 'text': 'Caroline of Ansbach, Princess of Wales, gives birth to a stillborn son.', 'self': False, 'pos': 'NP'}
+1716*{'date': 'December 12', 'text': 'Charles Townshend, 2nd Viscount Townshend, is demoted from his office as Secretary of State for the Northern Department in the British government and replaced by James Stanhope, 1st Earl Stanhope.', 'self': False, 'pos': 'NP'}
+1716*{'text': 'Pirate Blackbeard (Edward Teach) raids shipping in the Caribbean.', 'self': False, 'pos': 'NP'}
+1716*{'text': 'Natchez, one of the oldest towns on the Mississippi, is founded.', 'self': False, 'pos': 'NP'}
+1716*{'text': 'The town of Crieff, Scotland, is burned to the ground by Jacobites returning from the Battle of Sheriffmuir.', 'self': False, 'pos': 'DET'}
+1716*{'text': 'A fire in Wapping, England destroys 150 houses.', 'self': False, 'pos': 'DET'}
+1716*{'text': 'Tsar Peter the Great of Russia studies with the physician Herman Boerhaave at Leiden University.', 'self': False, 'pos': 'NP'}
+1716*{'text': 'The Kangxi Dictionary is published, laying the foundation of most references to Han characters studied today.', 'self': False, 'pos': 'DET'}
+1715*{'date': 'May 3', 'text': 'A total solar eclipse is seen across southern England, Sweden and Finland (the last total eclipse visible in London, UK for almost 900 years).', 'self': False, 'pos': 'DET'}
+1715*{'date': 'July 24', 'text': 'A Spanish treasure fleet of 10 ships under General Don Juan Ubilla leaves Havana, Cuba for Spain.', 'self': False, 'pos': 'DET'}
+1715*{'date': 'September', 'text': 'The first of the major Jacobite Rebellions in Scotland against the rule of King George I breaks out.', 'self': False, 'pos': 'DET'}
+1715*{'date': 'November 13', 'text': 'The indecisive Battle of Sheriffmuir during the Jacobite rising in Scotland.', 'self': False, 'pos': 'DET'}
+1715*{'text': 'The Province of Carolina goes to war with the Yamasee Native Americans.', 'self': False, 'pos': 'DET'}
+1715*{'text': 'Karlsruhe Palace is built, resulting in the town of Karlsruhe growing up around it.', 'self': False, 'pos': 'NP'}
+1715*{'text': 'The ancient right to evaluate royal decrees publicly before they are given the force of law by the high court of Paris (the Parlement) is restored.', 'self': False, 'pos': 'DET'}
+1714*{'date': 'May 19', 'text': 'Queen Anne of Great Britain refuses to allow members of the House of Hanover to settle in Britain during her lifetime.', 'self': False, 'pos': 'NP'}
+1714*{'date': 'July', 'text': 'The British Parliament votes "to offer a reward (£10,000 for any method capable of determining a ship\'s longitude within 1 degree; £15,000, within 40 minutes, and £20,000 within 1/2 a degree) "for such person or persons as shall discover the Longitude.', 'self': False, 'pos': 'DET'}
+1714*{'date': 'August 1', 'text': 'George, elector of Hanover becomes King George I of Great Britain.', 'self': False, 'pos': 'NP'}
+1714*{'date': 'September 9', 'text': 'The Ottoman Empire declares war on Venice.', 'self': False, 'pos': 'DET'}
+1714*{'text': "Archbishop Tenison's School is established by Thomas Tenison in Croydon, south of London, England.", 'self': False, 'pos': 'NP'}
+1714*{'text': 'The Duchy of Savoy and Piedmont becomes the Kingdom of Sardinia.', 'self': False, 'pos': 'DET'}
+1714*{'text': 'Louis Juchereau de St. Denis establishes Fort St. Jean Baptiste at the site of present day Natchitoches, Louisiana (the first permanent European settlement in the Louisiana Territory, after Biloxi (1699) and Mobile, Alabama (1702) were separated).', 'self': False, 'pos': 'NP'}
+1714*{'text': 'Worcester College, University of Oxford is founded (formerly Gloucester College, closed during the Dissolution of the Monasteries).', 'self': False, 'pos': 'NP'}
+1714*{'text': 'Stockholm County founded.', 'self': False, 'pos': 'NP'}
+1719*{'date': 'January 23', 'text': 'The Principality of Liechtenstein is created within the Holy Roman Empire.', 'self': False, 'pos': 'DET'}
+1719*{'date': 'February 20', 'text': 'The first Treaty of Stockholm is signed.', 'self': False, 'pos': 'DET'}
+1719*{'date': 'April 25', 'text': 'Daniel Defoe publishes Robinson Crusoe.', 'self': False, 'pos': 'NP'}
+1719*{'date': 'December 22', 'text': "Andrew Bradford publishes the American Weekly Mercury, Pennsylvania's first newspaper.", 'self': False, 'pos': 'NP'}
+1719*{'text': "Prussia conducts Europe's first systematic census.", 'self': False, 'pos': 'NP'}
+1719*{'text': "Raine's Foundation School, Bethnal Green, opens in Wapping (opened by Henry Raine).", 'self': False, 'pos': 'NP'}
+1718*{'date': 'January', 'text': 'France declares war on Spain, leading to the 2-year War of the Quadruple Alliance.', 'self': False, 'pos': 'NP'}
+1718*{'date': 'January 19', 'text': 'Lady Mary Wortley Montagu gives birth to a daughter.', 'self': False, 'pos': 'NP'}
+1718*{'date': 'May', 'text': 'Blackbeard leads 400 sailors in 4 ships to blockade the port of Charleston, South Carolina.', 'self': False, 'pos': 'NP'}
+1718*{'date': 'May 7', 'text': 'New Orleans, Louisiana, is founded.', 'self': False, 'pos': 'NP'}
+1718*{'date': 'June', 'text': 'Blackbeard and Bonnet take refuge in Bath, North Carolina, where Governor Charles Eden pardons them and their crew.', 'self': False, 'pos': 'NP'}
+1718*{'date': 'July 21', 'text': 'The Treaty of Passarowitz is signed.', 'self': False, 'pos': 'DET'}
+1718*{'date': 'October', 'text': 'Stede Bonnet and his crew are captured near the mouth of the Cape Fear River and taken to Charleston, South Carolina, where they are tried for piracy.', 'self': False, 'pos': 'NP'}
+1718*{'date': 'October 24', 'text': 'Stede Bonnet escapes from prison.', 'self': False, 'pos': 'NP'}
+1718*{'date': 'December 10', 'text': 'Stede Bonnet is hanged at Charleston after being recaptured.', 'self': False, 'pos': 'NP'}
+1718*{'date': 'December 17', 'text': 'Austria, Great Britain, and France declare war on Spain, launching the War of the Quadruple Alliance.', 'self': False, 'pos': 'NP'}
+1718*{'text': 'The Funj warrior aristocracy deposes the reigning mek and places one of their own ranks on the throne of Sennar (History of Sudan).', 'self': False, 'pos': 'DET'}
+1718*{'text': 'The white potato reaches New England from England.', 'self': False, 'pos': 'DET'}
+1718*{'text': 'Austria completes its conquest of Hungary, formerly a part of the Ottoman Empire.', 'self': False, 'pos': 'NP'}
+1728*{'date': 'May 18', 'text': 'Peter II succeeds Catherine I as Tsar of Russia.', 'self': False, 'pos': 'NP'}
+1728*{'date': 'July 14–August 14', 'text': 'Vitus Bering sails northward from the Kamchatka Peninsula, through the Bering Strait, and round Cape Dezhnev.', 'self': False, 'pos': 'NP'}
+1728*{'date': 'Late Summer', 'text': 'Voltaire ends his exile in England.', 'self': False, 'pos': 'NP'}
+1728*{'date': 'October 20–October 23', 'text': "The Copenhagen Fire of 1728 (the largest in the city's history) burns.", 'self': True, 'pos': 'DET'}
+1728*{'text': 'The city of Godthåb is founded in Greenland by the Danish-Norwegian missionary Hans Egede.', 'self': False, 'pos': 'DET'}
+1728*{'text': "The English astronomer James Bradley uses stellar aberration (first observed in 1725) to calculate the speed of light and observes nutation of the Earth's axis.", 'self': False, 'pos': 'DET'}
+1728*{'text': 'The Real y Pontificia Universidad de San Gerónimo de la Habana, the oldest university in Cuba, is founded in Havana.', 'self': False, 'pos': 'DET'}
+1728*{'text': 'Frederick, Prince of Wales, son of King George II of Great Britain, arrives in Britain for the first time, aged 21.', 'self': False, 'pos': 'NP'}
+1728*{'text': 'The Meerkat–Mongoose war.', 'self': False, 'pos': 'DET'}
+1729*{'text': "March 23 Premiere performance of Johann Sebastian Bach's First Köthen Funeral music at the St. James Church, Köthen in the evening in honor of the Funeral of his former employer Leopold, Prince of Anhalt-Köthen.", 'self': False, 'pos': 'NP'}
+1729*{'text': "March 24 Premiere performance of Johann Sebastian Bach's Funeral cantata Klagt, Kinder, klagt es aller Welt, BWV 244a before midday at the St. James Church, Köthen (for the same event as above).", 'self': False, 'pos': 'NP'}
+1729*{'text': "April 15 Repeat performance of Johann Sebastian Bach's St Matthew Passion BWV 244b at the St. Thomas Church, Leipzig.", 'self': False, 'pos': 'NP'}
+1729*{'date': 'July 30', 'text': 'Baltimore, Maryland is founded.', 'self': False, 'pos': 'NP'}
+1729*{'date': 'August 1', 'text': 'The Comet of 1729, possibly the largest comet on record, was discovered by Nicolas Sarabat.', 'self': True, 'pos': 'DET'}
+1729*{'date': 'November 9', 'text': 'The Treaty of Seville is signed between Great Britain, France, Spain and the Dutch Republic.', 'self': False, 'pos': 'DET'}
+1729*{'date': 'November 28', 'text': 'The worst Indian massacre to take place on Mississippi soil occurs when Natchez Indians kill 138 Frenchmen, 35 French women, and 56 children at Fort Rosalie (near modern-day Natchez, Mississippi).', 'self': False, 'pos': 'DET'}
+1729*{'text': 'The third oldest settlement in Mississippi, Port Gibson, is founded.', 'self': False, 'pos': 'DET'}
+1729*{'text': 'A fire in Istanbul destroys 12,000 houses and kills 7,000 inhabitants.', 'self': False, 'pos': 'DET'}
+1729*{'text': 'Jonathan Swift publishes A Modest Proposal.', 'self': False, 'pos': 'NP'}
+1729*{'text': 'Putney Bridge was built.', 'self': False, 'pos': 'NP'}
+1726*{'date': 'April 15', 'text': 'Isaac Newton tells William Stukeley the story of how he developed his theory of gravity.', 'self': False, 'pos': 'NP'}
+1726*{'date': 'May 1', 'text': 'Voltaire begins exile in England.', 'self': False, 'pos': 'NP'}
+1726*{'date': 'July 11', 'text': 'André-Hercule Cardinal de Fleury, recalled from exile by King Louis XV of France, banishes Louis Henri, Duc de Bourbon, and Madame de Prie from court.', 'self': False, 'pos': 'NP'}
+1726*{'date': 'August 7', 'text': 'Pirate Nicholas Brown captured near Xtabi, Jamaica.', 'self': False, 'pos': 'NP'}
+1726*{'date': 'November', 'text': 'Mary Toft allegedly gives birth to 16 rabbits in England; the story is later revealed to be a hoax.', 'self': False, 'pos': 'NP'}
+1726*{'date': 'December 24', 'text': 'The city of Montevideo is founded by the Spaniards.', 'self': False, 'pos': 'DET'}
+1726*{'text': 'The Supreme Privy Council is established in Imperial Russia.', 'self': False, 'pos': 'DET'}
+1726*{'text': 'The Gujin tushu jicheng, an immense Chinese encyclopedia, is printed using copper-based movable type printing.', 'self': False, 'pos': 'DET'}
+1726*{'text': 'The remaining ruins of Liverpool Castle are finally demolished.', 'self': False, 'pos': 'DET'}
+1726*{'text': 'Muhammad bin Saud becomes head of the House of Saud.', 'self': False, 'pos': 'NP'}
+1727*{'text': "April 11– Premiere of Johann Sebastian Bach's St Matthew Passion BWV 244b at the St. Thomas Church, Leipzig.", 'self': False, 'pos': 'NP'}
+1727*{'date': 'June 11', 'text': 'George, Prince of Wales becomes King George II of Great Britain.', 'self': False, 'pos': 'NP'}
+1727*{'date': 'June 27', 'text': 'Uxbridge, Massachusetts is incorporated as a town.', 'self': False, 'pos': 'NP'}
+1727*{'date': 'August 30', 'text': 'Anne, eldest daughter of King George II of Great Britain, is given the title Princess Royal.', 'self': False, 'pos': 'NP'}
+1727*{'date': 'September 8', 'text': 'A barn fire during a puppet show in the village of Burwell, Cambridgeshire, England, kills 78 people, many of whom are children.', 'self': False, 'pos': 'DET'}
+1727*{'date': 'November 18', 'text': 'An earthquake in Tazriz, Persia kills 77,000.', 'self': False, 'pos': 'DET'}
+1727*{'date': 'November 27', 'text': "The foundation stone to the Jerusalem's Church in Berlin was laid.", 'self': False, 'pos': 'DET'}
+1727*{'date': '1727–1800', 'text': 'Lt. Col. Francisco de Mello Palheta smuggles coffee seeds to Brazil in a bouquet, starting a coffee empire.', 'self': False, 'pos': 'NP'}
+1727*{'text': 'The last execution for witchcraft is carried out in Scotland.', 'self': False, 'pos': 'DET'}
+1727*{'text': 'The first Amish move to America.', 'self': False, 'pos': 'DET'}
+1727*{'text': 'The Committee of 300 is founded with financial support from the Rothschild family.', 'self': False, 'pos': 'DET'}
+1727*{'text': 'The Royal Bank of Scotland is founded by royal charter in Edinburgh.', 'self': False, 'pos': 'DET'}
+1727*{'text': 'Catholic Charities is founded in New Orleans, by the French Ursuline Sisters.', 'self': False, 'pos': 'NP'}
+1727*{'text': 'Ursuline Academy is founded by the Sisters of the Order of Saint Ursula in New Orleans.', 'self': False, 'pos': 'NP'}
+1724*{'date': 'January 28', 'text': 'Saint Petersburg State University is established.', 'self': False, 'pos': 'NP'}
+1724*{'date': 'February 8', 'text': 'Catherine I is officially named czarina by her husband, Peter the Great, in Russia.', 'self': False, 'pos': 'NP'}
+1724*{'date': 'February 20', 'text': 'The premiere of Giulio Cesare, an Italian opera by George Frideric Handel, takes place in London.', 'self': False, 'pos': 'DET'}
+1724*{'date': 'May 29', 'text': 'Pope Benedict XIII, born Pierro Orsini, succeeds Pope Innocent XIII as the 245th pope.', 'self': False, 'pos': 'NP'}
+1724*{'date': 'June 23', 'text': 'Treaty of Constantinople is signed, partitioning Persia between the Ottoman Empire and Russia.', 'self': False, 'pos': 'NP'}
+1724*{'date': 'July 27', 'text': 'Wild Peter of Hanover is captured near Helpensen in Hanover.', 'self': False, 'pos': 'NP'}
+1724*{'date': 'November 11', 'text': 'Joseph Blake (alias Blueskin), highwayman, is hanged in London.', 'self': False, 'pos': 'NP'}
+1724*{'text': 'Jack Sheppard is hanged in London.', 'self': False, 'pos': 'NP'}
+1724*{'text': 'Willem Mons, lover of Catherine I of Russia, is executed and his head preserved in alcohol.', 'self': False, 'pos': 'NP'}
+1724*{'text': 'China expels foreign missionaries.', 'self': False, 'pos': 'NP'}
+1724*{'text': 'Blenheim Palace construction is completed.', 'self': False, 'pos': 'NP'}
+1724*{'text': 'The Austrian Netherlands agree to the Pragmatic Sanction.', 'self': False, 'pos': 'DET'}
+1724*{'text': 'Shah Mahmud Hotaki of Afghanistan goes insane.', 'self': False, 'pos': 'NP'}
+1724*{'text': 'Longman, the oldest publishing house in England, is founded.', 'self': False, 'pos': 'NP'}
+1725*{'date': 'February 8', 'text': 'Catherine I becomes Empress of Russia on the death of her husband, Peter the Great.', 'self': False, 'pos': 'NP'}
+1725*{'date': 'February 20', 'text': 'The first reported case of white men scalping Native Americans takes place in New Hampshire colony.', 'self': False, 'pos': 'DET'}
+1725*{'date': 'April 30', 'text': 'Emperor Charles VI of Austria and King Philip V of Spain sign the Treaty of Vienna.', 'self': False, 'pos': 'NP'}
+1725*{'date': 'May 21', 'text': 'The Order of Alexander Nevsky is instituted in Russia by Empress Catherine I.', 'self': False, 'pos': 'DET'}
+1725*{'date': 'May 24', 'text': 'Jonathan Wild, fraudulent "Thief-Taker General", is hanged in Tyburn, England for actually aiding criminals.', 'self': False, 'pos': 'NP'}
+1725*{'date': 'September 3', 'text': 'The Treaty of Hanover is signed between Great Britain, France and Prussia.', 'self': False, 'pos': 'DET'}
+1725*{'text': 'The Black Watch is founded in Scotland.', 'self': False, 'pos': 'DET'}
+1725*{'text': 'A fire in Wapping, England destroys 70 houses.', 'self': False, 'pos': 'DET'}
+1722*{'date': 'March 8', 'text': "Persia's Safavid dynasty falls during a bloody revolt of the Afghani people, in The Battle of Gulnabad.", 'self': False, 'pos': 'NP'}
+1722*{'date': 'May 5', 'text': 'Pennsylvania colony enacts a statute requiring all persons importing any person previously convicted of sodomy to pay £5 for each such incoming person.', 'self': False, 'pos': 'NP'}
+1722*{'date': 'July', 'text': "Peter the Great's Persian campaign begins.", 'self': False, 'pos': 'NP'}
+1722*{'date': 'July 25', 'text': 'The Three Years War begins along the Maine and Massachusetts border.', 'self': False, 'pos': 'DET'}
+1722*{'date': 'August 15', 'text': 'William Battin, 17, is hanged for arson and murder in the colony of Pennsylvania.', 'self': False, 'pos': 'NP'}
+1722*{'text': 'The Silence Dogood letters appear, written by Benjamin Franklin.', 'self': False, 'pos': 'DET'}
+1722*{'text': 'Edenton is incorporated as the county seat of Chowan County, North Carolina.', 'self': False, 'pos': 'NP'}
+1722*{'text': 'Peter the Great of Russia creates the Table of Ranks.', 'self': False, 'pos': 'NP'}
+1722*{'text': 'Johann Sebastian Bach composes Das Wohltemperierte Klavier.', 'self': False, 'pos': 'NP'}
+1723*{'date': 'February 16', 'text': 'Louis XV of France attains his majority.', 'self': False, 'pos': 'NP'}
+1723*{'date': 'March 9', 'text': 'Mapuche Uprising of 1723 begins in Chile.', 'self': True, 'pos': 'NP'}
+1723*{'date': 'May 23', 'text': 'The Freemasonry lodge Theodor zum guten Rath is founded in Munich, Bavaria.', 'self': False, 'pos': 'DET'}
+1723*{'date': 'July', 'text': 'The Russian army, under Matyushkin, captures Baku.', 'self': False, 'pos': 'DET'}
+1723*{'date': 'September 1', 'text': 'The Treaty of St. Petersburg is signed.', 'self': False, 'pos': 'DET'}
+1723*{'date': 'November 23', 'text': 'The Province of Carolina incorporates New Bern as Newbern (the town later becomes the capital of North Carolina).', 'self': False, 'pos': 'DET'}
+1723*{'text': 'The Province of Carolina monica incorporates Beaufort, North Carolina as the "Port of Beaufort", making it the third incorporated town in the province.', 'self': False, 'pos': 'DET'}
+1723*{'text': 'The Four Seasons, a set of violin concertos by Antonio Vivaldi, was composed.', 'self': False, 'pos': 'DET'}
+1720*{'date': 'February 11', 'text': 'Sweden and Prussia sign the Treaty of Stockholm (Great Northern War).', 'self': False, 'pos': 'NP'}
+1720*{'date': 'February 17', 'text': 'Spain signs the Treaty of The Hague, ending the War of the Quadruple Alliance.', 'self': False, 'pos': 'NP'}
+1720*{'date': 'February 29', 'text': 'Queen Ulrike Eleonora of Sweden resigns to let her husband Frederick I take over as king of Sweden.', 'self': False, 'pos': 'NP'}
+1720*{'date': 'July 12', 'text': 'The Lords Justice of the UK attempt to curb some of the excesses of the stock markets during the South Sea bubble.', 'self': False, 'pos': 'DET'}
+1720*{'date': 'November 16', 'text': 'Pirate Jack Rackham is brought to trial at St. Jago de la Vega in Jamaica.', 'self': False, 'pos': 'NP'}
+1720*{'text': "The Town on Queen Anne's Creek, North Carolina is renamed Edenton in honor of North Carolina Governor Charles Eden.", 'self': False, 'pos': 'DET'}
+1720*{'text': 'The Tuscarora flee North Carolina as a result of European colonization.', 'self': False, 'pos': 'DET'}
+1720*{'text': 'Edmond Halley is appointed as Astronomer Royal.', 'self': False, 'pos': 'NP'}
+1720*{'text': 'The Academia Real da Historia is founded in Lisbon, Portugal.', 'self': False, 'pos': 'DET'}
+1720*{'text': "Jonathan Swift begins Gulliver's Travels.", 'self': False, 'pos': 'NP'}
+1720*{'text': 'Emperor Kangxi announces that all western businessmen can only trade in Guangzhou.', 'self': False, 'pos': 'NP'}
+1720*{'text': 'Il teatro alla moda, a satirical pamphlet by Benedetto Marcello, is published anonymously in Venice.', 'self': False, 'pos': 'NP'}
+1720*{'text': 'The first yacht club in the world, the Royal Cork Yacht Club, is founded.', 'self': False, 'pos': 'DET'}
+1721*{'date': 'January 6', 'text': 'The Committee of Inquiry on the South Sea Bubble in England publishes its findings.', 'self': False, 'pos': 'DET'}
+1721*{'date': 'March 24', 'text': "Johann Sebastian Bach's Brandenburg concertos completed and dedicated to Christian Ludwig of Brandenburg-Schwedt.", 'self': False, 'pos': 'NP'}
+1721*{'date': 'April 4', 'text': 'Robert Walpole becomes the first Prime Minister of Great Britain (although this is more a term of disparagement at this time).', 'self': False, 'pos': 'NP'}
+1721*{'date': 'May 8', 'text': 'Pope Innocent XIII succeeds Pope Clement XI as the 244th pope.', 'self': False, 'pos': 'NP'}
+1721*{'date': 'September 10', 'text': 'The Treaty of Nystad is signed, ending the Great Northern War.', 'self': False, 'pos': 'DET'}
+1721*{'date': 'November 2', 'text': 'Peter I is proclaimed the first Emperor of All the Russias.', 'self': False, 'pos': 'NP'}
+1721*{'date': 'December 22', 'text': 'Philip V of Spain signs in Lerma a Royal Decree transforming the Seminary of Saint Rose of Lima in Caracas into the Universidad Real y Pontificia de Caracas.', 'self': False, 'pos': 'NP'}
+1721*{'text': 'A suggestion box is developed under the eighth shogun of Japan, Yoshimune Tokugawa.', 'self': False, 'pos': 'DET'}
+1739*{'date': 'January 1', 'text': 'Bouvet Island is discovered by French explorer Jean-Baptiste Charles Bouvet de Lozier.', 'self': False, 'pos': 'NP'}
+1739*{'date': 'March 20', 'text': 'Nader Shah occupies Delhi in India and sacks the city, stealing the jewels of the Peacock Throne, including the Koh-i-Noor.', 'self': False, 'pos': 'NP'}
+1739*{'date': 'June 2', 'text': 'The Royal Swedish Academy of Sciences is founded in Stockholm.', 'self': False, 'pos': 'DET'}
+1739*{'date': 'September 9', 'text': 'The Stono Rebellion erupts near Charleston.', 'self': False, 'pos': 'DET'}
+1739*{'date': 'September 18', 'text': 'The Treaty of Belgrade brings the Russo-Turkish War (1735–1739) to an end.', 'self': True, 'pos': 'DET'}
+1739*{'date': 'October 3', 'text': 'The Treaty of Niš is signed.', 'self': False, 'pos': 'DET'}
+1739*{'date': 'October 17', 'text': 'The Foundling Hospital is created in London by royal charter.', 'self': False, 'pos': 'DET'}
+1739*{'date': 'November 21', 'text': 'The British capture the South American silver exporting town of Portobelo from the Spanish.', 'self': False, 'pos': 'DET'}
+1739*{'text': 'The first Bible in Estonian is published.', 'self': False, 'pos': 'DET'}
+1739*{'text': 'Ecuador becomes a part of New Granada.', 'self': False, 'pos': 'NP'}
+1738*{'date': 'February 4', 'text': 'Court Jew Joseph Suss Oppenheimer is executed in Württemberg.', 'self': False, 'pos': 'NP'}
+1738*{'date': 'April 15', 'text': 'Serse, an Italian opera by George Frideric Handel, premieres in London.', 'self': False, 'pos': 'NP'}
+1738*{'date': 'May 24', 'text': 'John Wesley is converted, essentially launching the Methodist movement; the day is celebrated annually by Methodists as Aldersgate Day.', 'self': False, 'pos': 'NP'}
+1738*{'date': 'Sept 18', 'text': 'Samuel Johnson composes his first solemn prayer.', 'self': False, 'pos': 'NP'}
+1738*{'date': 'November 18', 'text': 'The Treaty of Vienna is ratified.', 'self': False, 'pos': 'DET'}
+1738*{'text': "China's Qing government announces that all western businessmen have to use the Cohong in Guangzhou to trade.", 'self': False, 'pos': 'NP'}
+1738*{'text': 'The excavation of Herculaneum, a Roman city buried by Vesuvius in AD 79, begins.', 'self': False, 'pos': 'DET'}
+1738*{'text': 'Stanisław Leszczyński receives Lorraine in exchange for renouncing the Polish throne.', 'self': False, 'pos': 'NP'}
+1738*{'text': "Pierre Louis Maupertuis publishes Sur la figure de la terre, which 'confirms Newton's view that the earth is a spheroid slightly flattened at the poles'.", 'self': False, 'pos': 'NP'}
+1738*{'text': 'Franz Ketterer invents the cuckoo clock.', 'self': False, 'pos': 'NP'}
+1731*{'date': 'March 16', 'text': 'The Treaty of Vienna is signed between the Holy Roman Empire, Great Britain, the Dutch Republic and Spain.', 'self': False, 'pos': 'DET'}
+1731*{'date': 'April 2', 'text': 'The town of Raynham, Massachusetts in Bristol County is entered as a new town by the governor and court of Massachusetts, New England, America.', 'self': False, 'pos': 'DET'}
+1731*{'text': 'John Bevis observes the Crab Nebula for the first time.', 'self': False, 'pos': 'NP'}
+1731*{'text': 'Royal Colony of North Carolina Governor George Burrington asks the North Carolina General Assembly to pass an act establishing a town on the Cape Fear River, in what is seen as a political move to shift the power away from the powerful Cape Fear plantation class.', 'self': False, 'pos': 'NP'}
+1731*{'text': 'Laura Bassi becomes the first official female university teacher on being appointed professor of anatomy at the University of Bologna at the age of 21.', 'self': False, 'pos': 'NP'}
+1731*{'text': 'The Royal Theatre of Mantua (Italy) is built by Ferdinando Galli Bibiena.', 'self': False, 'pos': 'DET'}
+1731*{'text': 'Benjamin Franklin starts the Library Company of Philadelphia.', 'self': False, 'pos': 'NP'}
+1730*{'date': 'January 29', 'text': 'Anna Ivanovna (Anna of Russia) becomes tsarina, following the death of her cousin, Tsar Peter II.', 'self': False, 'pos': 'NP'}
+1730*{'date': 'May 15', 'text': 'Charles Townshend, 2nd Viscount Townshend, retires from his role in the government of Great Britain, leaving Robert Walpole as sole and undisputed leader of the Cabinet (i.e., prime minister).', 'self': False, 'pos': 'NP'}
+1730*{'date': "Establishment of Wright's Ferry under the authority of the Province of Pennsylvania triggers Cresap's War", 'text': 'A nine year long conflict also known as the Maryland-Pennsylvania boundary dispute – the conflict mainly centered in Lancaster County, Pennsylvania and York County, Pennsylvania on either banks of the Susquehanna River.', 'self': False, 'pos': 'DET'}
+1730*{'date': 'July 12', 'text': 'Pope Clement XII succeeds Pope Benedict XIII as the 246th pope.', 'self': False, 'pos': 'NP'}
+1730*{'date': 'September 17', 'text': 'Mahmud I (1730–1754) succeeds Ahmed III (1703–1730) as Ottoman Emperor.', 'self': True, 'pos': 'NP'}
+1730*{'text': 'The Glasite sect is formed.', 'self': False, 'pos': 'DET'}
+1733*{'date': 'April', 'text': 'Royal Colony of North Carolina Commissioners John Watson, Joshua Grainger, Michael Higgins and James Wimble plan the town of New Carthage (which would eventually become Wilmington, North Carolina on the east side of the Cape Fear River).', 'self': False, 'pos': 'NP'}
+1733*{'date': 'May 29', 'text': 'The right of Canadians to keep Indian slaves is upheld at Quebec.', 'self': False, 'pos': 'DET'}
+1733*{'date': 'July 30', 'text': 'The first Freemasons lodge opens in what will become the United States of America.', 'self': False, 'pos': 'DET'}
+1733*{'date': 'October 5', 'text': 'The election of Augustus III to succeed his father as King of Poland sparks the War of the Polish Succession.', 'self': False, 'pos': 'DET'}
+1732*{'date': 'June 9', 'text': 'James Oglethorpe is granted a royal charter for the colony of Georgia.', 'self': False, 'pos': 'NP'}
+1732*{'date': 'September 16', 'text': 'The magnitude 5.8 Montreal earthquake occurs in Montreal, Quebec, Canada.', 'self': False, 'pos': 'DET'}
+1732*{'date': 'December 7', 'text': 'The original Covent Garden Theatre Royal (now the Royal Opera House) is opened.', 'self': False, 'pos': 'DET'}
+1732*{'text': 'Genoa regains Corsica.', 'self': False, 'pos': 'NP'}
+1732*{'text': 'A total of 139 members of the Paris Parliament are exiled by order of the King, but eventually triumph over the Crown, and secure their recall in December.', 'self': False, 'pos': 'DET'}
+1732*{'text': 'The United Secession Church is formed in Scotland.', 'self': False, 'pos': 'DET'}
+1735*{'date': 'January 2', 'text': "Alexander Pope's poem Epistle to Dr Arbuthnot published in London.", 'self': False, 'pos': 'NP'}
+1735*{'date': 'January 8', 'text': "George Frideric Handel's opera Ariodante premieres at the Royal Opera House in Covent Garden, London.", 'self': False, 'pos': 'NP'}
+1735*{'date': 'April 13', 'text': 'Emperor Sakuramachi accedes to the throne of Japan.', 'self': False, 'pos': 'NP'}
+1735*{'date': 'April 16', 'text': "Alcina, George Frideric Handel's Italian opera, premieres at the Royal Opera House in Covent Garden, London.", 'self': False, 'pos': 'NP'}
+1735*{'date': 'May 22', 'text': 'George Hadley publishes the first explanation of the trade winds.', 'self': False, 'pos': 'NP'}
+1735*{'date': 'July 11', 'text': 'Pluto (not known at this time) enters a fourteen year period inside the orbit of Neptune, which will not recur until 1979.', 'self': False, 'pos': 'NP'}
+1735*{'date': 'October 18', 'text': 'The Qianlong Emperor succeeds Yongzheng and begins a 60-year-long reign of the Qing Dynasty.', 'self': False, 'pos': 'DET'}
+1735*{'text': 'Linnaeus publishes his Systema Naturae.', 'self': False, 'pos': 'NP'}
+1735*{'text': 'A shipbuilding industry begins in Mumbai.', 'self': False, 'pos': 'DET'}
+1735*{'text': 'Leonhard Euler solves the Basel problem, first posed by Pietro Mengoli in 1644, and the Seven Bridges of Königsberg problem.', 'self': False, 'pos': 'NP'}
+1735*{'text': "The King's Highway (Charleston to Boston) is completed.", 'self': False, 'pos': 'DET'}
+1735*{'text': 'Augusta, Georgia, is founded.', 'self': False, 'pos': 'NP'}
+1735*{'text': 'Cobalt is discovered and isolated by Georg Brandt.', 'self': False, 'pos': 'NP'}
+1734*{'date': 'November 5', 'text': 'The Dzików Confederation is created in Poland.', 'self': False, 'pos': 'DET'}
+1737*{'date': 'May 28', 'text': 'The planet Venus passes in front of Mercury.', 'self': False, 'pos': 'DET'}
+1737*{'date': 'July', 'text': 'Austria enters the Russo-Turkish War.', 'self': False, 'pos': 'NP'}
+1737*{'date': 'September 20', 'text': 'Runner Edward Marshall completes his journey in the Walking Purchase, forcing the cession of 1,200,000 acres (4,900\xa0km2) of Lenape-Delaware tribal land to the Pennsylvania Colony.', 'self': False, 'pos': 'NP'}
+1737*{'date': 'October', 'text': 'The first national stage in Sweden opens when the play Den Svenska Sprätthöken is performed in the native language, by the first native actors, on the stage of Bollhuset in Stockholm.', 'self': False, 'pos': 'DET'}
+1737*{'date': 'October 7', 'text': 'A tropical cyclone strikes Bengal, India killing approximately 300,000.', 'self': False, 'pos': 'DET'}
+1737*{'date': 'October 16', 'text': "An earthquake with an estimated magnitude of 9.3 occurs off the shore of Russia's Kamchatka Peninsula.", 'self': False, 'pos': 'DET'}
+1737*{'date': 'November 4', 'text': 'The Teatro di San Carlo, the oldest working opera house in Europe, is inaugurated in Naples, Italy.', 'self': False, 'pos': 'DET'}
+1737*{'date': 'Benjamin Franklin creates the Philadelphia Police Force', 'text': 'The first city-paid force.', 'self': False, 'pos': 'DET'}
+1737*{'text': 'The Georg August University of Göttingen is founded.', 'self': False, 'pos': 'DET'}
+1737*{'text': "The direct male line of the Medici family becomes extinct with the death of Gian Gastone de' Medici, Grand Duke of Tuscany.", 'self': False, 'pos': 'DET'}
+1737*{'text': 'Richmond, Virginia is founded.', 'self': False, 'pos': 'NP'}
+1737*{'text': 'The oldest existing English language newspaper in the world, The (Belfast) News Letter, is founded in Ireland.', 'self': False, 'pos': 'DET'}
+1737*{'text': "Lancaster County Prison, Lancaster, Pennsylvania is first constructed in response to the seven violent years preceding of the ongoing Cresap's War in the Maryland-Pennsylvania boundary dispute and war.", 'self': False, 'pos': 'NP'}
+1736*{'date': 'January 26', 'text': 'Stanislaus I of Poland abdicates his throne.', 'self': False, 'pos': 'NP'}
+1736*{'date': 'February 12', 'text': 'Francis I, Holy Roman Emperor weds Maria Theresa of Austria, ruler of the Habsburg Empire.', 'self': False, 'pos': 'NP'}
+1736*{'date': 'April', 'text': 'The Genbun era begins in Japan.', 'self': False, 'pos': 'DET'}
+1736*{'date': 'April 14', 'text': 'The Porteous Riots erupt in Edinburgh after the execution of smuggler Andrew Wilson, when town guard Captain John Porteous orders his men to fire at the crowd.', 'self': False, 'pos': 'DET'}
+1736*{'date': 'May 8', 'text': 'Frederick, Prince of Wales marries Augusta of Saxe-Gotha.', 'self': False, 'pos': 'NP'}
+1736*{'date': 'June 8', 'text': 'Leonhard Euler writes to James Stirling describing the Euler–Maclaurin formula, providing a connection between integrals and calculus.', 'self': False, 'pos': 'NP'}
+1736*{'date': 'September 7', 'text': 'An Edinburgh crowd drags John Porteous out of his cell in Tolbooth Prison and lynches him.', 'self': False, 'pos': 'DET'}
+1736*{'date': 'December 7', 'text': 'Ben Franklin builds the first volunteer fire company in Philadelphia, Pennsylvania.', 'self': False, 'pos': 'NP'}
+1736*{'text': 'Real Arissona, namesake of the U.S. state Arizona, is founded in what is now that state.', 'self': False, 'pos': 'NP'}
+1736*{'text': 'Neustrelitz becomes the capital of Mecklenburg-Strelitz.', 'self': False, 'pos': 'NP'}
+1736*{'text': 'Bushehr is founded in Persia.', 'self': False, 'pos': 'NP'}
+1736*{'text': 'The Belgrade fortress is completed.', 'self': False, 'pos': 'DET'}
+1736*{'text': 'George Hamilton, 1st Earl of Orkney, becomes the first Field Marshal of Great Britain.', 'self': False, 'pos': 'NP'}
+1736*{'text': 'A fire in the Russian city of Saint Petersburg burns 2000 houses.', 'self': False, 'pos': 'DET'}
+1736*{'text': 'Charles Marie de La Condamine, with François Fresneau Gataudière, makes the first scientific observations of rubber, in Ecuador.', 'self': False, 'pos': 'NP'}
+1736*{'text': 'Leonhard Euler produces the first published proof of Fermat\'s "little theorem".', 'self': False, 'pos': 'NP'}
+1736*{'text': "Sir Isaac Newton's Method of Fluxions (1671), describing his method of differential calculus, is first published (posthumously) and Thomas Bayes publishes a defense of its logical foundations (anonymously).", 'self': False, 'pos': 'NP'}
+1736*{'text': 'Muhammad ibn Abd al Wahhab writes the Kitab at-tawhidt, marking the beginning of Wahhabism.', 'self': False, 'pos': 'NP'}
+1736*{'text': 'The Haidamakas raid the shtetl of Pavoloch, killing 35.', 'self': False, 'pos': 'DET'}
+1748*{'date': 'January 12', 'text': 'Ahmad Shah Durrani captures Lahore.', 'self': False, 'pos': 'NP'}
+1748*{'date': 'March 28', 'text': 'A fire in the City of London causes over a million pounds worth of damage.', 'self': False, 'pos': 'DET'}
+1748*{'date': 'April', 'text': 'Maastricht is conquered by Maurice de Saxe.', 'self': False, 'pos': 'NP'}
+1748*{'date': 'August', 'text': 'The Camberwell Beauty butterfly is named after specimens found at Camberwell in London.', 'self': False, 'pos': 'DET'}
+1748*{'date': 'September 24', 'text': 'Shah Rukh becomes ruler of Greater Khorasan.', 'self': False, 'pos': 'NP'}
+1748*{'text': 'Leonhard Euler publishes Introductio in analysin infinitorum.', 'self': False, 'pos': 'NP'}
+1748*{'text': "Montesquieu publishes De l'Esprit des lois.", 'self': False, 'pos': 'NP'}
+1748*{'text': 'Friedrich Gottlieb Klopstock publishes the first three cantos of his epic poem Der Messias in hexameters (anonymously) in Bremer Beiträge (Leipzig).', 'self': False, 'pos': 'NP'}
+1748*{'text': 'Adam Smith begins to deliver public lectures in Edinburgh.', 'self': False, 'pos': 'NP'}
+1748*{'text': 'The building of Sveaborg begins near Helsinki.', 'self': False, 'pos': 'DET'}
+1748*{'text': 'Henry Fielding organizes the forerunner of the Bow Street Runners in London (8 men at first).', 'self': False, 'pos': 'NP'}
+1748*{'text': 'The ruins of Pompeii are discovered.', 'self': False, 'pos': 'DET'}
+1748*{'text': 'Louis XV of France authorizes a 5% income tax on every individual regardless of social status; the Parlement of Paris protests.', 'self': False, 'pos': 'NP'}
+1749*{'date': 'April 27', 'text': "The first official performance of George Frideric Handel's Music for the Royal Fireworks finishes early due to the outbreak of fire.", 'self': False, 'pos': 'DET'}
+1749*{'date': 'July 9', 'text': 'The naval settlement of Halifax, Nova Scotia is founded as the British answer to Louisbourg.', 'self': False, 'pos': 'DET'}
+1744*{'date': 'January 24', 'text': 'The Dagohoy Rebellion begins with the killing of Father Giuseppe Lamberti.', 'self': False, 'pos': 'DET'}
+1744*{'date': 'March 1 (approximately)', 'text': 'The Great Comet of 1744, one of the brightest ever seen, reaches perihelion.', 'self': True, 'pos': 'DET'}
+1744*{'date': 'March 15', 'text': 'France declares war on Great Britain.', 'self': False, 'pos': 'NP'}
+1744*{'date': 'June 28', 'text': 'Catherine the Great is received into the Russian Orthodox Church.', 'self': False, 'pos': 'NP'}
+1744*{'text': "The third French and Indian War, known as King George's War, breaks out at Port Royal, Nova Scotia.", 'self': False, 'pos': 'DET'}
+1744*{'text': 'The First Saudi State is founded by Mohammed Ibn Saud.', 'self': False, 'pos': 'DET'}
+1744*{'text': 'Prague is occupied by Prussian armies.', 'self': False, 'pos': 'NP'}
+1745*{'date': 'June 4', 'text': 'Frederick the Great destroys the Austrian army at the Battle of Hohenfriedberg.', 'self': False, 'pos': 'NP'}
+1745*{'date': 'July 26', 'text': "The first recorded women's cricket match took place near Guildford, England.", 'self': False, 'pos': 'DET'}
+1745*{'date': 'August 19', 'text': "The '45 Jacobite Rising begins at Glenfinnan.", 'self': False, 'pos': 'DET'}
+1745*{'date': 'September 12', 'text': 'Francis I is elected Holy Roman Emperor with the support of his wife, Maria Theresia of Austria.', 'self': False, 'pos': 'NP'}
+1745*{'date': 'September 14', 'text': 'Madame de Pompadour is officially presented in the court of Louis XV of France.', 'self': False, 'pos': 'NP'}
+1745*{'date': 'December 4', 'text': 'The Jacobite Army reaches Derby; two days later it begins retreat.', 'self': False, 'pos': 'DET'}
+1745*{'text': 'December 19 The Jacobite army led by Bonnie Prince Charlie; on retreat from Derby, was defeated by the Duke of Cumberland at the Battle of Clifton Moor near Penrith, Cumberland.', 'self': False, 'pos': 'NP'}
+1745*{'date': 'December 25', 'text': 'The Treaty of Dresden gives Prussia full possession of Silesia.', 'self': False, 'pos': 'DET'}
+1746*{'date': 'January 8', 'text': 'Bonnie Prince Charlie occupies Stirling.', 'self': False, 'pos': 'NP'}
+1746*{'date': 'April 16', 'text': 'The Battle of Culloden, the final pitched battle fought on British soil, brings an end to the Jacobite Rising.', 'self': False, 'pos': 'DET'}
+1746*{'date': 'June', 'text': 'Samuel Johnson is contracted to write his A Dictionary of the English Language.', 'self': False, 'pos': 'NP'}
+1746*{'date': 'June 29', 'text': 'Catherine of Ricci (b.', 'self': False, 'pos': 'NP'}
+1746*{'date': 'September 20', 'text': "Bonnie Prince Charlie flees to the Isle of Skye from Arisaig, after the unsuccessful Jacobite rising of 1745, marked by the Prince's Cairn on the banks of Loch nan Uamh.", 'self': False, 'pos': 'NP'}
+1746*{'date': 'October 22', 'text': 'The College of New Jersey is founded (it becomes Princeton University in 1896).', 'self': False, 'pos': 'DET'}
+1746*{'date': 'October 28', 'text': 'An earthquake demolishes Lima and Callao, in Peru.', 'self': False, 'pos': 'DET'}
+1746*{'text': "The town of Vilkovo (Odes'ka oblast', Ukraine) is founded.", 'self': False, 'pos': 'DET'}
+1746*{'text': "Royal Colony of North Carolina Governor Gabriel Johnston moves to the province's largest and most prosperous city of New Bern.", 'self': False, 'pos': 'NP'}
+1747*{'date': 'January 31', 'text': 'The first venereal diseases clinic opens at London Lock Hospital.', 'self': False, 'pos': 'DET'}
+1747*{'date': 'February 11', 'text': 'A combined French and Indian force, commanded by Captain Nicholas Antoine Coulon de Villiers, attacks British troops at Grand Pré, Nova Scotia.', 'self': False, 'pos': 'DET'}
+1747*{'date': 'April 9', 'text': 'The Scottish Jacobite Lord Lovat is beheaded by axe on Tower Hill, London, for high treason (the last man to be executed in this way in Britain).', 'self': False, 'pos': 'DET'}
+1747*{'date': 'June 9', 'text': 'Emperor Momozono ascends to the throne of Japan, succeeding Emperor Sakuramachi.', 'self': False, 'pos': 'NP'}
+1747*{'date': 'June 24–October 14', 'text': 'The English ships Dobbs galley and California, under Captains William Moore and Francis Smith, explore Hudson Bay, discovering there is no Northwest Passage by this route.', 'self': False, 'pos': 'DET'}
+1747*{'text': 'Thomas Herring is appointed Archbishop of Canterbury.', 'self': False, 'pos': 'NP'}
+1747*{'date': 'December 16', 'text': 'Canter of Coltbrigg – The 13th and 14th Dragoons flee the Jacobites of Charles Edward Stuart.', 'self': False, 'pos': 'NP'}
+1747*{'text': 'James Lind discovers that citrus fruits prevent scurvy.', 'self': False, 'pos': 'NP'}
+1747*{'text': 'Samuel Johnson begins work on A Dictionary of the English Language in London.', 'self': False, 'pos': 'NP'}
+1740*{'date': 'February 20', 'text': 'The North Carolina General Assembly incorporates the town of Newton as Wilmington, North Carolina, named for Spencer Compton, 1st Earl of Wilmington, and patron of Royal Governor Gabriel Johnston.', 'self': False, 'pos': 'DET'}
+1740*{'date': 'May 31', 'text': 'Frederick II comes to power in Prussia upon the death of his father, Frederick William I.', 'self': False, 'pos': 'NP'}
+1740*{'date': 'August 1', 'text': 'The song Rule, Britannia!.', 'self': False, 'pos': 'DET'}
+1740*{'date': 'August 17', 'text': 'Pope Benedict XIV succeeds Pope Clement XII as the 247th pope.', 'self': False, 'pos': 'NP'}
+1740*{'date': 'October 9', 'text': 'The Dutch East India Company massacres 5,000–10,000 Chinese inhabitants of Batavia.', 'self': False, 'pos': 'DET'}
+1740*{'date': 'October 20', 'text': 'Maria Theresia of Austria inherits the Habsburg hereditary dominions (Austria, Bohemia, Hungary and present-day Belgium).', 'self': False, 'pos': 'NP'}
+1740*{'date': 'November', 'text': 'Hertford College, Oxford, is founded for the first time.', 'self': False, 'pos': 'NP'}
+1740*{'date': 'December 16', 'text': 'Frederick II of Prussia invades the Habsburg possession of Silesia, starting the War of the Austrian Succession.', 'self': False, 'pos': 'NP'}
+1740*{'text': 'Enfield, North Carolina, is founded.', 'self': False, 'pos': 'NP'}
+1740*{'text': 'Adam Smith enters Balliol College, Oxford.', 'self': False, 'pos': 'NP'}
+1740*{'text': 'George Whitefield founds the Bethesda Orphanage.', 'self': False, 'pos': 'NP'}
+1740*{'text': 'University of Pennsylvania is founded.', 'self': False, 'pos': 'NP'}
+1740*{'text': 'Spain begins construction on Fort Matanzas in the Matanzas Inlet, approximately 15 miles (24\xa0km) south of St. Augustine, Florida.', 'self': False, 'pos': 'NP'}
+1741*{'date': 'April', 'text': 'The New York Slave Insurrection, a plot to set fire to New York City, is discovered.', 'self': False, 'pos': 'DET'}
+1741*{'date': 'April 10', 'text': 'The Austrian army attacks troops of Frederick the Great at Mollwitz.', 'self': False, 'pos': 'DET'}
+1741*{'date': 'May', 'text': 'Vitus Bering sets out from Petropavlovsk-Kamchatsky to map the coasts of Siberia and Alaska.', 'self': False, 'pos': 'NP'}
+1741*{'date': 'June 25', 'text': 'Maria Theresa of Austria is crowned Queen Regnant of Hungary in Bratislava.', 'self': False, 'pos': 'NP'}
+1741*{'date': 'July 15', 'text': 'Alexei Chirikov sights land in Southeast Alaska.', 'self': False, 'pos': 'NP'}
+1741*{'date': 'December 6', 'text': 'Elizabeth of Russia becomes czarina after a palace coup.', 'self': False, 'pos': 'NP'}
+1741*{'date': 'December 19', 'text': 'Vitus Bering dies in his expedition east of Siberia.', 'self': False, 'pos': 'NP'}
+1741*{'text': 'Prague is occupied by French-Bavarian armies.', 'self': False, 'pos': 'NP'}
+1741*{'text': 'Stemmatographia by Hristofor Zhefarovich, regarded as the first Serbian and Bulgarian secular printed book, is printed in Vienna.', 'self': False, 'pos': 'NP'}
+1741*{'text': 'The population of China reaches c. 143 million.', 'self': False, 'pos': 'DET'}
+1742*{'date': 'January 24', 'text': 'Charles VII Albert becomes Holy Roman Emperor.', 'self': False, 'pos': 'NP'}
+1742*{'date': 'April 13', 'text': "George Frideric Handel's oratorio The Messiah is first performed in Dublin, Ireland.", 'self': False, 'pos': 'NP'}
+1742*{'date': 'May 17', 'text': "Frederick the Great's army defeats Austrians in Chotusitz; later Austria cedes Silesia to Prussia.", 'self': False, 'pos': 'NP'}
+1742*{'date': 'May 25', 'text': 'A battle is fought at Sahay.', 'self': False, 'pos': 'DET'}
+1742*{'date': 'December 2', 'text': 'The Pennsylvania Journal first appears in print in the United States.', 'self': False, 'pos': 'DET'}
+1742*{'text': 'Daniel le Pelley succeeds Nicolas le Pelley as Seigneur of Sark.', 'self': False, 'pos': 'NP'}
+1742*{'text': 'The Kingdom of Prussia captures Jihlava.', 'self': False, 'pos': 'DET'}
+1742*{'text': 'Colin Maclaurin publishes his Treatise on Fluxions.', 'self': False, 'pos': 'NP'}
+1742*{'text': 'James Bradley succeeds Edmond Halley as Astronomer Royal.', 'self': False, 'pos': 'NP'}
+1742*{'text': 'Henry Fielding publishes Joseph Andrews.', 'self': False, 'pos': 'NP'}
+1742*{'text': 'John Carteret, 2nd Lord Carteret becomes Secretary of State for the Northern Department in Great Britain.', 'self': False, 'pos': 'NP'}
+1742*{'text': 'The rigging of the Chippenham by-election causes a political scandal in Great Britain.', 'self': False, 'pos': 'DET'}
+1742*{'text': 'William Pulteney is created as 1st Earl of Bath in Great Britain.', 'self': False, 'pos': 'NP'}
+1742*{'text': 'Robert Walpole is elevated to the peerage and thus moves from the House of Commons of Great Britain to the House of Lords, effectively ending his reign as Prime Minister of Great Britain (see February 16, above).', 'self': False, 'pos': 'NP'}
+1742*{'text': 'The University of Erlangen is founded.', 'self': False, 'pos': 'DET'}
+1742*{'text': 'The Lopukhina Conspiracy arises at the Russian court.', 'self': False, 'pos': 'DET'}
+1742*{'text': 'Molde, Norway becomes a city.', 'self': False, 'pos': 'NP'}
+1742*{'text': 'Eisenach, Germany builds its Stadtschloss (city castle).', 'self': False, 'pos': 'DET'}
+1742*{'text': 'The Afghan tribes unite as a monarchy.', 'self': False, 'pos': 'DET'}
+1742*{'text': "Charles Jervas's English translation of Don Quixote is published posthumously.", 'self': False, 'pos': 'NP'}
+1742*{'text': 'Spain completes the construction of Fort Matanzas in the Matanzas Inlet, approximately 15 miles (24\xa0km) south of St. Augustine, Florida.', 'self': False, 'pos': 'NP'}
+1742*{'text': 'Rome decrees that Roman ceremonial practice in Latin (not in Chinese) is to be the law for Chinese missions.', 'self': False, 'pos': 'NP'}
+1743*{'date': 'February 14', 'text': 'Henry Pelham becomes British Prime Minister.', 'self': False, 'pos': 'NP'}
+1743*{'date': 'February 21', 'text': "George Frideric Handel's oratorio, Samson premieres in London .", 'self': False, 'pos': 'NP'}
+1743*{'date': 'August 7', 'text': 'Russia and Sweden sign the Treaty of Åbo.', 'self': False, 'pos': 'NP'}
+1743*{'date': 'September 11', 'text': 'Natalia Lopukhina is flogged in front of the Twelve Collegia building in Saint Petersburg.', 'self': False, 'pos': 'NP'}
+1743*{'date': 'September 13', 'text': 'The Treaty of Worms is signed between Great Britain, Austria, and Sardinia.', 'self': False, 'pos': 'DET'}
+1743*{'date': 'November 5', 'text': 'Coordinated scientific observations of the transit of Mercury are organized by Joseph-Nicolas Delisle.', 'self': False, 'pos': 'NP'}
+1759*{'date': 'January 6', 'text': 'George Washington marries Martha Dandridge Custis.', 'self': False, 'pos': 'NP'}
+1759*{'date': 'January 13', 'text': 'The Távora family is executed following accusations of the attempted regicide of Joseph I of Portugal.', 'self': False, 'pos': 'DET'}
+1759*{'date': 'January 15', 'text': 'The British Museum opens (after 6 years of development).', 'self': False, 'pos': 'DET'}
+1759*{'date': 'May 1', 'text': 'Josiah Wedgwood founds the Wedgwood pottery company in Great Britain.', 'self': False, 'pos': 'NP'}
+1759*{'date': 'August 10', 'text': 'Ferdinand VI of Spain dies and is succeeded by his half–brother Charles III.', 'self': False, 'pos': 'NP'}
+1759*{'date': 'December 6', 'text': 'The Germantown Union School (now called "Germantown Academy"), America\'s oldest nonsectarian day school, is founded.', 'self': False, 'pos': 'DET'}
+1759*{'text': 'Adam Smith publishes his Theory of Moral Sentiments, embodying some of his Glasgow lectures.', 'self': False, 'pos': 'NP'}
+1759*{'text': "Voltaire's Candide is published.", 'self': False, 'pos': 'NP'}
+1759*{'text': 'The town of Egedesminde (modern Aasiaat) is founded in Greenland.', 'self': False, 'pos': 'DET'}
+1759*{'text': "The Famous Guinness Brewery is founded in St. James's Gate, Dublin Ireland.", 'self': False, 'pos': 'DET'}
+1759*{'text': 'Churton Town, the Orange County, North Carolina county seat laid out in 1754, is renamed Childsburgh in honor of North Carolina attorney general Thomas Child.', 'self': False, 'pos': 'NP'}
+1759*{'text': 'Fire destroys 250 houses in Stockholm.', 'self': False, 'pos': 'NP'}
+1759*{'text': 'The French government authorizes Madame du Coudray to carry her instruction "throughout the realm" and promises financial support.', 'self': False, 'pos': 'DET'}
+1758*{'text': 'Pope Clement XIII succeeds Pope Benedict XIV as the 248th pope.', 'self': False, 'pos': 'NP'}
+1758*{'date': 'December 25', 'text': "Halley's Comet appears for the first time after Halley's discovery of it.", 'self': False, 'pos': 'NP'}
+1758*{'text': 'First European settlement in what is now Erie County by the French at the mouth of Buffalo Creek.', 'self': False, 'pos': 'NP'}
+1758*{'text': 'Rudjer Boscovich publishes his atomic theory in Theoria philosophiae naturalis redacta ad unicam legem virium in nalura existentium.', 'self': False, 'pos': 'NP'}
+1758*{'text': 'James Abercrombie replaces the Earl of Loudoun as supreme commander in the American colonies.', 'self': False, 'pos': 'NP'}
+1758*{'text': 'Fire destroys part of Oslo, then called Christiania.', 'self': False, 'pos': 'NP'}
+1758*{'text': 'Carolus Linnaeus publishes the first volume (Animalia) of the tenth edition of his Systema Naturae, the starting point of modern zoological nomenclature.', 'self': False, 'pos': 'NP'}
+1758*{'text': 'The first Isakov family member (Trifun Isakov) is mentioned in Melenci.', 'self': False, 'pos': 'DET'}
+1757*{'date': 'January 2', 'text': "Britain captures Calcutta (part of the fighting in the Seven Years' War).", 'self': False, 'pos': 'NP'}
+1757*{'date': 'July 25', 'text': 'Alexandria de Laryria tried and executed for open rebellion.', 'self': False, 'pos': 'NP'}
+1757*{'date': 'October 30', 'text': 'Osman III dies and is succeeded as Ottoman Sultan by Mustafa III.', 'self': False, 'pos': 'NP'}
+1757*{'text': 'Jigme Lingpa discovers the Longchen Nyingtig ter through a meditative vision which brought him to the Boudhanath Stupa.', 'self': False, 'pos': 'NP'}
+1757*{'text': 'Robert Wood publishes The ruins of Balbec, otherwise Heliopolis in Coelosyria in English and French, making the ancient city of Baalbek in Syria known to the West.', 'self': False, 'pos': 'NP'}
+1757*{'text': 'Emanuel Swedenborg claims to have witnessed the Last Judgement occurring in the spiritual world.', 'self': False, 'pos': 'NP'}
+1756*{'date': 'January 16', 'text': 'Treaty of Westminster signed between Great Britain and Prussia guaranteeing the neutrality of Hanover, the German province controlled by King George II of Great Britain.', 'self': False, 'pos': 'NP'}
+1756*{'date': 'March 17', 'text': "St. Patrick's Day is celebrated in New York City for the first time (at the Crown and Thistle Tavern).", 'self': False, 'pos': 'NP'}
+1756*{'date': '20 June', 'text': 'A garrison of the British Army in India is imprisoned in the Black Hole of Calcutta.', 'self': False, 'pos': 'DET'}
+1756*{'date': 'June 25', 'text': "The Marine Society is founded in London, the world's oldest seafarers' charity.", 'self': False, 'pos': 'DET'}
+1756*{'date': 'July 30', 'text': 'Bartolomeo Rastrelli presents the newly built Catherine Palace to Empress Elizabeth and her courtiers.', 'self': False, 'pos': 'NP'}
+1756*{'date': 'August 29', 'text': "Frederick II of Prussia invades Saxony, beginning the Seven Years' War on the continent.", 'self': False, 'pos': 'NP'}
+1756*{'date': 'October 14', 'text': 'An Agreement of Friendship and Trade is signed by the Sultan Osman III and the King Frederick V. Denmark has appointed an extraordinary representative to the Ottoman Empire.', 'self': False, 'pos': 'DET'}
+1756*{'text': "Frederick II of Prussia forces his country's peasants to grow the unpopular and obscure potato.", 'self': False, 'pos': 'NP'}
+1756*{'text': 'First chocolate-candy factory begins operations in Germany.', 'self': False, 'pos': 'NP'}
+1756*{'text': 'Leopold Mozart publishes his book on his method for learning to play the violin, Versuch einer gründlichen Violinschule.', 'self': False, 'pos': 'NP'}
+1755*{'date': 'January 25', 'text': 'Moscow University is established on Tatiana Day.', 'self': False, 'pos': 'NP'}
+1755*{'date': 'February 13', 'text': 'The kingdom of Mataram on Java is divided in two, creating the sultanate of Yogyakarta and the sunanate of Surakarta.', 'self': False, 'pos': 'DET'}
+1755*{'date': 'February 20', 'text': 'General Braddock lands in Virginia to take command of the British forces against the French in North America.', 'self': False, 'pos': 'NP'}
+1755*{'date': 'April 15', 'text': 'A Dictionary of the English Language is published by Samuel Johnson (he had begun the work 9 years earlier, in 1746).', 'self': False, 'pos': 'DET'}
+1755*{'date': 'July 25', 'text': 'The decision to deport the Acadians is made during meetings of the Nova Scotia Council meeting in Halifax.', 'self': False, 'pos': 'DET'}
+1755*{'date': 'August', 'text': 'The Great Expulsion of the Acadians begins.', 'self': False, 'pos': 'DET'}
+1755*{'date': 'November 18', 'text': 'An earthquake occurs in the vicinity of Cape Ann, Massachusetts, causing extensive damage.', 'self': False, 'pos': 'DET'}
+1755*{'date': 'December 2', 'text': 'The second Eddystone Lighthouse is destroyed by fire.', 'self': False, 'pos': 'DET'}
+1755*{'text': 'Wolsey, the clothes manufacturer, is established in Leicester; the business celebrates its 250th anniversary in 2005.', 'self': False, 'pos': 'NP'}
+1755*{'text': 'Artemia salina is first described.', 'self': False, 'pos': 'NP'}
+1754*{'date': 'February 25', 'text': 'Guatemalan Sergeant Major Melchor de Mencos y Varón departs the city of Santiago de los Caballeros de Guatemala with an infantry battalion, to fight British pirates that reportedly disembarked on the coasts of Petén (today Belize) and were sacking the nearby towns.', 'self': False, 'pos': 'NP'}
+1754*{'date': 'March 25', 'text': 'The Clandestine Marriages Act of 1753 comes into force in England and Wales, placing marriage in that jurisdiction on a statutory basis for the first time.', 'self': False, 'pos': 'DET'}
+1754*{'date': 'April 30', 'text': 'Guatemalan Sergeant Mayor Melchor de Mencos y Varón and his troops defeat the British pirates in the battle of San Felipe and the Cobá Lagoon.', 'self': False, 'pos': 'NP'}
+1754*{'date': 'May 28', 'text': 'The Battle of Jumonville Glen begins the French and Indian War in North America.', 'self': False, 'pos': 'DET'}
+1754*{'date': 'June 19', 'text': 'The Albany Congress of New England Colonies proposes an American Union.', 'self': False, 'pos': 'DET'}
+1754*{'date': 'July', 'text': "Columbia University is founded as King's College by royal charter of King George II of England.", 'self': False, 'pos': 'NP'}
+1754*{'date': 'December 13', 'text': 'Osman III (1754–1757) succeeds Mahmud I as Ottoman Emperor.', 'self': True, 'pos': 'NP'}
+1754*{'text': 'Surveyor William Churton lays out what will become the county seat of Orange County, North Carolina.', 'self': False, 'pos': 'NP'}
+1753*{'date': 'January 1', 'text': 'Minimum date value for a datetime field in SQL Server (up version 2005) due to it being the first full year after Britain adopted the Gregorian calendar.', 'self': False, 'pos': 'NP'}
+1753*{'date': 'March 1', 'text': 'Sweden adopts the Gregorian calendar.', 'self': False, 'pos': 'NP'}
+1753*{'date': 'April 5', 'text': 'The founding charter of the British Museum is enacted.', 'self': False, 'pos': 'DET'}
+1753*{'date': 'October 31', 'text': 'Virginia Lieut.', 'self': False, 'pos': 'NP'}
+1753*{'text': 'James Lind writes A Treatise of the Scurvy.', 'self': False, 'pos': 'NP'}
+1753*{'text': 'Robert Wood publishes The ruins of Palmyra; otherwise Tedmor in the desart in English and French, making the ancient Syrian city of Palmyra known to the West.', 'self': False, 'pos': 'NP'}
+1753*{'text': 'The Cramer family starts a brewing operation including the current major brand Warsteiner.', 'self': False, 'pos': 'DET'}
+1752*{'date': 'January 1', 'text': 'The British Empire adopts the Gregorian calendar (to take effect in September).', 'self': False, 'pos': 'DET'}
+1752*{'date': 'February 11', 'text': 'Pennsylvania Hospital, the first hospital in the U.S., is opened.', 'self': False, 'pos': 'NP'}
+1752*{'date': 'February 27', 'text': 'The Virginia Assembly passes a law making maiming a felony, in response to the practice of gouging.', 'self': False, 'pos': 'DET'}
+1752*{'date': 'March 23', 'text': 'The Halifax Gazette, the first Canadian newspaper, is published.', 'self': False, 'pos': 'DET'}
+1752*{'date': 'June 6', 'text': 'Fire destroys 18,000 houses in Moscow.', 'self': False, 'pos': 'NP'}
+1752*{'date': 'June 15', 'text': 'Benjamin Franklin proves that lightning is electricity, using a kite and a key.', 'self': False, 'pos': 'NP'}
+1752*{'date': 'September 2', 'text': 'Great Britain and the British Empire adopts the Gregorian calendar, making the Julian date of September 2 be followed by the Gregorian date of September 14.', 'self': False, 'pos': 'NP'}
+1752*{'text': 'Adam Smith transfers to professor of moral philosophy at the University of Glasgow.', 'self': False, 'pos': 'NP'}
+1751*{'text': 'Upon his death, Frederick I of Sweden is succeeded as king by Adolf Frederick.', 'self': False, 'pos': 'NP'}
+1751*{'date': 'April 20', 'text': "The future King George III of the United Kingdom succeeds his father as heir-apparent to the British throne (later that year, he's named Prince of Wales).", 'self': False, 'pos': 'DET'}
+1751*{'date': 'May 11', 'text': 'The Pennsylvania legislature grants a charter to Benjamin Franklin and Dr. Thomas Bond for the establishment in Philadelphia of the first hospital in the Colonies.', 'self': False, 'pos': 'DET'}
+1751*{'date': 'July 31', 'text': 'Fire destroys 1,000 houses in Stockholm.', 'self': False, 'pos': 'NP'}
+1751*{'date': 'August 13', 'text': 'The Academy and College of Philadelphia, predecessor to the private University of Pennsylvania, opens its doors, with Benjamin Franklin as president.', 'self': False, 'pos': 'DET'}
+1751*{'date': 'October 27', 'text': 'The Hōreki period begins in Japan.', 'self': False, 'pos': 'DET'}
+1751*{'text': 'Adam Smith is appointed professor of logic at the University of Glasgow.', 'self': False, 'pos': 'NP'}
+1751*{'text': 'University of Glasgow School of Medicine is founded.', 'self': False, 'pos': 'NP'}
+1751*{'text': 'The Encyclopédie is first published.', 'self': False, 'pos': 'DET'}
+1751*{'text': 'Maria Theresa thaler minted; it becomes an international currency.', 'self': False, 'pos': 'NP'}
+1750*{'date': 'January', 'text': 'A fire in Istanbul destroys 10,000 homes.', 'self': False, 'pos': 'DET'}
+1750*{'date': 'April', 'text': 'A second fire devastates Istanbul (see January).', 'self': False, 'pos': 'DET'}
+1750*{'date': 'April 4', 'text': 'A small earthquake hits Warrington, England, Great Britain.', 'self': False, 'pos': 'DET'}
+1750*{'date': 'July 9', 'text': 'Traveller Jonas Hanway leaves St. Petersburg to return home via Germany and the Netherlands.', 'self': False, 'pos': 'NP'}
+1750*{'date': 'August 23', 'text': 'A small earthquake hits Spalding, Lincolnshire, England.', 'self': False, 'pos': 'DET'}
+1750*{'date': 'September 30', 'text': 'A small earthquake hits Northampton, England.', 'self': False, 'pos': 'DET'}
+1750*{'date': 'November 11', 'text': 'A riot breaks out in Lhasa, Tibet, after the murder of the regent of Tibet.', 'self': False, 'pos': 'DET'}
+1750*{'date': 'November 16', 'text': 'Westminster Bridge is officially opened.', 'self': False, 'pos': 'NP'}
+1750*{'text': 'Hannah Snell reveals her sex to her Royal Marines compatriots.', 'self': False, 'pos': 'NP'}
+1750*{'text': "Ahmad Shah Bahadur's army, retreating from Persia, reportedly loses 18,000 men near what is present-day Herat, Afghanistan from cold in a single night.", 'self': False, 'pos': 'NP'}
+1750*{'text': 'The King of Dahomey has income of 250,000 pounds from the overseas export of slaves.', 'self': False, 'pos': 'DET'}
+1750*{'text': 'Maruyama Okyo paints The Ghost of Oyuki.', 'self': False, 'pos': 'NP'}
+1750*{'text': "Britain produces c. 2% of the entire world's output of industrial goods and the Industrial Revolution begins.", 'self': False, 'pos': 'NP'}
+1750*{'text': 'Galley slavery is abolished in Europe.', 'self': False, 'pos': 'NP'}
+1800*{'date': 'February 13', 'text': 'The Bank of France is founded.', 'self': False, 'pos': 'DET'}
+1800*{'date': 'March 14', 'text': 'Cardinal Barnaba Chiaramonti succeeds Pius VI as Pius VII, the 251st pope.', 'self': False, 'pos': 'NP'}
+1800*{'date': 'March 20', 'text': 'Alessandro Volta describes his new invention, the voltaic pile, the first chemical battery, in a letter to the Royal Society.', 'self': False, 'pos': 'NP'}
+1800*{'date': 'April 24', 'text': 'The U.S. Library of Congress is founded.', 'self': False, 'pos': 'DET'}
+1800*{'date': 'May 5', 'text': 'Great Britain passes the Act of Union to join Great Britain and Ireland into the United Kingdom (to take effect on 1 January 1801).', 'self': False, 'pos': 'NP'}
+1800*{'date': 'May 15', 'text': 'Napoleon Bonaparte crosses the Alps and invades Italy.', 'self': False, 'pos': 'NP'}
+1800*{'date': 'June 2', 'text': 'First smallpox vaccination is made in North America, at Trinity, Newfoundland.', 'self': False, 'pos': 'NP'}
+1800*{'date': 'September 30', 'text': 'The Convention of 1800, or Treaty of Mortefontaine, is signed between France and the United States of America, ending the Quasi-War.', 'self': True, 'pos': 'DET'}
+1800*{'text': 'U.S. President John Adams becomes the first President of the United States to live in the Executive Mansion (later renamed the White House).', 'self': False, 'pos': 'NP'}
+1800*{'text': 'Middlebury College is granted its charter by the Vermont General Assembly.', 'self': False, 'pos': 'NP'}
+1800*{'date': 'November 17', 'text': 'The U.S. Congress holds its first Washington, D.C. session.', 'self': False, 'pos': 'DET'}
+1800*{'text': 'An assault on Napoleon Bonaparte fails in Paris.', 'self': False, 'pos': 'DET'}
+1800*{'text': 'Pierre Coudrin and Henriette Aymer de la Chevalerie found the Congregation of the Sacred Hearts of Jesus and Mary in Paris.', 'self': False, 'pos': 'NP'}
+1768*{'date': 'January 9', 'text': 'Philip Astley stages the first modern circus, with acrobats on galloping horses (London).', 'self': False, 'pos': 'NP'}
+1768*{'date': 'February 11', 'text': "Samuel Adams's circular letter is issued by the Massachusetts House of Representatives and sent to the other Thirteen Colonies.", 'self': False, 'pos': 'NP'}
+1768*{'date': 'May 10', 'text': 'John Wilkes is imprisoned for writing an article for the North Briton severely criticizing King George III.', 'self': False, 'pos': 'NP'}
+1768*{'date': 'December 1', 'text': 'The slave ship Fredensborg sinks off Tromøy in Norway.', 'self': False, 'pos': 'DET'}
+1768*{'date': 'December 21', 'text': 'Nepal is united.', 'self': False, 'pos': 'NP'}
+1768*{'text': 'The Petit Trianon, originally built for Madame de Pompadour, is achieved in the park of the Palace of Versailles and inaugurated by Louis XV.', 'self': False, 'pos': 'DET'}
+1768*{'text': 'New Smyrna Beach, the largest attempt at colonization by the British in the New World, is founded by Dr. Andrew Turnbull.', 'self': False, 'pos': 'NP'}
+1768*{'text': 'A Secretary of State for the colonies is appointed in Britain.', 'self': False, 'pos': 'DET'}
+1768*{'text': 'The Massachusetts Assembly is dissolved for refusing to assist in the collection of taxes.', 'self': False, 'pos': 'DET'}
+1768*{'text': 'Boston citizens refuse to quarter British troops.', 'self': False, 'pos': 'NP'}
+1768*{'text': 'The first of the weekly numbers of the Encyclopædia Britannica are published; 100 are planned.', 'self': False, 'pos': 'DET'}
+1768*{'text': "The Steller's sea cow, discovered on Bering Island in 1741, is driven to extinction.", 'self': False, 'pos': 'DET'}
+1768*{'text': 'Louis XV of France appoints Rene de Maupeau as chancellor and orders him to crush the judicial opposition.', 'self': False, 'pos': 'NP'}
+1768*{'text': 'Bougainville Strait was discovered.', 'self': False, 'pos': 'NP'}
+1769*{'date': 'March 16', 'text': 'Louis Antoine de Bougainville returns to Saint-Malo following a three-year circumnavigation of the world with the ships La Boudeuse and Étoile, with the loss of only seven out of 330 men; among the returning crew is Jeanne Baré, the first woman known to have circumnavigated the globe.', 'self': False, 'pos': 'NP'}
+1769*{'date': 'April 13', 'text': 'James Cook arrives in Tahiti on the ship HM Bark Endeavour, preparing to observe the transit of the planet Venus, which takes place on June 3.', 'self': False, 'pos': 'NP'}
+1769*{'date': 'April 29', 'text': 'James Watt is granted a patent for improvements to the steam engine, an invention which helps inaugurate the Industrial Revolution in Great Britain.', 'self': False, 'pos': 'NP'}
+1769*{'date': 'May 9', 'text': 'France conquers Corsica.', 'self': False, 'pos': 'NP'}
+1769*{'date': 'May 14', 'text': 'Charles III of Spain sends Spanish missionaries, who found California missions in San Diego, Santa Barbara, San Francisco and Monterey and begin the settlement of California.', 'self': False, 'pos': 'NP'}
+1769*{'date': 'May 19', 'text': 'Pope Clement XIV succeeds Pope Clement XIII as the 249th pope.', 'self': False, 'pos': 'NP'}
+1769*{'date': 'June 7', 'text': 'Frontiersman Daniel Boone first begins to explore the present-day Bluegrass State, Kentucky.', 'self': False, 'pos': 'NP'}
+1769*{'date': 'July 16', 'text': 'Father Junípero Serra founds Mission San Diego de Alcalá, the first of the 21 California missions.', 'self': False, 'pos': 'NP'}
+1769*{'date': 'August 3', 'text': 'The party of Gaspar de Portolà becomes the first white group to set foot in the area now known as Santa Monica, California.', 'self': False, 'pos': 'DET'}
+1769*{'date': 'September 6–September 9', 'text': 'David Garrick holds the first Shakespeare Festival at Stratford-upon-Avon.', 'self': False, 'pos': 'NP'}
+1769*{'text': 'October 7– James Cook lands in New Zealand at Poverty Bay.', 'self': False, 'pos': 'NP'}
+1769*{'date': 'December 13', 'text': 'Dartmouth College in Hanover, New Hampshire is established as John Wentworth, the Royal Governor, conveys a charter from King George III of England.', 'self': False, 'pos': 'NP'}
+1769*{'text': 'The Maharajah of Mysore forces the British to agree a treaty of mutual assistance in view of the famine, but the British East India Company increases its demands on the Bengali people to keep profits up.', 'self': False, 'pos': 'DET'}
+1769*{'text': 'Richard Arkwright invents the spinning frame.', 'self': False, 'pos': 'NP'}
+1769*{'text': 'The city of Brescia, Italy is devastated when the Church of San Nazaro, near Venice, is struck by lightning.', 'self': False, 'pos': 'DET'}
+1762*{'date': 'January 4', 'text': 'Britain declares war on Spain and Naples.', 'self': False, 'pos': 'NP'}
+1762*{'date': 'February 5', 'text': 'The Great Holocaust of the Sikhs is carried out by the forces of Ahmed Shah Abdali in Punjab.', 'self': False, 'pos': 'DET'}
+1762*{'date': 'May 15', 'text': 'The Treaty of Saint Petersburg (1762) ends the war between Russia and Prussia.', 'self': True, 'pos': 'DET'}
+1762*{'date': 'May 22', 'text': 'The Treaty of Hamburg takes Sweden out of the war against Prussia.', 'self': False, 'pos': 'DET'}
+1762*{'date': 'July 9', 'text': 'Catherine II becomes empress of Russia upon the deposition of her husband Peter III.', 'self': False, 'pos': 'NP'}
+1762*{'date': 'November 13', 'text': 'Treaty of Fontainebleau, a secret agreement in which Louis XV of France cedes Louisiana (New France) to Charles III of Spain.', 'self': False, 'pos': 'NP'}
+1762*{'text': 'Louis XV orders the construction of the Petit Trianon, in the park of the Palace of Versailles, for his mistress Madame de Pompadour.', 'self': False, 'pos': 'NP'}
+1762*{'text': 'Neolin, a Delaware tribe prophet, begins to preach in America.', 'self': False, 'pos': 'NP'}
+1762*{'text': 'The North Carolina General Assembly incorporates Kingston, named for King George III of the United Kingdom, as the county seat of Dobbs County, North Carolina.', 'self': False, 'pos': 'DET'}
+1762*{'text': 'The town of Charlottesville, Virginia is founded.', 'self': False, 'pos': 'DET'}
+1762*{'text': 'The town of Hummelstown, Pennsylvania is founded.', 'self': False, 'pos': 'DET'}
+1762*{'text': "James Stuart and Nicholas Revett's architectural treatise Antiquities of Athens.", 'self': False, 'pos': 'NP'}
+1763*{'date': 'February 1', 'text': 'The Royal Colony of North Carolina officially creates Mecklenburg County from the western portion of Anson County.', 'self': False, 'pos': 'DET'}
+1763*{'date': 'February 15', 'text': "The Treaty of Hubertusburg puts an end to the Seven Years' War between Prussia and Austria and their allies.", 'self': False, 'pos': 'DET'}
+1763*{'date': 'February 23', 'text': 'The Berbice Slave Uprising starts in the former Dutch colony of Berbice.', 'self': False, 'pos': 'DET'}
+1763*{'date': 'March 1', 'text': 'Charles Townshend becomes President of the Board of Trade in the British government.', 'self': False, 'pos': 'NP'}
+1763*{'date': 'June 28', 'text': 'A massive earthquake occurs on the same day in Komárom in Hungary, in Komárno in Slovakia and in Zsámbék in Hungary.', 'self': False, 'pos': 'DET'}
+1763*{'date': 'September 1', 'text': "Catherine II of Russia endorses Ivan Betskoy's plans for a Foundling Home in Moscow.", 'self': False, 'pos': 'NP'}
+1763*{'date': 'October 7', 'text': 'The Royal Proclamation of 1763 is issued by King George III, restricting American settlement westward.', 'self': True, 'pos': 'DET'}
+1763*{'text': 'Joseph Haydn wrote Symphony No.', 'self': False, 'pos': 'NP'}
+1763*{'text': 'Fire in Smyrna, Turkey destroys 2,600 houses.', 'self': False, 'pos': 'NP'}
+1763*{'text': 'Mir Qasim of Bengal destroys the English garrison in Patna.', 'self': False, 'pos': 'NP'}
+1763*{'text': 'The English defeat Mir Qasim at Katwah, Murshidabad, Giria, Sooty, Udayanala and Monghyr.', 'self': False, 'pos': 'DET'}
+1763*{'text': 'The seat of colonial administration in the Viceroyalty of Brazil is moved from Salvador to Rio de Janeiro.', 'self': False, 'pos': 'DET'}
+1760*{'text': 'January 9 - Afghans defeat Marathas in battle of Barari Gha.', 'self': False, 'pos': 'NP'}
+1760*{'date': 'February 15', 'text': 'The British Royal Navy ship HMS Royal Katherine runs aground off Bolt Head in England with the loss of 699 lives.', 'self': False, 'pos': 'DET'}
+1760*{'date': 'March 20', 'text': 'The Great Fire of Boston, Massachusetts, destroys 349 buildings.', 'self': False, 'pos': 'DET'}
+1760*{'date': 'July 3', 'text': 'A lightning strike causes a major fire at Portsmouth Royal Dockyard in England.', 'self': False, 'pos': 'DET'}
+1760*{'date': 'July 19', 'text': 'A formal request is made to the Spanish government as to allow the founding of the later city of Mayagüez, Puerto Rico.', 'self': False, 'pos': 'DET'}
+1760*{'date': 'August 21', 'text': 'The church (later cathedral) of Our Lady of Candlemas of Mayagüez (Puerto Rico) is founded, establishing the basis for the founding of the city.', 'self': False, 'pos': 'DET'}
+1760*{'date': 'September 18', 'text': 'The town (later city) of Mayagüez, Puerto Rico, is founded.', 'self': False, 'pos': 'DET'}
+1760*{'date': 'October 25', 'text': 'George II of Great Britain dies; his grandson George III ascends to the throne.', 'self': False, 'pos': 'NP'}
+1760*{'text': "Dr. James Fordyce's two-volume compendium, Sermons for Young Women, is published.", 'self': False, 'pos': 'NP'}
+1760*{'text': 'Western countries pay 3,000,000 ounces of silver for Chinese goods.', 'self': False, 'pos': 'NP'}
+1760*{'date': 'Approximate date', 'text': 'Abu Dhabi is founded.', 'self': False, 'pos': 'NP'}
+1761*{'date': 'January 16', 'text': 'The British capture Pondicherry, India from the French.', 'self': False, 'pos': 'DET'}
+1761*{'date': 'February 8', 'text': 'An earthquake in London breaks chimneys in Limehouse and Poplar.', 'self': False, 'pos': 'DET'}
+1761*{'date': 'March 8', 'text': 'A second earthquake occurs in North London, Hampstead and Highgate.', 'self': False, 'pos': 'DET'}
+1761*{'date': 'June 6', 'text': 'A transit of Venus occurs, and is observed from 120 locations around the Earth.', 'self': False, 'pos': 'DET'}
+1761*{'date': 'September 8', 'text': 'George III of the United Kingdom marries Charlotte of Mecklenburg-Strelitz (Queen Charlotte).', 'self': False, 'pos': 'NP'}
+1761*{'date': 'September 19', 'text': 'The slave trade to and within Portugal is forbidden.', 'self': False, 'pos': 'DET'}
+1761*{'date': 'September 22', 'text': 'George III of the United Kingdom and Queen Charlotte are crowned.', 'self': False, 'pos': 'NP'}
+1761*{'text': "Matthew Boulton's Soho Manufactory opens.", 'self': False, 'pos': 'NP'}
+1761*{'text': 'The tune to Twinkle Twinkle Little Star is published in France.', 'self': False, 'pos': 'DET'}
+1766*{'date': 'January 1', 'text': 'Bonnie Prince Charlie becomes the new Stuart claimant to the throne of Great Britain as King Charles III and figurehead for Jacobitism.', 'self': False, 'pos': 'NP'}
+1766*{'date': 'February 5', 'text': 'An observer in Wilmington, North Carolina reports to the Edinburgh newspaper Caledonian Mercury that three ships were seized by British men-of-war on the charge of carrying official documents without stamps.', 'self': False, 'pos': 'DET'}
+1766*{'date': 'February 20', 'text': 'The Pennsylvania Gazette reports that a British sloop outside of Wilmington, North Carolina seized 1 sloop sailing from Philadelphia and 1 sloop sailing from Saint Christopher on the charge of carrying official documents without stamps.', 'self': False, 'pos': 'DET'}
+1766*{'date': 'February 23', 'text': 'Lorraine becomes French again on the death of Stanislaus I Leszczyński, King of Poland.', 'self': False, 'pos': 'NP'}
+1766*{'date': 'March 5', 'text': 'Antonio de Ulloa, the first Spanish governor of Louisiana, arrives in New Orleans.', 'self': False, 'pos': 'NP'}
+1766*{'date': 'November 10', 'text': "The last Colonial governor of New Jersey, William Franklin, signs the charter of Queen's College (later renamed Rutgers University).", 'self': False, 'pos': 'DET'}
+1766*{'date': 'November 27', 'text': 'An observer in New York City, in the Province of New York reports to the Pennsylvania Gazette that a British Sloop of War is searching all vessels passing near Cape Lookout, North Carolina and that some vessels have been seized.', 'self': False, 'pos': 'DET'}
+1766*{'date': 'December 2', 'text': 'Sweden introduces its Freedom of the Press Act, becoming the first country of the world to protect freedom of the press in the Constitution, and the first country in the world to grant a wide-ranging freedom of information.', 'self': False, 'pos': 'NP'}
+1766*{'text': 'Wolfgang Amadeus Mozart returns to Salzburg after touring Paris and London with his father.', 'self': False, 'pos': 'NP'}
+1766*{'text': 'The Burmese begin to invade the Thai kingdom of Ayutthaya.', 'self': False, 'pos': 'DET'}
+1766*{'text': 'Childsburgh, the Orange County, North Carolina county seat laid out as Corbin Town in 1754 and renamed in 1759, is renamed Hillsborough in honor of Wills Hill, Earl of Hillsborough.', 'self': False, 'pos': 'NP'}
+1767*{'date': 'January 1', 'text': 'The Nautical Almanac for the first time gives mariners the means to find their longitude while at sea, using tables of lunar distances.', 'self': False, 'pos': 'DET'}
+1767*{'date': 'January 9', 'text': "William Tryon, governor of the Royal Colony of North Carolina, signs a contract with architect John Hawks to build Tryon Palace, a lavish Georgian style governor's mansion on the New Bern waterfront.", 'self': False, 'pos': 'NP'}
+1767*{'date': 'June 18', 'text': 'First confirmed sighting of Tahiti by a European, Samuel Wallis, an English sea captain.', 'self': False, 'pos': 'NP'}
+1767*{'text': 'Pitcairn Island is first definitely sighted by Midshipman Robert Pitcairn on an expeditionary voyage commanded by Philip Carteret.', 'self': False, 'pos': 'NP'}
+1767*{'text': "Norway's oldest newspaper still in print, Adresseavisen, is first published.", 'self': False, 'pos': 'NP'}
+1767*{'date': 'Autumn', 'text': 'North Carolina woodsman Daniel Boone goes through the Cumberland Gap and reaches Kentucky, in defiance of the Royal Proclamation of 1763 issued by King George III.', 'self': False, 'pos': 'NP'}
+1764*{'date': 'January 19', 'text': 'John Wilkes is expelled from the House of Commons of Great Britain for seditious libel.', 'self': False, 'pos': 'NP'}
+1764*{'date': 'February 15', 'text': 'The American city of St Louis is established.', 'self': False, 'pos': 'DET'}
+1764*{'date': 'April 6', 'text': 'The Sugar Act is passed.', 'self': False, 'pos': 'DET'}
+1764*{'date': 'June 21', 'text': 'The English-language Quebec Gazette is established in Quebec City, Quebec, Canada.', 'self': False, 'pos': 'DET'}
+1764*{'date': 'June 29', 'text': 'A Level 5 tornado hits Woldegk, Germany.', 'self': False, 'pos': 'DET'}
+1764*{'date': 'September 7', 'text': 'Stanisław August Poniatowski is elected as the King of the Polish-Lithuanian Commonwealth.', 'self': False, 'pos': 'NP'}
+1764*{'date': 'November 9', 'text': 'Mary Campbell, a captive of the Lenape during the French and Indian War, is turned over to forces commanded by Colonel Henry Bouquet.', 'self': False, 'pos': 'NP'}
+1764*{'text': 'The Royal Colony of North Carolina establishes a new county from the eastern portion of Granville County and names it Bute County for John Stuart, 3rd Earl of Bute, who had recently resigned his post as Prime Minister of Great Britain.', 'self': False, 'pos': 'DET'}
+1764*{'text': 'The French government withdraws the wartime taxes.', 'self': False, 'pos': 'DET'}
+1765*{'date': 'January 23', 'text': 'Joseph II, Holy Roman Emperor marries Princess Maria Josepha of Bavaria in Vienna.', 'self': False, 'pos': 'NP'}
+1765*{'date': 'March 22', 'text': 'The British Parliament passes the Stamp Act, which is the first direct tax levied from Great Britain on the American colonies.', 'self': False, 'pos': 'DET'}
+1765*{'date': 'March 24', 'text': 'Great Britain passes the Quartering Act, requiring the 13 American colonies to house British troops.', 'self': False, 'pos': 'NP'}
+1765*{'date': 'May 18', 'text': 'Fire destroys one quarter of the town of Montreal, Quebec.', 'self': False, 'pos': 'NP'}
+1765*{'date': 'June 21', 'text': 'The Isle of Man is brought under British control.', 'self': False, 'pos': 'DET'}
+1765*{'date': 'August 18', 'text': 'Josef II becomes Holy Roman Emperor.', 'self': False, 'pos': 'NP'}
+1765*{'date': 'September 21', 'text': 'François Antoine (also wrongly titled Antoine de Beauterne) announces he has killed the Beast of Gévaudan.', 'self': False, 'pos': 'NP'}
+1765*{'date': 'October 17', 'text': 'The Pennsylvania Gazette reports that a Mr. McCullough, the Distributor of Stamps for the Royal Colony of North Carolina, has resigned his post in protest of the Stamp Act.', 'self': False, 'pos': 'DET'}
+1765*{'date': 'November 1', 'text': 'The Stamp Act goes into effect in the 13 colonies, in order to help pay for British military operations in North America.', 'self': False, 'pos': 'DET'}
+1765*{'date': 'December 12', 'text': 'The Pennsylvania Gazette reports that Dr. Huston, the recently instated Distributor of Stamps for the Royal Colony of North Carolina, has resigned his post in protest of the Stamp Act.', 'self': False, 'pos': 'DET'}
+1765*{'text': 'The first chocolate factory in the United States is established by Dr. James Baker at Dorchester, Massachusetts.', 'self': False, 'pos': 'DET'}
+1765*{'text': 'The first true restaurant opens in Paris, where a tavern-keeper named Boulanger sells cooked dishes at an all-night place on the Rue Bailleul.', 'self': False, 'pos': 'DET'}
+1765*{'text': 'James Watt makes a breakthrough in the development of the steam engine by constructing a model with a separate condenser.', 'self': False, 'pos': 'NP'}
+1765*{'text': 'Desai Atash Behram is established in Navsari, India.', 'self': False, 'pos': 'NP'}

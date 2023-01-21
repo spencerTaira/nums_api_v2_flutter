@@ -1,0 +1,425 @@
+216*{'text': 'The Baths of Caracalla in Rome are completed with public baths (Thermae), reading rooms, auditoriums, running tracks, and public gardens that cover 20 acres.', 'self': False, 'pos': 'DET'}
+216*{'text': 'Emperor Caracalla tricks the Parthians by accepting a marriage proposal.', 'self': False, 'pos': 'NP'}
+216*{'text': 'Caracalla provokes a war with Artabanus IV of Parthia to imitate his idol Alexander the Great.', 'self': False, 'pos': 'NP'}
+216*{'text': 'The basilica of Leptis Magna, ordered by Septimius Severus, is completed.', 'self': False, 'pos': 'DET'}
+216*{'text': 'Cao Cao, Chinese warlord, established himself as king of the Kingdom of Wei.', 'self': False, 'pos': 'NP'}
+216*{'text': 'Mithraism, which had begun in Persia, is on course to be adopted by many Roman soldiers serving in Asia.', 'self': False, 'pos': 'NP'}
+217*{'date': 'April 8', 'text': 'Caracalla is assassinated by his legionaries near Edessa.', 'self': False, 'pos': 'NP'}
+217*{'text': 'Macrinus, of Mauritania, becomes the first equestrian Roman emperor.', 'self': False, 'pos': 'NP'}
+217*{'text': 'The Colosseum is badly damaged by fire (lightning) which destroys the wooden upper levels of the amphitheater.', 'self': False, 'pos': 'DET'}
+217*{'date': 'December 20', 'text': 'The papacy of Zephyrinus ends.', 'self': False, 'pos': 'DET'}
+217*{'text': 'Hippolytus begins his "pontificate" as antipope and sets up a breakaway church for Christian fowlers.', 'self': False, 'pos': 'NP'}
+217*{'text': 'Ciriacus succeeds Philadelphus as Patriarch of Constantinople.', 'self': False, 'pos': 'NP'}
+214*{'text': 'The kingdom of Osroene becomes a province of the Roman Empire.', 'self': False, 'pos': 'DET'}
+214*{'text': "Caracalla's victories in Germany ensure his popularity within the Roman army.", 'self': False, 'pos': 'NP'}
+214*{'text': 'The defences of Rhaetia are reinforced, in the form of an uninterrupted stone wall.', 'self': False, 'pos': 'DET'}
+214*{'text': 'The Korean kingdom of Baekje attacks the Mohe tribes.', 'self': False, 'pos': 'DET'}
+214*{'text': 'Liu Bei takes Yi Province (益州) from his clansman Liu Zhang, forming the later basis for Shu Han during the Three Kingdoms period.', 'self': False, 'pos': 'NP'}
+214*{'text': 'Pang Tong dies in the hands of the enemy in an ambush at the Valley of the Fallen Phoenix.', 'self': False, 'pos': 'NP'}
+215*{'text': "Caracalla's troops massacre the population of Alexandria, Egypt, beginning with the leading citizens.", 'self': False, 'pos': 'NP'}
+215*{'text': 'Caracalla introduces a new coin, the Antoninianus.', 'self': False, 'pos': 'NP'}
+215*{'text': "Zhang Liao holds off Sun Quan's invasion force at the siege of Hefei.", 'self': False, 'pos': 'NP'}
+215*{'text': 'Vachagan I becomes king of Caucasian Albania.', 'self': False, 'pos': 'NP'}
+212*{'text': 'The edict of emperor Caracalla (Constitutio Antoniniana) extends Roman citizenship to all free inhabitants of the Roman Empire with the exception of a limited group that may include Egyptians.', 'self': False, 'pos': 'DET'}
+212*{'text': "Caracalla quietens the objections of the Roman army to Geta's murder by huge donations.", 'self': False, 'pos': 'NP'}
+212*{'text': 'Edessa becomes a Roman province.', 'self': False, 'pos': 'NP'}
+213*{'text': 'Marcus Aurelius Antoninus Augustus (Caracalla) and Decimus Caelius Calvinus Balbinus become Roman Consuls.', 'self': False, 'pos': 'NP'}
+213*{'text': 'Emperor Caracalla leaves Rome and expels some German marauders from Gaul.', 'self': False, 'pos': 'NP'}
+213*{'text': 'Cao Cao, the prime minister of the Han dynasty, is titled Wei Gong (Duke of Wei) and given a fief of ten cities under his domain.', 'self': False, 'pos': 'NP'}
+211*{'text': 'Emperor Septimius Severus falls ill and dies in Britain after an 18-year reign.', 'self': False, 'pos': 'NP'}
+211*{'text': 'Eboracum (modern York) becomes the capital of Britannia Inferior, a northern province of the Roman Empire.', 'self': False, 'pos': 'NP'}
+211*{'date': 'February 4', 'text': 'Caracalla and his brother Geta succeed their father Septimius Severus as joint Roman Emperors.', 'self': False, 'pos': 'NP'}
+211*{'date': 'December 19', 'text': 'Geta is lured to come without his bodyguards to meet Caracalla, to discuss a possible reconciliation.', 'self': False, 'pos': 'NP'}
+211*{'text': "Caracalla persecutes Geta's supporters and sympathizers, soldiers are allowed to wreak havoc in the streets of Rome.", 'self': False, 'pos': 'NP'}
+211*{'date': 'January', 'text': 'Cao Cao writes Ràng Xiàn Zì Míng Běn Zhì Lìng (讓縣自明本志令).', 'self': False, 'pos': 'NP'}
+211*{'text': 'Ardashir I becomes king of part of Persia.', 'self': False, 'pos': 'NP'}
+211*{'text': 'Mark is succeeded by Philadelphus as Patriarch of Constantinople.', 'self': False, 'pos': 'NP'}
+218*{'date': 'May 16', 'text': 'Julia Maesa, an aunt of the assassinated Caracalla, is banished to her home in Syria by the self-proclaimed emperor Macrinus and declares her grandson Elagabalus, age 14, emperor of Rome.', 'self': False, 'pos': 'NP'}
+218*{'text': 'Diadumenianus, son of Macrinus, escapes to the Parthian court, but is captured at Zeugma and also put to death.', 'self': False, 'pos': 'NP'}
+218*{'text': 'The silver content of the Roman denarius falls to 43 percent under emperor Elagabalus, down from 50 percent under Septimius Severus, as he empties the treasury with his excesses while his grandmother, Julia Maesa, rules the Empire.', 'self': False, 'pos': 'DET'}
+219*{'text': 'Imperator Marcus Aurelius Antoninus Augustus (Elagabalus) and Quintus Tineius Sacerdos become Roman Consuls.', 'self': False, 'pos': 'NP'}
+219*{'text': 'Julia Maesa arranges for her grandson Elagabalus a marriage with Julia Paula.', 'self': False, 'pos': 'NP'}
+219*{'text': 'Emperor Elagabalus, age 15, is initiated into the worship of the Phrygian gods Cybele and Attis.', 'self': False, 'pos': 'NP'}
+219*{'text': 'The reign of Pulona, Satavahana king of Andhra, begins in India.', 'self': False, 'pos': 'DET'}
+219*{'text': 'The Battle of Mount Dingjun ends with Liu Bei emerging victorious.', 'self': False, 'pos': 'DET'}
+219*{'text': 'Guan Yu, great general of Shu, floods the city of Fancheng in the Battle of Fancheng, while Lü Meng of Eastern Wu captures his home base.', 'self': False, 'pos': 'NP'}
+219*{'text': 'General Cao Cao controls the Huang He basin and north of the country.', 'self': False, 'pos': 'NP'}
+219*{'text': 'Tuoba Liwei becomes the first chieftain of the Tuoba clan of the Xianbei people.', 'self': False, 'pos': 'NP'}
+289*{'text': 'Emperor Diocletian gains several victories along the Danube against the Sarmatians.', 'self': False, 'pos': 'NP'}
+289*{'text': "Constantius Chlorus divorces his wife (or concubine) Helena, mother of Constantine I, and marries emperor Maximian's stepdaughter, Theodora.", 'self': False, 'pos': 'NP'}
+288*{'text': 'Emperor Diocletian conducts a military campaign in Raetia (Switzerland).', 'self': False, 'pos': 'NP'}
+281*{'text': 'Emperor Probus returns to Rome, where he celebrates his triumph over the Vandals and the usurpers (Bonosus, Julius Saturninus and Proculus).', 'self': False, 'pos': 'NP'}
+280*{'text': 'Proculus, Roman usurper, starts a rebellion at Lugdunum (Lyon, France) and proclaims himself emperor.', 'self': False, 'pos': 'NP'}
+280*{'text': 'Emperor Probus drives the Alans off to Asia Minor and suppress the revolt in Gaul, Proculus is executed.', 'self': False, 'pos': 'NP'}
+280*{'text': 'The Germans destroy the Roman fleet on the Rhine, Bonosus is proclaimed emperor at Colonia Agrippina (Cologne).', 'self': False, 'pos': 'DET'}
+280*{'text': 'Probus defeats the army under Bonosus, he sees no way out and hangs himself.', 'self': False, 'pos': 'NP'}
+280*{'text': 'Julius Saturninus, governor of Syria, is in Alexandria charged with the defense of the East.', 'self': False, 'pos': 'NP'}
+280*{'text': 'The Thuringii, a Germanic tribe, appears in the Harz Mountains (Thuringia) of central Germania.', 'self': False, 'pos': 'DET'}
+280*{'text': 'Emperor Sima Yan occupies most of the southern Kingdom of Wu and unites the Chinese Empire under one rule, he founds the Western Jin Dynasty.', 'self': False, 'pos': 'NP'}
+280*{'text': 'The Gupta Empire (India) is founded (approximate date).', 'self': False, 'pos': 'DET'}
+280*{'text': 'The Greek mathematician Pappus demonstrates geometrically the property of the center of gravity.', 'self': False, 'pos': 'DET'}
+283*{'text': 'Emperor Carus travels through Thrace and Asia Minor, he invades Syria and Mesopotamia.', 'self': False, 'pos': 'NP'}
+283*{'text': 'Carus receives for his victories in Persia the title of Persicus Maximus.', 'self': False, 'pos': 'NP'}
+283*{'text': 'Carus dies in mysterious circumstances during an expedition against the Sassanids, during a violent dust storm he is killed by a stroke of lightning.', 'self': False, 'pos': 'NP'}
+283*{'text': 'Marcus Aurelius Carinus succeeds his father Carus.', 'self': False, 'pos': 'NP'}
+283*{'date': 'December 17', 'text': 'Pope Caius succeeds Pope Eutychian as the 28th pope.', 'self': False, 'pos': 'NP'}
+282*{'text': 'Emperor Probus travels towards Sirmium (Serbia).', 'self': False, 'pos': 'NP'}
+282*{'text': 'Probus is murdered by his discontented troops.', 'self': False, 'pos': 'NP'}
+282*{'text': 'Carus defeats the Quadi and Sarmatians on the Danube, for his victories he is given the title Germanicus Maximus.', 'self': False, 'pos': 'NP'}
+282*{'text': 'Carus appoints his oldest son Marcus Aurelius Carinus, Caesar and co-emperor of the western Roman Empire.', 'self': False, 'pos': 'NP'}
+282*{'text': 'A new city is constructed in Fuzhou slightly south of the original city Ye (the main street of the city has remained unchanged since that time).', 'self': False, 'pos': 'DET'}
+282*{'text': 'The Patriarch Theonas of Alexandria becomes one of the first bishops to use the title Pope.', 'self': False, 'pos': 'DET'}
+285*{'text': 'Emperor Carinus marched from Roman Britain to northern Italy and defeats the army under Sabinus Julianus at Verona.', 'self': False, 'pos': 'NP'}
+285*{'text': 'Carausius, naval commander at Bononia (modern Boulogne), is given the task to clear the English Channel of Frankish and Saxon pirates.', 'self': False, 'pos': 'NP'}
+284*{'text': 'The Bagaudae, a group of peasant insurgents, revolt in Gaul against the Roman Empire.', 'self': False, 'pos': 'DET'}
+284*{'text': 'Emperor Numerian travels through Bithynia (Asia Minor) and is murdered on his way home to Rome.', 'self': False, 'pos': 'NP'}
+284*{'date': 'November 20', 'text': 'Gaius Aurelius Valerius Diocletianus, age 39, is proclaimed new emperor.', 'self': False, 'pos': 'NP'}
+284*{'text': 'Diocletianus carries out reforms; the Roman army returns to conscription, and admits large numbers of barbarian volunteers.', 'self': False, 'pos': 'NP'}
+284*{'text': 'Sabinus Julianus, Roman usurper against Emperor Carinus, revolts in Pannonia.', 'self': False, 'pos': 'NP'}
+284*{'date': 'Winter', 'text': 'Diocletianus advanced with his army across the Balkans.', 'self': False, 'pos': 'NP'}
+284*{'text': 'Patriarch Rufinus I succeeds Patriarch Dometius as Patriarch of Constantinople.', 'self': False, 'pos': 'NP'}
+287*{'text': 'Emperor Diocletian and Maximian become Roman Consuls.', 'self': False, 'pos': 'NP'}
+287*{'date': 'September', 'text': 'The first Indiction begins.', 'self': False, 'pos': 'DET'}
+286*{'date': 'April 1', 'text': 'Emperor Diocletian elevates his friend Maximian to co-emperor, giving him the title Augustus.', 'self': False, 'pos': 'NP'}
+286*{'text': 'Carausius, commander of the Classis Britannica, is accused of piracy and sentenced to death.', 'self': False, 'pos': 'NP'}
+286*{'text': 'Tuoba Chuo succeeds his brother Tuoba Xilu as chieftain of the Tuoba clan.', 'self': False, 'pos': 'NP'}
+263*{'text': 'The Wei Kingdom conquers the kingdom of Shu Han, one of the Chinese Three Kingdoms.', 'self': False, 'pos': 'DET'}
+263*{'text': 'Liu Hui writes a commentary on The Nine Chapters on the Mathematical Art, describing what will later be called Gaussian elimination, computing pi, etc.', 'self': False, 'pos': 'NP'}
+262*{'text': 'The Goths invade Asia Minor and destroy the Temple of Artemis in Ephesus.', 'self': False, 'pos': 'DET'}
+262*{'text': 'An earthquake strikes Ephesus.', 'self': False, 'pos': 'DET'}
+262*{'text': 'The Heruls accompanied the Goths ravaging the coasts of the Black Sea and the Aegean.', 'self': False, 'pos': 'DET'}
+261*{'text': 'Emperor Gallienus crushes the Alamanni at Milan.', 'self': False, 'pos': 'NP'}
+261*{'text': 'Gallienus repeals the edict of 258, which led to the persecution of the Christians.', 'self': False, 'pos': 'NP'}
+261*{'text': 'Michu ascends the Silla throne, becoming the first king of the long Kim line.', 'self': False, 'pos': 'NP'}
+260*{'text': 'Valerianus I arranges a meeting with Shapur to negotiate a peace settlement.', 'self': False, 'pos': 'NP'}
+260*{'text': 'Shapur I sends Valerian to Bishapur and used the captured Roman army for engineering plans.', 'self': False, 'pos': 'NP'}
+260*{'text': 'Gallienus becomes the new emperor of Rome, during his reign the Pannonian governor Ingenuus revolts on the Danube.', 'self': False, 'pos': 'NP'}
+260*{'text': 'Gallienus evacuates the fortifications (limes) in the Agri Decumates (Germania Superior), covering the Black Forest area in the face of invading Alamanni.', 'self': False, 'pos': 'NP'}
+260*{'text': 'Gallienus established himself at Mediolanum (modern Milan), he reorganizes the army supported by elite cavalry and dispatch troops to the Rhine frontier.', 'self': False, 'pos': 'NP'}
+260*{'text': 'Postumus, Roman usurper, forms the Gallic Empire and protects the Rhine against an invasion of Germanic tribes.', 'self': False, 'pos': 'NP'}
+260*{'text': 'Saloninus, son of Gallienus, is proclaimed Augustus by his troops.', 'self': False, 'pos': 'NP'}
+260*{'text': 'Postumus executed Saloninus and his adviser Silvanus after breaching the walls of Cologne.', 'self': False, 'pos': 'NP'}
+260*{'text': 'Postumus wins over all the Roman provinces west of the Alps, including Gaul, Britain and Hispania.', 'self': False, 'pos': 'NP'}
+260*{'text': 'The Roman fort of Wiesbaden (Germany) is captured by the Alamanni.', 'self': False, 'pos': 'DET'}
+260*{'text': 'The Franks take control over the Scheldt estuary (approximate date).', 'self': False, 'pos': 'DET'}
+260*{'text': 'Cao Huan succeeds Cao Mao as ruler of the Chinese Kingdom of Wei.', 'self': False, 'pos': 'NP'}
+260*{'text': 'Syria, Egypt and Palestine break off from the Roman Empire to form the Persian-supported Palmyrene Empire.', 'self': False, 'pos': 'NP'}
+260*{'text': 'Earliest known date of chess.', 'self': False, 'pos': 'NP'}
+260*{'text': 'Pope Dionysius convenes a synod at Rome to demand an explanation from bishop Dionysius of Alexandria, who has been charged with separating the members of the Trinity as three distinct deities.', 'self': False, 'pos': 'NP'}
+260*{'text': 'Paul of Samosata becomes Patriarch of Antioch.', 'self': False, 'pos': 'NP'}
+267*{'text': 'The Heruli invade the Black Sea coast, they unsuccessfully attack Byzantium and Cyzicus.', 'self': False, 'pos': 'DET'}
+267*{'text': 'The Goths sack several cities of southern Greece including Athens, Corinth, Argos and Sparta.', 'self': False, 'pos': 'DET'}
+267*{'text': 'Aureolus, charged with defending Italy, defeats Victorinus (co-emperor of Gaul), is proclaimed emperor by his troops, and begins his march on Rome.', 'self': False, 'pos': 'NP'}
+266*{'text': 'The rule of High King Cormac mac Airt ends (approximate date).', 'self': False, 'pos': 'DET'}
+265*{'text': 'Emperor Gallienus tries twice to crush the usurper Postumus, but on the first occasion Aureolus, commander of the elite cavalry, carelessly lets him escape.', 'self': False, 'pos': 'NP'}
+265*{'text': 'Postumus makes no move to march on Rome and claim his territory south of Gaul.', 'self': False, 'pos': 'NP'}
+265*{'text': 'Gallienus repels the invasion of the Goths in the Balkans.', 'self': False, 'pos': 'NP'}
+265*{'text': 'Jin Wudi becomes ruler of part of China, beginning the Jin Dynasty.', 'self': False, 'pos': 'NP'}
+264*{'text': 'Jiang Wei tries to restore the Kingdom of Shu by persuading Zhong Hui to declare a rebellion against Sima Zhao, ruler of Cao Wei.', 'self': False, 'pos': 'NP'}
+264*{'text': 'Sun Hao succeeds Sun Xiu as ruler of the Chinese Kingdom of Wu.', 'self': False, 'pos': 'NP'}
+269*{'text': 'Claudius II travels to Sirmium and prepares a war against the Vandals, who raid Pannonia.', 'self': False, 'pos': 'NP'}
+269*{'text': 'The Heruli capture Athens and raid the Aegean Islands as far as Crete and Rhodes.', 'self': False, 'pos': 'DET'}
+269*{'text': "Queen Zenobia conquers Syria, Palestine, Lebanon and Egypt, giving her control of Rome's grain supply.", 'self': False, 'pos': 'NP'}
+269*{'date': 'January 5', 'text': 'Pope Felix I succeeds Pope Dionysius as the 26th pope.', 'self': False, 'pos': 'NP'}
+269*{'text': 'Paul of Samosata is deposed as Patriarch of Antioch (though he is not removed until 272).', 'self': False, 'pos': 'NP'}
+268*{'text': 'Gallienus is killed by his own senior officers at Mediolanum (Milan) while besieging his rival Aureolus, one of the Thirty Tyrants.', 'self': False, 'pos': 'NP'}
+268*{'text': 'Marcus Aurelius Claudius is charged by the Senate for having murdered Gallienus (it will never be proven).', 'self': False, 'pos': 'NP'}
+268*{'text': "Claudius II asks the Senate to spare the lives of Gallienus's family and political supporters.", 'self': False, 'pos': 'NP'}
+268*{'text': 'The Alamanni invade Italy north of the Po River.', 'self': False, 'pos': 'DET'}
+268*{'text': 'The Visigoths first appear as a distinct people.', 'self': False, 'pos': 'DET'}
+268*{'text': 'Victorinus is declared emperor of the Gallic Empire by the legions at Augusta Treverorum (Trier), following the murders of his predecessors.', 'self': False, 'pos': 'NP'}
+268*{'date': 'December 26', 'text': 'Pope Dionysius dies at Rome after a 9-year reign and is succeeded by Pope Felix I.', 'self': False, 'pos': 'NP'}
+298*{'date': 'March 10', 'text': 'Emperor Maximian concludes his campaign in North Africa against the Berbers, and makes a triumphal entry into Carthage.', 'self': False, 'pos': 'NP'}
+298*{'text': 'The Baths of Diocletian are commissioned by Maximian in honor of Emperor Diocletian.', 'self': False, 'pos': 'DET'}
+298*{'text': 'Galerius invades Armenia with an army of 25,000 men.', 'self': False, 'pos': 'NP'}
+298*{'text': 'The manufacture of cultured silk becomes popular from Korea to Japan.', 'self': False, 'pos': 'DET'}
+299*{'text': 'Galerius commissions the Arch of Galerius in Thessaloniki (Greece).', 'self': False, 'pos': 'NP'}
+296*{'text': 'Constantius Chlorus assembles two invasion fleets with the intent of crossing the English Channel.', 'self': False, 'pos': 'NP'}
+296*{'text': 'Constantius Chlorus reconquers Britain, he rebuilds the cities Eboracum (York), Londinium (London), and Verulamium (St Albans).', 'self': False, 'pos': 'NP'}
+296*{'text': 'Emperor Diocletian dispatched his son-in-law Galerius with a large army to Armenia.', 'self': False, 'pos': 'NP'}
+296*{'date': 'April 22', 'text': 'Pope Caius dies at Rome after a 13-year reign and is succeeded by Pope Marcellinus as the 29th pope.', 'self': False, 'pos': 'NP'}
+297*{'text': 'Emperor Maximian begins a offensive against the Berbers in Mauritania, driving them back into their homelands in the Atlas Mountains.', 'self': False, 'pos': 'NP'}
+297*{'text': 'Galerius makes preparations in Syria for a campaign against the Persian king Narseh.', 'self': False, 'pos': 'NP'}
+294*{'text': 'Galerius, Roman Caesar in the Balkan, proves his worth in campaigning on the Danube frontier, fighting the Goths, Marcomanni, Sarmatians, and Carpi.', 'self': False, 'pos': 'NP'}
+294*{'text': 'Galerius is given the unspectacular job of land reclamation and repopulation, moving the entire tribe of the Carpi to settlements within the Roman Empire.', 'self': False, 'pos': 'NP'}
+294*{'text': 'Emperor Diocletian goes with the young Constantine I the Great (later the first Christian Roman Emperor) on his staff to Egypt.', 'self': False, 'pos': 'NP'}
+294*{'text': 'Tuoba Luguan succeeds his nepnew Tuoba Fu as chieftain of the Tuoba clan.', 'self': False, 'pos': 'NP'}
+295*{'text': 'Galerius, Roman Caesar in the Balkan, is dispatched to Egypt to fight against the rebellious cities Busiris and Coptos.', 'self': False, 'pos': 'NP'}
+295*{'text': 'Tuoba Luguan divides the territory of the Tuoba clan into three areas.', 'self': False, 'pos': 'NP'}
+295*{'text': 'Petra rejoins the province of Palestine, and is converted to Christianity by the Syrian monk Barsauma.', 'self': False, 'pos': 'NP'}
+292*{'text': 'Achilleus, Roman general, is proclaimed emperor in Alexandria.', 'self': False, 'pos': 'NP'}
+292*{'text': 'The oldest known Mayan stele is erected at the capital Tikal (Guatemala).', 'self': False, 'pos': 'DET'}
+293*{'date': 'March 1', 'text': 'Emperor Diocletian and Maximian appoint Constantius Chlorus and Galerius as Caesars.', 'self': False, 'pos': 'NP'}
+293*{'text': 'Nicomedia (northwestern Asia Minor) becomes the capital of Diocletian.', 'self': False, 'pos': 'NP'}
+293*{'text': 'Mediolanum (Milan, near the Alps) becomes the capital of Maximian.', 'self': False, 'pos': 'NP'}
+293*{'text': 'Augusta Treverorum (Trier, in Germany) becomes the capital of Constantius Chlorus.', 'self': False, 'pos': 'NP'}
+293*{'text': 'Constantius Chlorus retakes some of the Gallic territories and conquers the crucial port of Bononia (modern Boulogne).', 'self': False, 'pos': 'NP'}
+293*{'text': 'Carausius, Roman usurper, is murdered by his finance minister Allectus who proclaims himself "emperor" of Britain.', 'self': False, 'pos': 'NP'}
+293*{'text': 'Constantius Chlorus defeats the Franks on the Rhine frontier in Batavia (Netherlands).', 'self': False, 'pos': 'NP'}
+293*{'text': 'Narseh becomes king of Persia and engaded Rome in eight years of constant warfare.', 'self': False, 'pos': 'NP'}
+293*{'text': 'Tuoba Fu succeeds his uncle Tuoba Chuo as chieftain of the Chinese Tuoba clan.', 'self': False, 'pos': 'NP'}
+293*{'text': 'Probus succeeds Rufinus as Patriarch of Constantinople.', 'self': False, 'pos': 'NP'}
+290*{'text': 'Emperor Diocletian and Maximian meet in Milan on the five-year anniversary of their rule to discuss over politics and war.', 'self': False, 'pos': 'NP'}
+290*{'text': 'Carausius who has established himself as king of Britain, is also reluctantly acknowledged by Diocletian and Maximian as third emperor.', 'self': False, 'pos': 'NP'}
+290*{'text': 'Carausius begins to build a series of fortifications on the Saxon Shore in south-east England.', 'self': False, 'pos': 'NP'}
+290*{'date': 'May 17', 'text': 'Emperor Jin Wudi, founder of the Western Jin Dynasty, dies after a 25-year reign.', 'self': False, 'pos': 'NP'}
+291*{'text': 'Emperor Diocletian signs peace treaties with the kingdoms of Aksum and Nubia.', 'self': False, 'pos': 'NP'}
+270*{'text': 'Emperor Claudius II Gothicus dies of plague while preparing to fight the Vandals and Sarmatians, who have invaded Pannonia.', 'self': False, 'pos': 'NP'}
+270*{'text': 'Quintillus commits suicide and is succeeded by an associate of his brother Lucius Domitius Aurelianus, the military leader who distinguished himself last year at the Battle of Naissus (Serbia).', 'self': False, 'pos': 'NP'}
+270*{'text': 'Aurelianus pushes the Goths back across the Danube and recovers Roman territory.', 'self': False, 'pos': 'NP'}
+270*{'text': 'The Romans leave Utrecht after regular invasions of Germanic tribes.', 'self': False, 'pos': 'DET'}
+270*{'text': 'The Chinese invent gunpowder (black powder), a mixture of sulfur, charcoal and potassium nitrate.', 'self': False, 'pos': 'DET'}
+271*{'text': 'Emperor Aurelian pushes the Vandals back from Pannonia and forces them to withdraw over the Danube.', 'self': False, 'pos': 'NP'}
+271*{'text': 'Felicissimus, financial minister of the state treasury, leads an uprising of mint workers against Aurelian.', 'self': False, 'pos': 'NP'}
+271*{'text': 'Victorinus, Emperor of the Gallic Empire, is assassinated by Attitianus, reportedly for reasons of personal revenge.', 'self': False, 'pos': 'NP'}
+271*{'text': 'Zenobia proclaims herself to be Empress, and breaks all relations with the Roman Empire.', 'self': False, 'pos': 'NP'}
+271*{'text': 'Zenobia gives her son Vaballathus the title of Augustus.', 'self': False, 'pos': 'NP'}
+271*{'text': 'A magnetic compass is first used in China.', 'self': False, 'pos': 'DET'}
+272*{'text': 'Emperor Aurelian sends his commander Marcus Aurelius Probus to restore Roman rule in Egypt.', 'self': False, 'pos': 'NP'}
+272*{'text': 'Rome forms an alliance with the king of Aksum (Axum).', 'self': False, 'pos': 'NP'}
+272*{'text': 'Dometius succeeds Titus as Patriarch of Constantinople.', 'self': False, 'pos': 'NP'}
+272*{'text': 'Saint Denis, first Bishop of Paris, and two of his disciples are beheaded on the road to the Temple of Mercury that stands atop a hill outside of the city.', 'self': False, 'pos': 'NP'}
+272*{'text': 'Paul of Samosata is deposed as Patriarch of Antioch.', 'self': False, 'pos': 'NP'}
+273*{'text': 'Emperor Aurelian sacks the city of Palmyra after putting down a new revolt.', 'self': False, 'pos': 'NP'}
+273*{'text': 'The kingdom of Palmyra is reunited with the Roman Empire.', 'self': False, 'pos': 'DET'}
+273*{'text': 'Marcus Claudius Tacitus, future Roman Emperor, is consul in Rome.', 'self': False, 'pos': 'NP'}
+273*{'text': 'Tetricus I and Tetricus II are deposed as Gallic Emperors by Aurelian.', 'self': False, 'pos': 'NP'}
+273*{'text': 'Cassius Longinus, counselor of queen Zenobia, is executed by the Romans for conspiring against Aurelian.', 'self': False, 'pos': 'NP'}
+273*{'text': 'An Indian delegation visits Aurelian.', 'self': False, 'pos': 'DET'}
+274*{'text': 'Rome greets Aurelian as Restitutor Orbis ("Restorer of the World") and accords him a magnificent triumph (victory procession), which is graced by his captives Tetricus I and his son Tetricus II.', 'self': False, 'pos': 'NP'}
+274*{'text': 'Germanic tribes take advantage of the destroyed Roman forces of the Rhine.', 'self': False, 'pos': 'NP'}
+274*{'text': 'The Kingdom of Aksum attains great prosperity thanks to its control of Red Sea trade.', 'self': False, 'pos': 'DET'}
+274*{'date': 'December 30', 'text': 'Pope Felix I dies in Rome after a 5-year reign.', 'self': False, 'pos': 'NP'}
+275*{'text': 'Emperor Aurelian prepares a campaign against the Sassanids in Asia Minor.', 'self': False, 'pos': 'NP'}
+275*{'date': 'September 25', 'text': 'Marcus Claudius Tacitus is proclaimed Emperor by the Senate, his half brother Marcus Annius Florianus becomes Praetorian Prefect.', 'self': False, 'pos': 'NP'}
+275*{'text': 'Gaul is pillaged by the Franks and the Alemanni.', 'self': False, 'pos': 'NP'}
+275*{'text': 'The Pallava dynasty begins in Southern India.', 'self': False, 'pos': 'DET'}
+275*{'date': 'January 4', 'text': 'Pope Eutychian succeeds Pope Felix I as the 27th pope.', 'self': False, 'pos': 'NP'}
+276*{'text': 'Emperor Tacitus doubled the silver content of the aurelianianus and halved its tariffing to 2.5 d.c. carry the value marks X.I.', 'self': False, 'pos': 'NP'}
+276*{'text': 'Marcus Annius Florianus defeats the Goths and Alans who have invaded Asia Minor.', 'self': False, 'pos': 'NP'}
+276*{'text': 'Florianus becomes Roman Emperor; he breaks off his campaign against the Heruli and marches from the Bosporus with support from the Roman legions in Britain, Gaul, Spain and Italy to fight a indecisive battle with Marcus Aurelius Probus in Cilicia.', 'self': False, 'pos': 'NP'}
+276*{'text': 'Florianus holds power for some weeks, but is assassinated by his own troops near Tarsus (Turkey).', 'self': False, 'pos': 'NP'}
+276*{'text': 'Probus appoints Marcus Aurelius Carus to Prefect of the Praetorian Guard, he returns the aurelianianus to the standard and official tariffing of Aurelian.', 'self': False, 'pos': 'NP'}
+276*{'text': 'Reign of Mahasena in Ceylon.', 'self': False, 'pos': 'NP'}
+276*{'text': 'Mani, a sage from Persia, dies at Gundeshapur after 30 years of preaching his "heresy" at the court of the late Sassanian king Shapur I and on long journeys to Khorasan, India and China.', 'self': False, 'pos': 'NP'}
+277*{'text': 'Emperor Probus travels with his army west across the Sea of Marmara (Turkey) and through the provinces of Thrace, Moesia, and Pannonia to defeat the Goths along the lower Danube.', 'self': False, 'pos': 'NP'}
+277*{'text': 'Probus enters Rome to have his position as Emperor ratified by the Senate.', 'self': False, 'pos': 'NP'}
+277*{'text': 'Tuoba Xilu succeeds his father Tuoba Liwei as chieftain of the Tuoba clan.', 'self': False, 'pos': 'NP'}
+278*{'text': 'Emperor Probus defeats the Alamanni, advancing through the Neckar valley.', 'self': False, 'pos': 'NP'}
+278*{'text': 'Probus resettles the Germanic tribes in the devastated provinces of the Roman Empire.', 'self': False, 'pos': 'NP'}
+279*{'text': 'Emperor Probus defeats the Burgundians and Vandals in Raetia and Pannonia (modern Switzerland and Hungary).', 'self': False, 'pos': 'NP'}
+279*{'date': 'Winter', 'text': 'Sima Yan, Emperor of the Jin Dynasty, launches the Jin offensive and attacks along the Yangzi River from Jianye to Jiangling whilst the Sichuan fleet sails downriver to the Jing province.', 'self': False, 'pos': 'NP'}
+300*{'text': 'The Franks penetrate into what is now northern Belgium (approximate date).', 'self': False, 'pos': 'DET'}
+300*{'text': 'The city of Split is built.', 'self': False, 'pos': 'DET'}
+300*{'text': 'A Romano-Celtic temple-mausoleum complex is constructed in what is now Lullingstone, and also in Anderitum (approximate date).', 'self': False, 'pos': 'DET'}
+300*{'text': 'The lion becomes extinct from Armenia (approximate date).', 'self': False, 'pos': 'DET'}
+300*{'text': 'The Yayoi period ends in Ancient Japan (approximate date).', 'self': False, 'pos': 'DET'}
+300*{'text': 'Wootz steel is developed in India (approximate date).', 'self': False, 'pos': 'NP'}
+300*{'text': 'The Kama Sutra, an Indian handbook on the art of sexual love, is probably produced around this time by the sage Vatsyayana.', 'self': False, 'pos': 'DET'}
+300*{'text': 'The elephant becomes extinct in North Africa (approximate date).', 'self': False, 'pos': 'DET'}
+300*{'text': 'The Atlas Wild Ass becomes extinct (approximate date).', 'self': False, 'pos': 'DET'}
+300*{'text': 'The Formative/Preclassic period in Mesoamerica comes to an end (around this year).', 'self': False, 'pos': 'DET'}
+300*{'text': 'The Mayan civilization reaches its most prolific period, the classic period, in what is now Guatemala, Belize and parts of southern Mexico adjacent to the former two.', 'self': False, 'pos': 'DET'}
+300*{'text': 'The magnetic compass for navigation is invented in China (approximate date).', 'self': False, 'pos': 'DET'}
+300*{'text': 'The Panchatantra, a Sanskrit collection of fables and fairy tales, is written in India.', 'self': False, 'pos': 'DET'}
+300*{'text': 'The Tetrarchs are probably made in Egypt.', 'self': False, 'pos': 'DET'}
+300*{'text': 'Peter of Alexandria becomes Patriarch of Alexandria.', 'self': False, 'pos': 'NP'}
+300*{'text': 'Approximate date of the Synod of Elvira in Elvira, Spain, which was a church council that prohibited interaction with Jews, pagans, and heretics.', 'self': False, 'pos': 'NP'}
+245*{'text': 'Emperor Philip the Arab entrusts Trajan Decius with an important command on the Danube.', 'self': False, 'pos': 'NP'}
+245*{'text': 'Plotinus goes to live in Rome.', 'self': False, 'pos': 'NP'}
+245*{'text': 'Trieu Thi Trinh, a Vietnamese warrior, begins her three year resistance against the invading Chinese.', 'self': False, 'pos': 'NP'}
+244*{'date': 'February 11', 'text': 'Emperor Gordian III is murdered by mutinous soldiers in Zaitha (Mesopotamia).', 'self': False, 'pos': 'NP'}
+244*{'text': 'Philip the Arab declares himself co-emperor and makes a disgraceful peace with the Persians.', 'self': False, 'pos': 'NP'}
+244*{'text': 'Philip the Arab constructs the city of Shahba (Syria), the province of his birth.', 'self': False, 'pos': 'NP'}
+244*{'text': 'Philip the Arab is recognized by the Roman Senate as new Roman Emperor and gives his brother Priscus supreme power (rector Orientis) in the Eastern provinces.', 'self': False, 'pos': 'NP'}
+244*{'text': 'Philippus I is proclaimed Augustus, he nominates his son Philippus, age 6, with the title of Caesar and heir to the throne.', 'self': False, 'pos': 'NP'}
+244*{'text': 'Guanqiu Jian of Cao Wei invades Goguryeo, devastating their capital.', 'self': False, 'pos': 'NP'}
+244*{'text': 'Plotinus, Greek philosopher, escapes the bloodshed that accompanies the murder of Gordianus III and makes his way to Antioch.', 'self': False, 'pos': 'NP'}
+244*{'date': '244–249', 'text': 'Philip the Arab, is made.', 'self': False, 'pos': 'NP'}
+244*{'text': 'The silver content of the Roman denarius falls to 0.5 percent under emperor Philippus I, down from 28 percent under Gordian III.', 'self': False, 'pos': 'DET'}
+247*{'text': 'Marcus Julius Philippus Augustus and his 10-year old son Marcus Julius Philippus Caesar become Roman Consuls.', 'self': False, 'pos': 'NP'}
+247*{'text': 'The Goths appear on the lower Danube frontier, they invade the Ukraine and Romania.', 'self': False, 'pos': 'DET'}
+247*{'text': 'Emperor Philip the Arab marks the millennium of Rome by holding the Ludi Saeculares.', 'self': False, 'pos': 'NP'}
+247*{'text': 'Himiko of Yamataikoku, in Japan, begins a war against Himikoko, the King of Kunukoku.', 'self': False, 'pos': 'NP'}
+246*{'text': 'Emperor Philip the Arab fights the Germans along the Danube.', 'self': False, 'pos': 'NP'}
+246*{'text': 'First of the two Councils of Arabia in the Roman Christian Church is held in Bostra, Arabia Petraea.', 'self': False, 'pos': 'NP'}
+246*{'text': 'The Korean Baekje kingdom, under King Goi, attacks the Chinese command of Daifang.', 'self': False, 'pos': 'DET'}
+241*{'date': 'Winter', 'text': 'Emperor Gordian III reaches Antioch and prepares with his army an offensive against the Persians.', 'self': False, 'pos': 'NP'}
+241*{'text': 'Timesitheus becomes Praetorian Prefect.', 'self': False, 'pos': 'NP'}
+241*{'text': 'Shapur I succeeds his father Ardashir I as king of Persia.', 'self': False, 'pos': 'NP'}
+241*{'text': 'The ancient city of Bagram (Afghanistan) is abandoned.', 'self': False, 'pos': 'DET'}
+241*{'text': 'Shapur I annexes parts of the Kushan Empire.', 'self': False, 'pos': 'NP'}
+241*{'date': 'November 1', 'text': 'The Battle of Samhain is fought in Ireland.', 'self': False, 'pos': 'DET'}
+240*{'text': 'The Roman Empire is threatened on several fronts at the same time.', 'self': False, 'pos': 'DET'}
+240*{'text': 'Maharaja Sri-Gupta becomes Emperor of Gupta.', 'self': False, 'pos': 'NP'}
+240*{'text': 'Ardashir I, Sassanid king of Persia, destroys Hatra.', 'self': False, 'pos': 'NP'}
+240*{'text': 'Shapur I becomes co-emperor with his father Ardashir I.', 'self': False, 'pos': 'NP'}
+240*{'text': 'The Kushan Empire falls.', 'self': False, 'pos': 'DET'}
+243*{'text': 'Timesitheus becomes ill and dies under suspicious circumstances.', 'self': False, 'pos': 'NP'}
+243*{'text': 'Emperor Gordian III appoints Philip the Arab as his new praetorian prefect and proceeds with his campaign in Mesopotamia.', 'self': False, 'pos': 'NP'}
+242*{'text': 'Emperor Gordian III begins a campaign against king Shapur I, the Greek philosopher Plotinus joins him and hopes to obtain first-hand knowledge of Persian and Indian philosophies.', 'self': False, 'pos': 'NP'}
+242*{'text': 'Shapur I makes a pre-emptive attack on Antioch to drive out the Romans.', 'self': False, 'pos': 'NP'}
+242*{'text': 'Patriarch Titus succeeds Patriarch Eugenius I as Patriarch of Constantinople.', 'self': False, 'pos': 'NP'}
+249*{'text': 'Trajan Decius puts down a revolt in Moesia and Pannonia.', 'self': False, 'pos': 'NP'}
+249*{'text': 'Decius begins persecuting the Christians and others refusing to participate in Emperor worship.', 'self': False, 'pos': 'NP'}
+249*{'text': 'Sima Yi takes complete control of Cao Wei by executing his political rival Cao Shuang and his clan, marking the start of Sima family rule, which eventually gave rise to the Jin Dynasty.', 'self': False, 'pos': 'NP'}
+248*{'text': 'The revolts of Pacatianus in Moesia and Iotapianus in Syria are put down by senator Decius, by order of emperor Philip the Arab.', 'self': False, 'pos': 'DET'}
+248*{'text': 'The Roman Empire continues the celebration of the 1,000th anniversary of the city of Rome, with the ludi saeculares, organized by Philip the Arab.', 'self': False, 'pos': 'DET'}
+248*{'text': 'Origen writes an eight-volume work criticizing the pagan writer Celsus.', 'self': False, 'pos': 'NP'}
+258*{'text': 'The Goths ravage Asia Minor and Trabzon.', 'self': False, 'pos': 'DET'}
+258*{'text': 'Gaul, Britain and Spain break off from the Roman Empire to form the Gallic Empire.', 'self': False, 'pos': 'NP'}
+258*{'text': 'The amount of silver in the Roman currency, of the denarius falls below 10%.', 'self': False, 'pos': 'DET'}
+258*{'text': 'A second Imperial edict prohibits Christianity in the Roman Empire.', 'self': False, 'pos': 'DET'}
+258*{'text': 'Sun Xiu succeeds Sun Liang as ruler of the Chinese kingdom of Wu.', 'self': False, 'pos': 'NP'}
+258*{'text': 'Pope Sixtus II is martyred.', 'self': False, 'pos': 'NP'}
+259*{'text': 'Emperor Valerian leads an army (70,000 men) to relieve Edessa, besieged by the forces of king Shapur I.', 'self': False, 'pos': 'NP'}
+259*{'text': 'Postumus revolts against Gallienus in Gaul.', 'self': False, 'pos': 'NP'}
+259*{'text': 'Postumus, governor of Gaul, declares himself Emperor and continues to rule the Gallic Empire until 267 when he is killed in battle.', 'self': False, 'pos': 'NP'}
+259*{'text': 'The Roman fort of Wiesbaden (Germany) is captured by the Alamanni (possibly 260).', 'self': False, 'pos': 'DET'}
+259*{'text': 'The Franks, who invaded the Roman Empire near Cologne in 257, reach Tarraco in Hispania.', 'self': False, 'pos': 'DET'}
+259*{'text': 'Pope Dionysius is elected as the 25th pope.', 'self': False, 'pos': 'NP'}
+252*{'text': 'Shapur I, king of Persia, puts the revolt in Khorasan (Iran) down and rejoines with his army.', 'self': False, 'pos': 'NP'}
+252*{'text': 'Sun Liang succeeds Sun Quan as king of the Chinese Kingdom of Wu.', 'self': False, 'pos': 'NP'}
+252*{'text': 'Pope Cornelius is exiled to Centumcellae by emperor Trebonianus Gallus.', 'self': False, 'pos': 'NP'}
+253*{'text': 'Period of the Thirty Tyrants in the Roman empire.', 'self': False, 'pos': 'NP'}
+253*{'text': 'Aemilianus is proclaimed "enemy of the State" by the Roman Senate.', 'self': False, 'pos': 'NP'}
+253*{'text': 'Aemilianus rules for 3 months the Roman Empire, he promise to fight in Thrace and goes to war against Persia.', 'self': False, 'pos': 'NP'}
+253*{'text': 'Aemilianus is murdered at Spoletium and Publius Valerianus, age 60, is recognised as new emperor by the Rhine legions.', 'self': False, 'pos': 'NP'}
+253*{'text': 'Valerianus I splits the Roman Empire in two; Gallienus taking control of the West and his father ruling the East, where he faced the Persian threat.', 'self': False, 'pos': 'NP'}
+253*{'text': 'Pope Cornelius is sent into exile.', 'self': False, 'pos': 'NP'}
+253*{'date': 'June 25', 'text': 'Pope Lucius I succeeds Pope Cornelius as the 22nd pope.', 'self': False, 'pos': 'NP'}
+253*{'text': 'Lucius is arrested almost immediately following his election and also exiled.', 'self': False, 'pos': 'NP'}
+250*{'text': 'A group of Franks penetrate as far as Tarragona in Spain (approximate date).', 'self': False, 'pos': 'DET'}
+250*{'text': 'The Goths under king Cniva invade Moesia.', 'self': False, 'pos': 'DET'}
+250*{'text': 'The Alamanni drive the Romans from the modern area of Donau-Ries.', 'self': False, 'pos': 'DET'}
+250*{'text': 'An epidemic of smallpox begins in Ethiopia, moves into Egypt and the roman colonies in North Africa and spreads through the Roman Empire.', 'self': False, 'pos': 'DET'}
+250*{'text': 'The Kingdom of Aksum (Axum) takes control of commerce on the Red Sea.', 'self': False, 'pos': 'DET'}
+250*{'text': 'The Kofun Period begins in Japan.', 'self': False, 'pos': 'DET'}
+250*{'text': 'The Kushan Empire collapses.', 'self': False, 'pos': 'DET'}
+250*{'text': 'The earliest Chinese references to a device known as "emperor\'s south-pointing carriage" date to this period.', 'self': False, 'pos': 'DET'}
+250*{'text': 'Teotihuacán is rebuilt as a four-quartered cosmogram by Zapotec architects brought from Monte Albán in Oaxaca.', 'self': False, 'pos': 'NP'}
+250*{'text': 'Diophantus writes Arithmetica, the first systematic treatise on algebra.', 'self': False, 'pos': 'NP'}
+250*{'text': 'Battle between the Romans and the Barbarians, detail of the Ludovisi Battle Sarcophagus, found near Rome, is made.', 'self': False, 'pos': 'NP'}
+250*{'text': 'Emperor Decius institutes the persecution of Christians in an attempt to restore the religion of Rome.', 'self': False, 'pos': 'NP'}
+251*{'text': 'The prosperity of Roman Britain declines during this period as the Germanic tribes of the Franks and Saxons, whose homelands are in Friesland and the Low Countries, make raids around the southeast coast.', 'self': False, 'pos': 'DET'}
+251*{'text': 'Gallus makes peace with the Goths, he permits them to keep their plunder, and offers them a bribe not to return.', 'self': False, 'pos': 'NP'}
+251*{'text': 'A fifteen-year plague begins in the Roman Empire.', 'self': False, 'pos': 'DET'}
+251*{'text': 'The Sassanid king, Shapur I, orders an invasion of the Roman East with the intent of finally capturing the jewel of Syria, Antioch (251–254).', 'self': True, 'pos': 'DET'}
+251*{'date': 'March', 'text': 'Pope Cornelius succeeds Pope Fabian as the 21st pope.', 'self': False, 'pos': 'NP'}
+256*{'text': 'Emperor Valerian persecutes Christians.', 'self': False, 'pos': 'NP'}
+256*{'text': 'The Franks cross the Rhine, the Alamanni reach Milan.', 'self': False, 'pos': 'DET'}
+256*{'text': 'The Goths appear at the walls of Thessalonica.', 'self': False, 'pos': 'DET'}
+256*{'text': 'The future emperor Aurelian inspects and organizes the defenses along the Rhine.', 'self': False, 'pos': 'DET'}
+256*{'text': 'The great pandemic of the Roman world strikes violently in Pontus on the Black Sea and causes enormous loss of life in Alexandria, encouraging thousands to embrace Christianity.', 'self': False, 'pos': 'DET'}
+256*{'text': 'Pope Stephen I threatens to excommunicate Cyprian, bishop of Carthage, and other bishops in Africa and Asia Minor unless they stop rebaptizing heretics.', 'self': False, 'pos': 'NP'}
+256*{'text': 'A Synod of Carthage is held.', 'self': False, 'pos': 'DET'}
+257*{'text': 'Gallienus enters into a joint consulship with his father Valerianus I, having brought some order to the Danube area.', 'self': False, 'pos': 'NP'}
+257*{'text': 'Emperor Valerian recovers Antioch in Syria from the Persian king Shapur I.', 'self': False, 'pos': 'NP'}
+257*{'text': 'The Goths build a fleet on the Black Sea.', 'self': False, 'pos': 'DET'}
+257*{'text': 'The Goths separate into the Ostrogoths and the Visigoths.', 'self': False, 'pos': 'DET'}
+257*{'date': 'August 30', 'text': 'Pope Sixtus II succeeds Pope Stephen I as the 24th pope.', 'self': False, 'pos': 'NP'}
+254*{'text': 'Publius Licinius Valerianus Augustus and Publius Licinius Egnatius Gallienus become Roman Consuls.', 'self': False, 'pos': 'NP'}
+254*{'text': 'The Roman Empire is threatened by the Alemanni, Franks and Marcomanni in Germania, by the Goths in the Danube region (Moesia and Thrace) and Asia Minor, and by the Persians in the East.', 'self': False, 'pos': 'DET'}
+254*{'date': 'May 12', 'text': 'Pope Stephen I succeeds Pope Lucius I as the 23rd pope.', 'self': False, 'pos': 'NP'}
+255*{'text': 'Ma Jun, a Chinese mechanical engineer from Cao Wei, invents the South Pointing Chariot, a path-finding directional compass vehicle that uses a differential gear, not magnetics.', 'self': False, 'pos': 'NP'}
+229*{'text': 'Emperor Alexander Severus and Dio Cassius are joint Consuls.', 'self': False, 'pos': 'NP'}
+229*{'text': 'Sun Quan formally declares himself emperor of the Kingdom of Wu.', 'self': False, 'pos': 'NP'}
+229*{'text': 'Wu merchants reached Vietnam, ocean transport is improved to an extent that sea journeys are made to Manchuria and the island of Taiwan.', 'self': False, 'pos': 'NP'}
+229*{'text': 'Zhuge Liang embarks on the third of his Northern Expeditions.', 'self': False, 'pos': 'NP'}
+229*{'text': 'Ammonius Saccas renews Greek philosophy by creating Neoplatonism.', 'self': False, 'pos': 'NP'}
+228*{'text': 'The Praetorian Guard kill Ulpian, Praetorian prefect, who had wanted to reduce their privileges.', 'self': False, 'pos': 'DET'}
+228*{'text': 'Shah Ardashir I, four years after establishing the Sassanid Persian Empire, completes his conquest of Parthia.', 'self': False, 'pos': 'NP'}
+228*{'text': 'The Battle of Jieting and the Battle of Shiting are fought in China.', 'self': False, 'pos': 'DET'}
+227*{'text': 'Seius Sallustius is executed for the attempted murder of his son-in-law Emperor Alexander Severus.', 'self': False, 'pos': 'NP'}
+227*{'text': 'The rule of High King Cormac mac Airt begins (approximate).', 'self': False, 'pos': 'DET'}
+226*{'date': 'June 29', 'text': 'Cao Pi dies after a illness, his son Cao Rui succeeds him as emperor of the Kingdom of Wei.', 'self': False, 'pos': 'NP'}
+226*{'text': 'The Empire of Parthia falls.', 'self': False, 'pos': 'DET'}
+226*{'text': 'A merchant from the Roman Empire called "Qin Lun" by the Chinese, arrives in Jiaozhi (modern Hanoi) and is taken to see Sun Quan, king of Eastern Wu, who requests him to make a report on his native country and people.', 'self': False, 'pos': 'DET'}
+225*{'text': 'Emperor Alexander Severus marries Sallustia Orbiana, and possibly raises her father Seius Sallustius to the rank of caesar.', 'self': False, 'pos': 'NP'}
+225*{'text': 'The first Christian paintings appear in Rome, decorating the Catacombs.', 'self': False, 'pos': 'DET'}
+222*{'date': 'March 11', 'text': 'Emperor Elagabalus is assassinated, along with his mother, Julia Soaemias, by the Praetorian Guard during a revolt.', 'self': False, 'pos': 'NP'}
+222*{'text': 'Alexander Severus succeeds Elagabalus.', 'self': False, 'pos': 'NP'}
+222*{'text': 'The silver content of the Roman denarius falls to 35 percent under emperor Alexander Severus, down from 43 percent under Elagabalus.', 'self': False, 'pos': 'DET'}
+222*{'date': 'October 14', 'text': "Pope Callixtus I is killed by a mob in Rome's Trastevere after a 5-year reign in which he has stabilized the Saturday fast three times per year, with no food, oil, or wine to be consumed on those days.", 'self': False, 'pos': 'NP'}
+222*{'text': 'Gunpowder is invented by alchemists of the Wu Empire in the southeast of China.', 'self': False, 'pos': 'NP'}
+221*{'date': 'June 26', 'text': 'Emperor Elagabalus adopts his cousin Alexander Severus as his heir and receives the title of Caesar.', 'self': False, 'pos': 'NP'}
+221*{'date': 'July', 'text': 'Elagabalus is forced to divorce Aquilia Severa and marries his third wife Annia Faustina.', 'self': False, 'pos': 'NP'}
+221*{'text': 'Liu Bei, Chinese warlord and descendant of the royal family of the Han Dynasty, proclaims himself emperor in Sichuan and establish the Kingdom of Shu Han.', 'self': False, 'pos': 'NP'}
+220*{'text': 'The Goths invade Asia Minor and the Balkans.', 'self': False, 'pos': 'DET'}
+220*{'text': 'An Indian delegation visits the Roman emperor Elagabalus.', 'self': False, 'pos': 'DET'}
+220*{'text': 'Great frost in England is said to have lasted for five months.', 'self': False, 'pos': 'NP'}
+220*{'text': 'Imperator Marcus Aurelius Antoninus Augustus (Elagabalus) and Valerius Comazon Eutychianus become Roman Consuls.', 'self': False, 'pos': 'NP'}
+220*{'text': 'Elagabalus divorces Julia Paula and marries Aquilia Severa, a Vestal Virgin.', 'self': False, 'pos': 'NP'}
+220*{'text': "The Wei Dynasty will give official recognition to Daoism (Taoism) as its religious sect, and the sect's celestial masters will reciprocate by giving spiritual approbation to the Wei as successors to the Han.", 'self': False, 'pos': 'DET'}
+238*{'text': 'Emperor Maximinus Thrax campaigns against the Carpians on the Danube in Moesia (Balkans).', 'self': False, 'pos': 'NP'}
+238*{'text': 'Maximinus advances to the town Aquileia in northern Italy, his army suffers from famine and disease, while the city is besieged.', 'self': False, 'pos': 'NP'}
+238*{'date': 'July 29', 'text': 'The Praetorian Guard stormed the palace and capture Pupienus and Balbinus.', 'self': False, 'pos': 'DET'}
+238*{'text': 'The Colosseum is restored after being damaged.', 'self': False, 'pos': 'DET'}
+238*{'text': 'The Goths, coming from Ukraine, cross the Danube and devastate the Roman Empire up to the border with Anatolia.', 'self': False, 'pos': 'DET'}
+238*{'text': 'The Cao Wei general Sima Yi destroys the outlying northeastern Chinese warlord Gongsun Yuan in his Liaodong campaign.', 'self': False, 'pos': 'DET'}
+238*{'text': 'The silver content of the Roman denarius falls to 28 percent under emperor Gordianus III, down from 35 percent under Alexander Severus.', 'self': False, 'pos': 'DET'}
+239*{'text': 'A Chinese expeditionary force discovers the island of Taiwan.', 'self': False, 'pos': 'DET'}
+239*{'text': 'Origen publishes the Old Testament in five languages.', 'self': False, 'pos': 'NP'}
+234*{'text': 'Emperor Alexander Severus and his mother Julia Mamaea move to Moguntiacum (modern Mainz), the capital of Germania Superior.', 'self': False, 'pos': 'NP'}
+234*{'text': 'Zhuge Liang, Chancellor of Shu Han, embarks on his last Northern Expedition against Cao Wei.', 'self': False, 'pos': 'NP'}
+234*{'text': 'Wei Yan is executed for treason after refusing to accept orders from Zhuge Liang.', 'self': False, 'pos': 'NP'}
+235*{'date': 'March 18', 'text': 'Emperor Alexander Severus and his mother Julia Mamaea are murdered by legionaries near Moguntiacum (modern Mainz), Legio XXII Primigenia mutinied.', 'self': False, 'pos': 'NP'}
+235*{'date': 'March 20', 'text': 'Maximinus Thrax, age 62, is proclaimed emperor.', 'self': False, 'pos': 'NP'}
+235*{'date': 'September 28', 'text': 'Pope Pontian resigns.', 'self': False, 'pos': 'NP'}
+235*{'date': 'November 21', 'text': 'Pope Anterus succeeds Pontian as the nineteenth pope.', 'self': False, 'pos': 'NP'}
+235*{'text': 'Origen makes revisions to the Septuagint.', 'self': False, 'pos': 'NP'}
+236*{'text': 'Emperor Maximinus Thrax and Marcus Pupienus Africanus Maximus become Roman consuls.', 'self': False, 'pos': 'NP'}
+236*{'text': 'The Roman Senate appoints a twenty-man committee to co-ordinate operations against Maximinus.', 'self': False, 'pos': 'DET'}
+236*{'text': 'Maximinus campaigns against Dacians and Sarmatians from his supply depot at Sirmium.', 'self': False, 'pos': 'NP'}
+236*{'date': 'January 10', 'text': 'Pope Fabian succeeds Pope Anterus as the twentieth pope.', 'self': False, 'pos': 'NP'}
+237*{'text': 'Emperor Maximinus Thrax campaigns on the rivers Danube and Rhine in Germania, defeating the Alemanni and never visits Rome.', 'self': False, 'pos': 'NP'}
+237*{'text': 'Patriarch Eugenius I succeeds Patriarch Castinus as Patriarch of Constantinople.', 'self': False, 'pos': 'NP'}
+237*{'text': 'Saint Babylas becomes Patriarch of Antioch.', 'self': False, 'pos': 'NP'}
+230*{'text': 'Emperor Alexander Severus decides that Thessaly should be a separate province from Macedonia.', 'self': False, 'pos': 'NP'}
+230*{'text': 'Alexander Severus assembled the Roman army and establish his headquarters at Antioch.', 'self': False, 'pos': 'NP'}
+230*{'date': 'July 21', 'text': 'Pope Pontian succeeds Pope Urban I as the eighteenth pope.', 'self': False, 'pos': 'NP'}
+230*{'text': 'Patriarch Castinus succeeds Patriarch Ciriacus I as Patriarch of Constantinople.', 'self': False, 'pos': 'NP'}
+231*{'text': 'Emperor Alexander Severus accompanied his mother Julia Mamaea to Syria and campaigns against the Persians.', 'self': False, 'pos': 'NP'}
+231*{'text': 'Zhuge Liang launches the fourth of his Northern Expeditions against the state of Cao Wei.', 'self': False, 'pos': 'NP'}
+231*{'text': 'Origen, disciple of Ammonius Saccas, founder of Neoplatonism, is exiled in Caesarea.', 'self': False, 'pos': 'NP'}
+232*{'text': 'Origen founds a school of Christian theology in Palestine.', 'self': False, 'pos': 'NP'}
+232*{'text': 'Pope Heraclas of Alexandria is the first Bishop of Alexandria to use the appellation of "Pope".', 'self': False, 'pos': 'NP'}
+233*{'text': 'Emperor Alexander Severus celebrates a triumph in Rome to observe his "victory" the previous year over the Persians.', 'self': False, 'pos': 'NP'}
+201*{'text': 'Lucius Annius Fabianus and Marcus Nonius Arrius Mucianus become Roman Consuls.', 'self': False, 'pos': 'NP'}
+201*{'date': 'November', 'text': 'A flood in Edessa destroys a Christian church, killing over 2,000 people.', 'self': False, 'pos': 'DET'}
+201*{'text': 'Osroene becomes the first state which adopts Christianity as its official religion (per New International Encyclopedia).', 'self': False, 'pos': 'NP'}
+203*{'text': 'Emperor Septimius Severus rebuilds Byzantium.', 'self': False, 'pos': 'NP'}
+203*{'text': 'Gaius Fulvius Plautianus and Publius Septimius Geta become Roman Consuls.', 'self': False, 'pos': 'NP'}
+203*{'text': 'An arch dedicated to Severus is erected near the Forum.', 'self': False, 'pos': 'DET'}
+203*{'text': 'The Portico of Octavia is reconstructed.', 'self': False, 'pos': 'DET'}
+203*{'text': 'Reign in India of Vijaya, Satavahana king of the Andhra.', 'self': False, 'pos': 'NP'}
+203*{'text': 'The Andhra empire is being broken apart into smaller and smaller independent principalities.', 'self': False, 'pos': 'DET'}
+203*{'text': 'Origen of Alexandria replaces Clement as the head of the Christian school in Alexandria.', 'self': False, 'pos': 'NP'}
+202*{'text': 'Emperor Septimius Severus returns to Rome after a five year absence.', 'self': False, 'pos': 'NP'}
+202*{'text': 'Rome is a city of about 1.5 million citizens, its people housed mostly in 46,600 insulae or apartment blocks, each three to eight stories high, flimsily made of wood, brick or rubble.', 'self': False, 'pos': 'NP'}
+202*{'text': 'Some 400,000 slaves perform the menial work of Rome, with middle-class citizens often owning eight; the rich from 500 to 1,000; an emperor as many as 20,000.', 'self': False, 'pos': 'DET'}
+202*{'text': 'Severus launches a campaign in Africa, Legio III Augusta under Quintus Anicius Faustus fights a guerrilla war against the Garamantes along the Limes Tripolitanus.', 'self': False, 'pos': 'NP'}
+202*{'text': 'An edict bans conversions to Christianity and all Christian propaganda.', 'self': False, 'pos': 'DET'}
+202*{'text': 'A Roman law bans female gladiators.', 'self': False, 'pos': 'DET'}
+202*{'text': 'The Pantheon is restored.', 'self': False, 'pos': 'DET'}
+202*{'text': 'Rome establishes medical licenses, awarded only to trained physicians who have passed examinations.', 'self': False, 'pos': 'NP'}
+205*{'text': 'Marcus Aurelius Antoninus Augustus and his brother Publius Septimius Geta Caesar become Roman Consuls.', 'self': False, 'pos': 'NP'}
+205*{'text': 'Gaius Fulvius Plautianus, praetorian prefect and father-in-law of Caracalla, is assassinated.', 'self': False, 'pos': 'NP'}
+205*{'text': 'Aemilius Papinianus becomes praetorian prefect.', 'self': False, 'pos': 'NP'}
+205*{'text': 'Cao Cao defeats and kills Yuan Tan, the eldest son of his rival Yuan Shao, in the Battle of Nanpi.', 'self': False, 'pos': 'NP'}
+204*{'text': 'Lucius Fabius Cilo and Marcus Annius Flavius Libo become Roman Consuls.', 'self': False, 'pos': 'NP'}
+204*{'text': 'The Daysan River floods Edessa.', 'self': False, 'pos': 'DET'}
+204*{'text': 'Gongsun Kang, a Chinese warlord of Liaodong, establishes the Daifang Commandery in northern Korea.', 'self': False, 'pos': 'NP'}
+204*{'text': "A trade recession in the Leptis Magna region (Africa) is alleviated by emperor Septimius Severus, he buys up the country's olive oil for free distribution in Rome.", 'self': False, 'pos': 'DET'}
+207*{'text': 'Cao Cao defeats the Wuhuan tribes at the Battle of White Wolf Mountain, sending the Wuhuan into decline.', 'self': False, 'pos': 'NP'}
+207*{'text': 'Sun Quan battles Huang Zu at Xiakou.', 'self': False, 'pos': 'NP'}
+209*{'text': 'Publius Septimius Geta receives the titles of Imperator and Augustus from his father, emperor Septimius Severus.', 'self': False, 'pos': 'NP'}
+209*{'text': 'Severus makes plans to subdue the land to the north of Scotland, ravaging it severely.', 'self': False, 'pos': 'NP'}
+208*{'date': 'December 10', 'text': 'Cao Cao writes Duǎn Ge Xíng.', 'self': False, 'pos': 'NP'}
+208*{'text': 'Cao Cao marches south with his army and captures the enemy fleet at Jiangling.', 'self': False, 'pos': 'NP'}
+208*{'text': 'Liu Bei escapes from Cao Cao at the Battle of Changban.', 'self': False, 'pos': 'NP'}
+208*{'text': "Zhou Yu and Liu Bei defeat Cao Cao at the Battle of Red Cliffs; along with the Battle of Yamen and Battle of Lake Poyang, this is one of the largest naval battles in China's history.", 'self': False, 'pos': 'NP'}
+208*{'text': 'Marcus Aurelius Antoninus Augustus and his brother Publius Septimius Geta Caesar become Roman Consuls.', 'self': False, 'pos': 'NP'}
+208*{'text': "Emperor Septimius Severus leads an expedition (20,000 men) in Britannia, crosses Hadrian's Wall and moves through eastern Scotland.", 'self': False, 'pos': 'NP'}
+208*{'text': 'Britain is divided in the north, Lower Britain (Britannia Inferior) administered from the fortress at Eburacum (modern York), and in the south, Upper Britain (Britannia Superior) controlled by the legions at Deva Victrix and Isca Augusta, with its capital at Londinium (London).', 'self': False, 'pos': 'NP'}
+208*{'text': 'Ardashir I, ruler of Istakhr (Persia), revolts against his brother and founds the Sassanid dynasty.', 'self': False, 'pos': 'NP'}

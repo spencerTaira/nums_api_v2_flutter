@@ -1,0 +1,113 @@
+214*{'text': 'A composite number and a 37-gonal number.', 'self': False, 'pos': 'DET'}
+214*{'text': 'The 11th perfect number 2106×(2107−1) has 214 divisors.', 'self': True, 'pos': 'DET'}
+215*{'text': 'A composite number and a semiprime.', 'self': False, 'pos': 'DET'}
+229*{'text': 'A regular prime, a long prime, a twin prime (with 227), a cousin prime, and a sexy prime.', 'self': False, 'pos': 'DET'}
+210*{'text': 'A composite number, an abundant number, and the product of the first four prime numbers (2, 3, 5, and 7), and thus a primorial.', 'self': False, 'pos': 'DET'}
+210*{'text': 'A triangular number (following 190 and preceding 231), a pentagonal number (following 176 and preceding 247), and the second smallest to be both triangular and pentagonal (the third is 40755).', 'self': False, 'pos': 'DET'}
+210*{'text': 'Also a pentatope number, a pronic number, a Harshad number, and an untouchable number.', 'self': False, 'pos': 'ADV'}
+211*{'text': 'An odd number.', 'self': False, 'pos': 'DET'}
+211*{'text': 'A primorial prime, sum of three consecutive primes (67 + 71 + 73), Chen prime, centered decagonal prime, and self prime.', 'self': False, 'pos': 'DET'}
+211*{'text': 'A repdigit in base 14 (111).', 'self': False, 'pos': 'DET'}
+228*{'text': 'A composite number, with its divisors being 1, 2, 4, 5, 10, 11, 20, 22, 44, 55 and 110, making it an amicable number with 284.', 'self': False, 'pos': 'DET'}
+228*{'text': 'The sum of four consecutive primes (47 + 53 + 59 + 61).', 'self': False, 'pos': 'DET'}
+228*{'text': 'A tetrahedral number, the sum of the first ten triangular numbers.', 'self': False, 'pos': 'DET'}
+219*{'text': 'The smallest number that can be represented as a sum of four positive cubes in two different ways.', 'self': False, 'pos': 'DET'}
+270*{'text': 'A harmonic divisor number.', 'self': False, 'pos': 'DET'}
+270*{'text': 'The fourth number that is divisible by its average integer divisor (sequence A007340 in OEIS).', 'self': False, 'pos': 'DET'}
+270*{'text': 'A practical number, by the second definition.', 'self': False, 'pos': 'DET'}
+270*{'text': 'The sum of the coprime counts for the first 29 integers is 270.', 'self': True, 'pos': 'DET'}
+270*{'text': 'A sparsely totient number, the largest integer with 72 as its totient.', 'self': False, 'pos': 'DET'}
+270*{'text': 'A Harshad number in base 10.', 'self': False, 'pos': 'DET'}
+270*{'text': 'The smallest positive integer that has divisors ending by digits 1, 2, …, 9.', 'self': False, 'pos': 'DET'}
+271*{'text': 'The sum of the coprime counts for the first 29 integers is 270.', 'self': False, 'pos': 'DET'}
+272*{'text': 'The sum of the coprime counts for the first 29 integers is 270.', 'self': False, 'pos': 'DET'}
+275*{'text': 'The sum of the coprime counts for the first 29 integers is 270.', 'self': False, 'pos': 'DET'}
+276*{'text': 'A triangular number, hexagonal number, centered pentagonal number and untouchable number.', 'self': False, 'pos': 'DET'}
+276*{'text': 'The lowest number whose aliquot sequence has not yet been fully determined.', 'self': False, 'pos': 'DET'}
+276*{'text': 'The sum of twelve consecutive prime numbers (5 + 7 + 11 + 13 + 17 + 19 + 23 + 29 + 31 + 37 + 41 + 43).', 'self': False, 'pos': 'DET'}
+277*{'text': 'The fifty-ninth prime number, following 271 and preceding 281.', 'self': False, 'pos': 'DET'}
+277*{'text': 'The smaller of the two prime factors of the number 9000007 (read nine million and seven), which is significant as the first composite number in the sequence 97, 907, 9007, 90007, 900007, 9000007, 90000007 and so on (the next prime after 900007 has fourteen zeroes).', 'self': False, 'pos': 'DET'}
+234*{'text': 'A composite number, with its divisors being 2, 3, 6, 9, 13, 18, 26, 39, 78, and 117.', 'self': False, 'pos': 'DET'}
+235*{'text': 'The second number of the tenth row of a skewed Fibonacci-Pascal triangle (sequence A037027 in OEIS).', 'self': False, 'pos': 'DET'}
+235*{'text': 'The concatenation of the base 10 representations of the first three primes, and thus it is a Smarandache–Wellin number.', 'self': False, 'pos': 'DET'}
+235*{'text': 'From the subset of numbers that have exactly two nontrivial prime factors, neither of which is two or three, namely 235 = 5 X 47.', 'self': True, 'pos': 'P'}
+236*{'text': 'A composite number, with its divisors being 2, 5, 10, 23, 46, and 115.', 'self': False, 'pos': 'DET'}
+251*{'text': 'A regular prime, an Eisenstein prime, a Chen prime, a Gaussian prime, a Sophie Germain prime, and a sexy prime.', 'self': False, 'pos': 'DET'}
+251*{'text': 'Also sum of three consecutive primes (79 + 83 + 89) and sum of seven consecutive primes (23 + 29 + 31 + 37 + 41 + 43 + 47).', 'self': False, 'pos': 'ADV'}
+230*{'text': 'A composite number, with its divisors being 2, 5, 10, 23, 46, and 115.', 'self': False, 'pos': 'DET'}
+231*{'text': 'A composite number, with its divisors being 2, 5, 10, 23, 46, and 115.', 'self': False, 'pos': 'DET'}
+232*{'text': 'A composite number, with its divisors being 2, 5, 10, 23, 46, and 115.', 'self': False, 'pos': 'DET'}
+233*{'text': 'An irregular prime, a full reptend prime, a cousin prime, a Chen prime, a Fibonacci prime and a sexy prime.', 'self': False, 'pos': 'DET'}
+233*{'text': 'The 13th Fibonacci number, being the sum of 89 and 144.', 'self': False, 'pos': 'DET'}
+237*{'text': 'A composite number, with its divisors being 2, 5, 10, 23, 46, and 115.', 'self': False, 'pos': 'DET'}
+256*{'text': 'A composite number, with the factorization 256 = 28, which makes it a power of two.', 'self': True, 'pos': 'DET'}
+256*{'text': '4 raised to the 4th power, so in tetration notation 256 is 24.', 'self': True, 'pos': 'NUM'}
+256*{'text': 'A perfect square (162).', 'self': False, 'pos': 'DET'}
+256*{'text': 'The largest 3-digit number that is zenzizenzizenzic (see the 8th powers).', 'self': False, 'pos': 'DET'}
+256*{'text': 'The typical number of different values in each color channel of a digital color image (256 values for red, 256 values for green, and 256 values for blue used for 24-bit color) (see color space).', 'self': True, 'pos': 'DET'}
+256*{'text': 'The number of colors available in a GIF or a 256 color (8-bit) bitmap.', 'self': True, 'pos': 'DET'}
+256*{'text': 'The number of number of characters in extended ASCII and Latin-1.', 'self': False, 'pos': 'DET'}
+256*{'text': 'The number of columns available in a Microsoft Excel worksheet until Excel 2007.', 'self': False, 'pos': 'DET'}
+256*{'text': 'The split-screen level in Pacman, which results from the use of a single byte to store the internal level counter.', 'self': False, 'pos': 'DET'}
+256*{'text': 'The number of characters in the new Braille 8-dot system.', 'self': False, 'pos': 'DET'}
+256*{'text': 'An area code in Alabama.', 'self': False, 'pos': 'DET'}
+256*{'text': 'The number of NFL regular season football games.', 'self': False, 'pos': 'DET'}
+256*{'text': 'The frequency of Middle C in hertz under scientific pitch.', 'self': False, 'pos': 'DET'}
+256*{'text': 'The number of the Amarna letter (EA256), which, according to David Rohl, was written by Ishbaal and contains mentions of King David, Jesse, and Joab.', 'self': True, 'pos': 'DET'}
+256*{'text': 'The number of captured Viet Cong in the song "Three-Five-Zero-Zero" of the musical Hair.', 'self': False, 'pos': 'DET'}
+256*{'text': 'The number of soldiers in the most basic unit (the syntagma) of the Macedonian army.', 'self': False, 'pos': 'DET'}
+256*{'text': 'The number used by short track speed skating Olympian Apolo Ohno.', 'self': False, 'pos': 'DET'}
+256*{'text': 'The number of players online in Domination mode in the game MAG.', 'self': False, 'pos': 'DET'}
+257*{'text': 'A prime number of the form and therefore a Fermat prime.', 'self': False, 'pos': 'DET'}
+257*{'text': 'Also an irregular prime, and a long prime (in base 10) and a balanced prime.', 'self': False, 'pos': 'ADV'}
+255*{'text': 'A repdigit in base 2 (11111111) in base 4 (3333), and in base 16 (FF).', 'self': False, 'pos': 'DET'}
+201*{'text': 'A Harshad number in base 10.', 'self': False, 'pos': 'DET'}
+203*{'text': 'The 6th Bell number, i.e.', 'self': False, 'pos': 'DET'}
+202*{'text': "Both a nontotient and a noncototient, meaning that there are no solutions to the equations φ(x) = 202 nor x - φ(x) = 202, with φ(x) being Euler's totient function.", 'self': True, 'pos': 'DET'}
+202*{'text': 'A Smith number in base 10, because its factorization is 2 × 101, and 2 + 0 + 2 = 2 + 1 + 0 + 1 = 4.', 'self': False, 'pos': 'DET'}
+204*{'text': 'A refactorable number because it has 12 divisors, and 204 is divisible by 12.', 'self': True, 'pos': 'DET'}
+204*{'text': 'A member of the Mian–Chowla sequence, being the smallest number after 182 such that the pairwise sums of the previous terms are all distinct.', 'self': False, 'pos': 'DET'}
+204*{'text': 'A Harshad number in base 10.', 'self': False, 'pos': 'DET'}
+207*{'text': 'A Wedderburn-Etherington number.', 'self': False, 'pos': 'DET'}
+207*{'text': 'A Harshad number.', 'self': False, 'pos': 'DET'}
+209*{'text': 'A highly cototient number.', 'self': False, 'pos': 'DET'}
+209*{'text': 'A Harshad number.', 'self': False, 'pos': 'DET'}
+209*{'text': 'A self number.', 'self': False, 'pos': 'DET'}
+208*{'text': 'A tetranacci number.', 'self': False, 'pos': 'DET'}
+208*{'text': 'The sum of the squares of the first five primes.', 'self': False, 'pos': 'DET'}
+225*{'text': 'A composite number, with its divisors being 1, 2, 4, 5, 10, 11, 20, 22, 44, 55 and 110, making it an amicable number with 284.', 'self': False, 'pos': 'DET'}
+225*{'text': 'The sum of four consecutive primes (47 + 53 + 59 + 61).', 'self': False, 'pos': 'DET'}
+225*{'text': 'A tetrahedral number, the sum of the first ten triangular numbers.', 'self': False, 'pos': 'DET'}
+263*{'text': 'An irregular prime, an Eisenstein prime, a long prime, a Chen prime, a Gaussian prime, a happy prime, a sexy prime, a safe prime, and a Higgs prime.', 'self': False, 'pos': 'DET'}
+241*{'text': 'The larger of the twin primes (239, 241).', 'self': True, 'pos': 'DET'}
+241*{'text': 'A regular prime and a lucky prime.', 'self': False, 'pos': 'DET'}
+241*{'text': 'A repdigit in base 15 (111).', 'self': False, 'pos': 'DET'}
+240*{'text': 'A semiperfect number.', 'self': False, 'pos': 'DET'}
+243*{'text': 'The largest 3-digit number that is a fifth power (35).', 'self': False, 'pos': 'DET'}
+243*{'text': 'A perfect totient number.', 'self': False, 'pos': 'DET'}
+243*{'text': 'The sum of five consecutive prime numbers (41 + 43 + 47 + 53 + 59).', 'self': False, 'pos': 'DET'}
+243*{'text': 'An 82-gonal number.', 'self': False, 'pos': 'DET'}
+243*{'text': 'A Harshad number.', 'self': False, 'pos': 'DET'}
+242*{'text': 'The smallest integer to start a run of four consecutive integers with the same number of divisors.', 'self': False, 'pos': 'DET'}
+242*{'text': 'A nontotient since there is no integer with 242 coprimes below it.', 'self': True, 'pos': 'DET'}
+242*{'text': 'A palindrome.', 'self': False, 'pos': 'DET'}
+227*{'text': 'A prime number, and a twin prime with 229 (thus 227 is a Chen prime).', 'self': True, 'pos': 'DET'}
+227*{'text': 'Also a regular prime.', 'self': False, 'pos': 'ADV'}
+226*{'text': 'A composite number, with its divisors being 1, 2, 4, 5, 10, 11, 20, 22, 44, 55 and 110, making it an amicable number with 284.', 'self': False, 'pos': 'DET'}
+226*{'text': 'The sum of four consecutive primes (47 + 53 + 59 + 61).', 'self': False, 'pos': 'DET'}
+226*{'text': 'A tetrahedral number, the sum of the first ten triangular numbers.', 'self': False, 'pos': 'DET'}
+269*{'text': 'A regular prime, an Eisenstein prime with no imaginary part, a long prime, a Chen prime, a Pillai prime, a Pythagorean prime, a twin prime, a sexy prime, a Higgs prime, a strong prime, and a highly cototient number.', 'self': False, 'pos': 'DET'}
+224*{'text': 'A composite number, with its divisors being 1, 2, 4, 5, 10, 11, 20, 22, 44, 55 and 110, making it an amicable number with 284.', 'self': False, 'pos': 'DET'}
+224*{'text': 'The sum of four consecutive primes (47 + 53 + 59 + 61).', 'self': False, 'pos': 'DET'}
+224*{'text': 'A tetrahedral number, the sum of the first ten triangular numbers.', 'self': False, 'pos': 'DET'}
+223*{'text': 'A long prime, a strong prime, a lucky prime and a sexy prime (with 229).', 'self': False, 'pos': 'DET'}
+223*{'text': 'The fourth Carol number and the third to be prime.', 'self': False, 'pos': 'DET'}
+223*{'text': "The sum of three consecutive primes (71 + 73 + 79), the sum of seven consecutive primes (19 + 23 + 29 + 31 + 37 + 41 + 43), and the smallest number requiring 37 fifth powers for Waring representation (see Waring's problem), strictly non-palindromic number.", 'self': False, 'pos': 'DET'}
+221*{'text': 'A semiprime.', 'self': False, 'pos': 'DET'}
+221*{'text': 'The sum of five consecutive prime numbers (37 + 41 + 43 + 47 + 53).', 'self': False, 'pos': 'DET'}
+221*{'text': 'The sum of nine consecutive prime numbers (11 + 13 + 17 + 19 + 23 + 29 + 31 + 37 + 41).', 'self': False, 'pos': 'DET'}
+220*{'text': 'A composite number, with its divisors being 1, 2, 4, 5, 10, 11, 20, 22, 44, 55 and 110, making it an amicable number with 284.', 'self': False, 'pos': 'DET'}
+220*{'text': 'The sum of four consecutive primes (47 + 53 + 59 + 61).', 'self': False, 'pos': 'DET'}
+220*{'text': 'A tetrahedral number, the sum of the first ten triangular numbers.', 'self': False, 'pos': 'DET'}
+239*{'text': 'A prime number.', 'self': False, 'pos': 'DET'}
+239*{'text': 'The largest integer n whose factorial can be written as the product of distinct factors between n\xa0+\xa01 and 2n, both included.', 'self': False, 'pos': 'DET'}

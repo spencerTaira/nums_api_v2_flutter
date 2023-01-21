@@ -1,0 +1,586 @@
+1078*{'text': 'The Romanesque church is begun at Santiago de Compostela, Galicia, Spain.', 'self': False, 'pos': 'DET'}
+1078*{'text': 'Anselm of Canterbury becomes abbot of the Abbey of Bec.', 'self': False, 'pos': 'NP'}
+1078*{'text': 'The Battle of Kalaura is fought.', 'self': False, 'pos': 'DET'}
+1078*{'text': 'The Armenian Kingdom of Cilicia is founded (approximate date).', 'self': False, 'pos': 'DET'}
+1079*{'text': 'Murder of Saint Stanislaus of Szczepanów (pol.', 'self': False, 'pos': 'NP'}
+1079*{'text': 'Upon the death of Håkan the Red, Halsten returns as king of Sweden, jointly with his brother Inge the Elder.', 'self': False, 'pos': 'NP'}
+1079*{'text': 'Ladislaus Herman succeeds Boleslaus II in Poland.', 'self': False, 'pos': 'NP'}
+1079*{'text': 'William I of England establishes the New Forest.', 'self': False, 'pos': 'NP'}
+1076*{'date': 'January', 'text': 'The German bishops who have been invested by Henry IV, Holy Roman Emperor withdraw their allegiance from Pope Gregory VII.', 'self': False, 'pos': 'DET'}
+1076*{'date': 'February 14', 'text': 'Pope Gregory VII excommunicates Henry IV, Holy Roman Emperor.', 'self': False, 'pos': 'NP'}
+1076*{'text': 'Anselm of Canterbury completes Monologion.', 'self': False, 'pos': 'NP'}
+1076*{'text': 'The Almoravids capture the Ghanaian capital of Kumbi.', 'self': False, 'pos': 'DET'}
+1076*{'text': 'Count Dirk V reconquers most of West Frisia (historical) from the bishop of Utrecht.', 'self': False, 'pos': 'NP'}
+1076*{'text': 'The Trial of Penenden Heath is thought to have been held, with an important ruling regarding land rights subsequent to the Norman Conquest of England.', 'self': False, 'pos': 'DET'}
+1076*{'text': 'Dmitar Zvonimir of Croatia donated the town of Vrana and Benedictine monastery of St. Gregory, as a sign of loyalty to Pope Gregory VII.', 'self': False, 'pos': 'NP'}
+1076*{'text': 'Vikramaditya VI deposes his older brother Somesvara II, and becomes king of the Western Chalukya.', 'self': False, 'pos': 'NP'}
+1076*{'text': 'Lý dynasty Vietnamese troops hold invading Song Dynasty Chinese forces at the Battle of Như Nguyệt River and a truce is concluded.', 'self': False, 'pos': 'NP'}
+1077*{'text': 'The Almoravids complete the conquest of the Ghana Empire, and reach Spain.', 'self': False, 'pos': 'DET'}
+1077*{'text': 'The Seljuk Turks capture Nicaea and Jerusalem.', 'self': False, 'pos': 'DET'}
+1077*{'text': 'Suleyman I of Rûm becomes the leader of the Seljuk Sultanate of Rûm in modern Turkey.', 'self': False, 'pos': 'NP'}
+1077*{'text': 'Anush Tigin Gharchai becomes, as a Seljuk vassal, leader of the Khwarezmid Empire.', 'self': False, 'pos': 'NP'}
+1077*{'date': 'January 26', 'text': 'Henry IV, Holy Roman Emperor visits Pope Gregory VII as a penitent, asking him remove sentence of excommunication.', 'self': False, 'pos': 'NP'}
+1077*{'text': 'April 3 - The first Parliament of Friuli is created.', 'self': False, 'pos': 'NP'}
+1077*{'date': 'April 3', 'text': 'Henry IV, Holy Roman Emperor granted the county of Friuli, with ducal status, to Sigaerd, Patriarch of Aquileia.', 'self': False, 'pos': 'NP'}
+1077*{'text': 'Robert Curthose instigates his first insurrection against his father, William the Conqueror.', 'self': False, 'pos': 'NP'}
+1077*{'text': 'The kingdom of Duklja is founded.', 'self': False, 'pos': 'DET'}
+1077*{'text': 'The first recorded Trial by combat is held in England.', 'self': False, 'pos': 'DET'}
+1077*{'text': "Vsevolod of Kiev becomes the prince of Kievan Rus'.", 'self': False, 'pos': 'NP'}
+1077*{'text': 'Alfonso VI of Castile conquers Coria.', 'self': False, 'pos': 'NP'}
+1077*{'text': 'The pope, Gregory VII, places the island of Corsica under the secular rule of the archbishop of Pisa.', 'self': False, 'pos': 'DET'}
+1077*{'text': 'The Bayeux Tapestry is made.', 'self': False, 'pos': 'DET'}
+1077*{'text': 'The first English Cluniac Benedictine priory is established.', 'self': False, 'pos': 'DET'}
+1077*{'text': 'Paul of Caen is installed as Abbot of St Albans; the building of St Albans Abbey Church commences.', 'self': False, 'pos': 'NP'}
+1077*{'text': 'Pope Christodolos of Alexandria ends his reign as Coptic Pope.', 'self': False, 'pos': 'NP'}
+1077*{'text': 'Dionysius V Lazaros becomes Syriac Orthodox Patriarch of Antioch.', 'self': False, 'pos': 'NP'}
+1074*{'text': 'The Liao Dynasty emperor rejects a proposal for all Khitan people to adopt surnames.', 'self': False, 'pos': 'DET'}
+1074*{'text': 'William the Conqueror orders the White Tower to be built.', 'self': False, 'pos': 'NP'}
+1074*{'date': 'November 25', 'text': 'Magreb unites the Tengizi island chain, and becomes the first king of the Kingdom of Tengiz.', 'self': False, 'pos': 'NP'}
+1075*{'date': 'February', 'text': 'Pope Gregory VII holds a council that publishes a decree against lay investiture.', 'self': False, 'pos': 'NP'}
+1075*{'date': 'April', 'text': 'Pope Gregory VII publishes the Dictatus Papae (Sayings of the Pope, aka the Dictates of Hildebrand), in which he asserts papal authority over earthly as well as spiritual rulers.', 'self': False, 'pos': 'NP'}
+1075*{'text': 'The Liao Dynasty version of the Buddhist Tripitaka is completed (approximate date).', 'self': False, 'pos': 'DET'}
+1075*{'text': 'Anund Gårdske is deposed as king of Svealand and king Håkan the Red of Gothenland proclaims himself king of all Sweden.', 'self': False, 'pos': 'NP'}
+1075*{'text': 'The Seljuk Turks take Jerusalem from the Fatimids.', 'self': False, 'pos': 'DET'}
+1075*{'text': 'Lý dynasty forces under Lý Thường Kiệt defend Vietnam against invasion by Song Dynasty China.', 'self': False, 'pos': 'NP'}
+1075*{'text': "The Song Dynasty Chinese polymath scientist and statesman Shen Kuo solves a heated border dispute with the Liao Dynasty by dredging up old diplomatic records; he refutes Emperor Daozong of Liao's bluffs point for point during a meeting at Mt.", 'self': False, 'pos': 'DET'}
+1072*{'date': 'January 10', 'text': 'The Normans conquer Palermo in Sicily.', 'self': False, 'pos': 'DET'}
+1072*{'date': 'May 27', 'text': 'The Accord of Winchester establishes the primacy of the Archbishop of Canterbury over the Archbishop of York in the Church of England.', 'self': False, 'pos': 'DET'}
+1072*{'text': 'William I of England invades Scotland, and also receives the submission of Hereward the Wake.', 'self': False, 'pos': 'NP'}
+1072*{'text': 'Osbern FitzOsbern becomes Bishop of Exeter.', 'self': False, 'pos': 'NP'}
+1072*{'text': 'Alfonso VI becomes king of Leon and Castile following the assassination of his brother Sancho.', 'self': False, 'pos': 'NP'}
+1072*{'text': "Divan'ı Lügat'ı Türk.", 'self': False, 'pos': 'NP'}
+1072*{'text': 'The Song Dynasty Chinese polymath scientist and statesman Shen Kuo is appointed as the head official for the Bureau of Astronomy, where he begins his groundbreaking work with the colleague Wei Pu on accurately plotting the orbital paths of the stars, planets, and moon three times a night for a continuum of five years.', 'self': False, 'pos': 'DET'}
+1072*{'text': "Shen Kuo is sent to supervise Chancellor Wang Anshi's program of surveying the building of silt deposits in the Bian Canal outside the capital city of Kaifeng.", 'self': False, 'pos': 'NP'}
+1073*{'date': 'April 22', 'text': 'Pope Gregory VII (Cardinal Hildebrand) succeeds Pope Alexander II as the 157th pope.', 'self': False, 'pos': 'NP'}
+1073*{'text': 'Emperor Shirakawa ascends to the throne of Japan.', 'self': False, 'pos': 'NP'}
+1073*{'text': 'Rabbi Yitchaki Alfassi finishes writing the Rif, an important work of Jewish law.', 'self': False, 'pos': 'NP'}
+1073*{'text': 'John IX bar Shushan ends his term as Syrian Patriarch of Antioch.', 'self': False, 'pos': 'NP'}
+1073*{'text': 'Sviatoslav II begins his reign as ruler of Kievan Rus.', 'self': False, 'pos': 'NP'}
+1073*{'text': 'The Seljuk Turks conquer Ankara.', 'self': False, 'pos': 'DET'}
+1073*{'text': 'Chancellor Wang Anshi of Song Dynasty China creates a new bureau of the central government called the Directorate of Weapons, which supervises the manufacture of military armaments and ensures quality control.', 'self': False, 'pos': 'NP'}
+1070*{'text': 'Hereward the Wake begins a Saxon revolt in the Fens of eastern England, which later collapses.', 'self': False, 'pos': 'NP'}
+1070*{'text': "Lanfranc, an Italian lawyer, becomes William's formidable Archbishop of Canterbury.", 'self': False, 'pos': 'NP'}
+1070*{'text': 'Central Asian poet Yusuf Balasagun completes the Kutadgu Bilig.', 'self': False, 'pos': 'NP'}
+1070*{'text': 'Bergen, Norway is founded by the king Olav Kyrre.', 'self': False, 'pos': 'NP'}
+1070*{'text': 'Abu Bakr Ibn-Umar founds Marrakesh.', 'self': False, 'pos': 'NP'}
+1070*{'text': 'The Temple of Literature is established in the capital of Vietnam.', 'self': False, 'pos': 'DET'}
+1070*{'text': 'A successful Byzantine counter-attack drives the Seljuk Turks across the Euphrates.', 'self': False, 'pos': 'DET'}
+1070*{'text': 'Song Dynasty Chinese astronomer, engineer, and statesman Su Song completes the compilation of the Ben Cao Tu Jing, a pharmaceutical treatise with related subjects of botany, zoology, mineralogy, and metallurgy.', 'self': False, 'pos': 'NP'}
+1071*{'date': 'February 22', 'text': 'A succession struggle erupts in Flanders between Richilde, widow of Baldwin VI and her brother-in-law Robert the Frisian, son of Baldwin V. Robert defeats Richilde and her nephew Arnulf III in the Battle of Cassel and is appointed count by King Philip.', 'self': False, 'pos': 'DET'}
+1071*{'date': 'April 15', 'text': 'The last Byzantine-controlled city in southern Italy, Bari, is captured by Robert Guiscard.', 'self': False, 'pos': 'DET'}
+1071*{'text': "Edwin, Earl of Mercia rebels against William I and is killed, leading to the re-distribution of land within Mercia to William's subjects.", 'self': False, 'pos': 'NP'}
+1094*{'date': 'May', 'text': 'El Cid completes his conquest of Valencia, Spain, and begins his rule of Valencia.', 'self': False, 'pos': 'NP'}
+1094*{'date': 'May 15', 'text': 'The Cathedral of Saint Agatha in Catania is consecrated by the Breton Abbot Ansger of Saint Euphemia.', 'self': False, 'pos': 'DET'}
+1094*{'date': 'October 8', 'text': "St Mark's Basilica is consecrated in Venice.", 'self': False, 'pos': 'NP'}
+1094*{'date': 'November 12', 'text': 'Donald III succeeds Duncan II as King of Scotland.', 'self': False, 'pos': 'NP'}
+1094*{'text': 'The city of Zagreb, Croatia, is first mentioned as a bishopric see.', 'self': False, 'pos': 'DET'}
+1094*{'text': 'Raymond IV of Toulouse becomes Count of Toulouse.', 'self': False, 'pos': 'NP'}
+1094*{'text': 'The antipope Clement III is deposed, and Urban II becomes pope.', 'self': False, 'pos': 'DET'}
+1095*{'date': 'March', 'text': 'Byzantine emperor Alexius I Comnenus sends ambassadors to Pope Urban II, at the Council of Piacenza, to discuss sending mercenaries against the Seljuk Turks.', 'self': False, 'pos': 'NP'}
+1095*{'date': 'July', 'text': 'Coloman begins to establish himself as King of Hungary, following the death of his father.', 'self': False, 'pos': 'NP'}
+1095*{'date': 'November 19', 'text': 'The Council of Clermont begins.', 'self': False, 'pos': 'DET'}
+1095*{'date': 'November 27', 'text': 'Pope Urban II preaches the First Crusade at the Council of Clermont; Peter the Hermit begins to preach throughout France.', 'self': False, 'pos': 'NP'}
+1095*{'text': 'The County of Portugal is established for the second time by Count Henry of Burgundy.', 'self': False, 'pos': 'DET'}
+1095*{'text': 'Pembroke Castle is built in Wales.', 'self': False, 'pos': 'NP'}
+1095*{'text': 'The Valence Cathedral is consecrated in Valence, France.', 'self': False, 'pos': 'DET'}
+1096*{'text': 'Bernard becomes Bishop of Brandenburg.', 'self': False, 'pos': 'NP'}
+1096*{'text': 'The first documented teaching at the University of Oxford occurs.', 'self': False, 'pos': 'DET'}
+1096*{'text': "The People's Crusade, the German Crusade, and the First Crusade begins.", 'self': False, 'pos': 'DET'}
+1096*{'text': 'Vital I Michele becomes Doge of Venice.', 'self': False, 'pos': 'NP'}
+1096*{'text': 'Peter I, King of Aragon, conquers Huesca.', 'self': False, 'pos': 'NP'}
+1096*{'text': 'Phayao, now a province of Thailand, is founded as a kingdom.', 'self': False, 'pos': 'NP'}
+1096*{'date': 'Late April', 'text': 'A large band of Crusaders approaches Speyer and massacres the Jewish population.', 'self': False, 'pos': 'DET'}
+1096*{'text': 'The University of Salerno is founded.', 'self': False, 'pos': 'DET'}
+1097*{'date': 'June 3', 'text': 'The Norman crusaders join the rest of the army during the siege of Nicaea.', 'self': False, 'pos': 'DET'}
+1097*{'date': 'June 19', 'text': 'The city of Nicaea falls to the Crusaders after a month siege.', 'self': False, 'pos': 'DET'}
+1097*{'date': 'October 21', 'text': 'The siege of Antioch by the crusaders begins.', 'self': False, 'pos': 'DET'}
+1097*{'text': 'New Almoravid campaign in al-Andalus.', 'self': False, 'pos': 'NP'}
+1090*{'text': 'Bejaia becomes the capital of the Hammadid Dynasty in Algeria.', 'self': False, 'pos': 'NP'}
+1090*{'text': "Song Dynasty Chinese author Qin Guan writes the Can Shu (Book of Sericulture), which describes a silk-reeling machine that has the world's oldest known mechanical belt drive.", 'self': False, 'pos': 'NP'}
+1091*{'text': 'William Rufus of France invades Normandy and gains a foothold in it.', 'self': False, 'pos': 'NP'}
+1091*{'text': 'Ladislaus I of Hungary occupies Slavonia.', 'self': False, 'pos': 'NP'}
+1091*{'text': 'Henry, son of William I, attempts a coup against his brothers but fails to seize the English throne.', 'self': False, 'pos': 'NP'}
+1091*{'text': 'Cardiff Castle is built.', 'self': False, 'pos': 'NP'}
+1091*{'text': 'The Islamic Abbadid dynasty ruling in Spain falls when the Almoravids storm Seville.', 'self': False, 'pos': 'DET'}
+1091*{'text': 'Roger Guiscard takes Malta.', 'self': False, 'pos': 'NP'}
+1091*{'text': 'Athanasius VI bar Khamoro becomes Syriac Orthodox Patriarch of Antioch.', 'self': False, 'pos': 'NP'}
+1092*{'date': 'May 9', 'text': 'Lincoln Cathedral is consecrated.', 'self': False, 'pos': 'NP'}
+1092*{'text': 'The Song Dynasty Chinese scientist and statesman Su Song publishes his Xin Yi Xiang Fa Yao, a treatise outlining the construction and operation of his complex astronomical clocktower built in Kaifeng, China.', 'self': False, 'pos': 'DET'}
+1092*{'text': 'Kingdom of England annexes Cumbria from the celtic kingdom of Strathclyde.', 'self': False, 'pos': 'NP'}
+1093*{'text': 'Magnus III (Magnus Barefoot) is crowned king of Norway.', 'self': False, 'pos': 'NP'}
+1093*{'text': 'Sviatopolk II become Grand Prince of Kiev and ruler of Kievan Rus.', 'self': False, 'pos': 'NP'}
+1093*{'text': 'Henry of Burgundy becomes Count of Portugal.', 'self': False, 'pos': 'NP'}
+1093*{'text': 'Saint Anselm of Canterbury, a medieval philosopher and theologian, becomes Archbishop of Canterbury.', 'self': False, 'pos': 'NP'}
+1093*{'text': 'The building of Durham Cathedral begins in Durham, England.', 'self': False, 'pos': 'DET'}
+1093*{'text': "Saint Canute's Cathedral is built in Odense, Denmark.", 'self': False, 'pos': 'NP'}
+1098*{'date': 'February 9', 'text': 'The crusaders defeat Ridwan of Aleppo.', 'self': False, 'pos': 'DET'}
+1098*{'date': 'June 28', 'text': 'The emir Kerbogha of Mossul is defeated by the crusaders at the battle of Orontes.', 'self': False, 'pos': 'DET'}
+1098*{'date': 'August', 'text': 'The Fatimids retake Jerusalem from the Turks.', 'self': False, 'pos': 'DET'}
+1098*{'text': 'The Byzantine Empire retakes Smyrna, Ephesus and Sardis.', 'self': False, 'pos': 'DET'}
+1098*{'date': 'March 21', 'text': 'Cîteaux Abbey is founded by the Cistercian Order.', 'self': False, 'pos': 'NP'}
+1099*{'date': 'July 22', 'text': 'The Kingdom of Jerusalem is founded.', 'self': False, 'pos': 'DET'}
+1099*{'date': 'August 12', 'text': 'The Crusaders defeat the Fatimids at the Battle of Ascalon.', 'self': False, 'pos': 'DET'}
+1099*{'date': 'August 14', 'text': 'Pope Paschal II succeeds Pope Urban II as the 160th pope.', 'self': False, 'pos': 'NP'}
+1069*{'text': 'William the Conqueror founds the Norman Selby Abbey.', 'self': False, 'pos': 'NP'}
+1069*{'text': "Abbad III al-Mu'tamid succeeds his father on the throne of Sevilla.", 'self': False, 'pos': 'NP'}
+1069*{'text': 'Shenzong appoints Wang Anshi as his chief counsellor.', 'self': False, 'pos': 'NP'}
+1069*{'text': 'Wang Anshi, chancellor of the Chinese Song Dynasty, implements the New Policies, which include financial reforms, raising the salaries of officials to reduce corruption, institution of the baojia system, etc.', 'self': False, 'pos': 'NP'}
+1069*{'text': 'Start of Nam tiến, the southward expansion of the territory of Vietnam.', 'self': False, 'pos': 'NP'}
+1069*{'text': 'Magnus II of Norway dies and Olav III becomes sole King of Norway.', 'self': False, 'pos': 'NP'}
+1069*{'text': 'The Seljuk Turks fail to capture Iconium, following a Byzantine counter-attack launched from Syria.', 'self': False, 'pos': 'DET'}
+1068*{'date': 'January 1', 'text': 'Eudocia Macrembolitissa marries the general Romanus Diogenes, who becomes Byzantine Emperor.', 'self': False, 'pos': 'NP'}
+1068*{'text': 'Emperor Go-Sanjō ascends to the throne of Japan.', 'self': False, 'pos': 'NP'}
+1068*{'text': 'William the Conqueror takes Exeter after a brief siege.', 'self': False, 'pos': 'NP'}
+1061*{'date': 'January', 'text': 'Robert de Grantmesnil, his nephew Berengar, half-sister Judith (future wife of Roger I of Sicily), and eleven monks of Saint-Evroul-sur-Ouche are banished from Normandy and head to the Mezzogiorno.', 'self': False, 'pos': 'NP'}
+1061*{'date': 'October 1', 'text': 'Pope Alexander II succeeds Pope Nicholas II as the 156th pope.', 'self': False, 'pos': 'NP'}
+1061*{'text': 'The Normans conquer Messina in Sicily.', 'self': False, 'pos': 'DET'}
+1061*{'text': 'Vratislav II becomes duke of Bohemia.', 'self': False, 'pos': 'NP'}
+1061*{'text': 'Yusuf ben Tashfin succeeds to the throne of Morocco, following the Almoravid conquest.', 'self': False, 'pos': 'NP'}
+1060*{'date': 'May', 'text': 'The Norman leader Robert Guiscard conquers Taranto.', 'self': False, 'pos': 'DET'}
+1060*{'date': 'October', 'text': 'The Byzantine army defeats the Normans and enters Taranto.', 'self': False, 'pos': 'DET'}
+1060*{'text': 'The compilation of the New Book of Tang is completed under a team of scholars led by Ouyang Xiu.', 'self': False, 'pos': 'DET'}
+1060*{'text': 'Philip I of France begins his reign.', 'self': False, 'pos': 'NP'}
+1060*{'text': 'Upon the death of Emund the Old, he is succeeded by his son-in-law Stenkil as King of Sweden.', 'self': False, 'pos': 'NP'}
+1063*{'text': 'Successful Pisan naval assault upon Muslim-ruled Palermo led by Giovanni Orlandi to support the ambitions of Roger of Hauteville.', 'self': False, 'pos': 'NP'}
+1063*{'text': 'Sancho I becomes ruler of Aragon.', 'self': False, 'pos': 'NP'}
+1063*{'text': 'The River Thames is frozen for 14 weeks.', 'self': False, 'pos': 'DET'}
+1063*{'text': 'The Pizhi Pagoda of Lingyan Temple, Shandong, China is completed, standing at a height of 54 m (177 ft) tall.', 'self': False, 'pos': 'DET'}
+1063*{'text': "The construction of present building of St Mark's Basilica is begun.", 'self': False, 'pos': 'DET'}
+1063*{'text': 'Anselm, later to become Archbishop of Canterbury, becomes prior at the Abbey of Bec.', 'self': False, 'pos': 'NP'}
+1063*{'text': 'The Bishopric of Olomouc is founded.', 'self': False, 'pos': 'DET'}
+1062*{'text': 'Marrakech is founded by the Almoravid dynasty.', 'self': False, 'pos': 'NP'}
+1062*{'text': 'The Almoravids overrun Morocco and establish a kingdom stretching from Spain to Senegal.', 'self': False, 'pos': 'DET'}
+1062*{'text': 'The Banu Khurasan, vassal of the Hammadid dynasty, begin to rule the north of Ifriqiya.', 'self': False, 'pos': 'DET'}
+1062*{'text': 'Affligem Abbey, of the Order of St. Benedict, is founded in Affligem, Belgium.', 'self': False, 'pos': 'NP'}
+1065*{'date': 'December 28', 'text': 'Westminster Abbey is consecrated.', 'self': False, 'pos': 'NP'}
+1065*{'text': 'The kingdoms of Galicia and Portugal become independent under the rule of Garcia.', 'self': False, 'pos': 'DET'}
+1065*{'text': 'Sima Guang, high chancellor of the Chinese Song Dynasty, heads a team of scholars in initiating the compilation of an enormous written universal history of China, known as the Zizhi Tongjian.', 'self': False, 'pos': 'NP'}
+1064*{'text': 'Sunset Crater Volcano (present-day Arizona) first erupts.', 'self': False, 'pos': 'NP'}
+1064*{'text': 'The Seljuk Turks storm Anatolia, taking Caesarea and Ani, marking the beginning of Turkish incursions into Anatolia.', 'self': False, 'pos': 'DET'}
+1064*{'date': 'June 9', 'text': 'Coimbra is taken by King Ferdinand of Castile.', 'self': False, 'pos': 'NP'}
+1064*{'text': 'Harold II marries Edith, daughter of Ælfgār, Earl of Mercia, and widow of Welsh ruler Gruffydd ap Llywelyn.', 'self': False, 'pos': 'NP'}
+1064*{'text': 'Harold II is shipwrecked at Ponthieu, Normandy and taken captive by Count Guy.', 'self': False, 'pos': 'NP'}
+1067*{'text': 'The Seljuk Turks take Caesarea in Cappadocia.', 'self': False, 'pos': 'DET'}
+1067*{'text': 'Olav III and Magnus II become joint Kings of Norway.', 'self': False, 'pos': 'NP'}
+1067*{'text': 'The two pretenders to the Swedish throne, Eric Stenkilsson and Eric the Pagan, are both killed during the struggle for power in Sweden.', 'self': False, 'pos': 'DET'}
+1067*{'text': 'The Trencavel family takes over in Carcassonne.', 'self': False, 'pos': 'DET'}
+1067*{'text': 'The Wartburg castle, according to legend, is built in Thuringia.', 'self': False, 'pos': 'DET'}
+1067*{'text': 'Winchester Castle is built.', 'self': False, 'pos': 'NP'}
+1067*{'text': 'Minsk and Orsha are first mentioned in the chronicles.', 'self': False, 'pos': 'NP'}
+1067*{'text': 'Shenzong of Song starts to rule.', 'self': False, 'pos': 'NP'}
+1067*{'text': 'Namgyeong is split from Yangju, Goryeo.', 'self': False, 'pos': 'NP'}
+1067*{'text': 'The poet Wang Anshi campaigns against corruption in China.', 'self': False, 'pos': 'DET'}
+1066*{'text': 'The first black Africans in modern-day Gambia convert to Islam.', 'self': False, 'pos': 'DET'}
+1066*{'text': 'Shen Kuo receives a post in the capital China.', 'self': False, 'pos': 'NP'}
+1066*{'text': 'The Genoese, jealous of the recent successes of their former allies, launch a naval assault on Pisa.', 'self': False, 'pos': 'DET'}
+1066*{'text': 'Hedeby is destroyed by a Slavic army and permanently abandoned.', 'self': False, 'pos': 'NP'}
+1066*{'text': 'Upon the death of king Stenkil of Sweden, his son Eric Stenkilsson and his rival Eric the Pagan battle for power in Sweden, both claiming the throne, until the next year.', 'self': False, 'pos': 'NP'}
+1066*{'date': 'January 4', 'text': 'Edward the Confessor dies.', 'self': False, 'pos': 'NP'}
+1066*{'date': 'January 8', 'text': 'Harold II is crowned King of England at Westminster Abbey.', 'self': False, 'pos': 'NP'}
+1066*{'date': 'March 20', 'text': "Halley's Comet reaches perihelion.", 'self': False, 'pos': 'NP'}
+1066*{'date': 'September 28', 'text': 'Duke William of Normandy lands in England at Pevensey.', 'self': False, 'pos': 'NP'}
+1066*{'date': 'December 25', 'text': 'Duke William of Normandy, is crowned King William I of England.', 'self': False, 'pos': 'NP'}
+1066*{'text': 'Magnus II is crowned King of Norway.', 'self': False, 'pos': 'NP'}
+1066*{'text': 'Sima Guang completes the compilation of a large dictionary, an important work of Chinese lexicography.', 'self': False, 'pos': 'NP'}
+1087*{'text': 'Emperor Horikawa ascends to the throne of Japan.', 'self': False, 'pos': 'NP'}
+1087*{'date': 'May 9', 'text': 'The remains of Saint Nicholas are brought to Bari, Italy by local sailors.', 'self': False, 'pos': 'DET'}
+1087*{'date': 'September 9', 'text': 'William II becomes King of England.', 'self': False, 'pos': 'NP'}
+1087*{'text': 'Inge the Elder returns to Svealand, kills Blot-Sweyn and anew proclaims himself King of Sweden.', 'self': False, 'pos': 'NP'}
+1087*{'text': "A fire in London destroys St Paul's Cathedral.", 'self': False, 'pos': 'DET'}
+1087*{'text': 'The Sharq al-Andalus falls under the domination of El Cid supported by the malik of Tortosa.', 'self': False, 'pos': 'DET'}
+1087*{'date': 'May 9', 'text': 'Pope Victor III formally accepts elevation as the 158th pope.', 'self': False, 'pos': 'NP'}
+1086*{'text': 'Emperor Shirakawa of Japan starts his cloistered rule.', 'self': False, 'pos': 'NP'}
+1086*{'text': 'The Imam Ali Mosque in Najaf is rebuilt by the Seljuk Malik Shah I after being destroyed by fire.', 'self': False, 'pos': 'DET'}
+1086*{'text': 'The Domesday Book is completed in England.', 'self': False, 'pos': 'DET'}
+1086*{'text': 'Syracuse, the last Muslim stronghold in Sicily, is conquered by the Normans.', 'self': False, 'pos': 'NP'}
+1086*{'date': 'May 24', 'text': 'Pope Victor III succeeds Pope Gregory VII as the 158th pope, though he does not accept election until May 9, 1087.', 'self': False, 'pos': 'NP'}
+1085*{'date': 'April 2', 'text': 'Emperor Zhezong becomes emperor of Song Dynasty.', 'self': False, 'pos': 'NP'}
+1085*{'date': 'May 25', 'text': 'Alfonso VI of Castile enters the Islamic city of Toledo, Spain, and invites French knights to settle the central plateau of Spain.', 'self': False, 'pos': 'NP'}
+1085*{'text': 'The Domesday survey is commissioned by William I of England, apparently prompted by the abortive invasion of Canute IV of Denmark, to ensure proper taxation and levies.', 'self': False, 'pos': 'DET'}
+1085*{'text': 'Henry IV extends the "Peace of God" over his entire empire.', 'self': False, 'pos': 'NP'}
+1085*{'text': 'Katedralskolan, Lund, the oldest school in Scandinavia, is founded.', 'self': False, 'pos': 'NP'}
+1085*{'text': 'Vratislav, Duke of Bohemia, is crowned King.', 'self': False, 'pos': 'NP'}
+1084*{'text': 'Saint Bruno founds the Carthusian Order of monks.', 'self': False, 'pos': 'NP'}
+1084*{'text': 'Kyanzittha begins his reign in Burma.', 'self': False, 'pos': 'NP'}
+1084*{'text': 'Henry IV, Holy Roman Emperor is crowned Emperor by Antipope Clement III.', 'self': False, 'pos': 'NP'}
+1084*{'text': 'Rome is besieged by the Holy Roman Emperor Henry IV, and is then sacked by the Normans of Robert Guiscard, who intended to restore papal authority over the city.', 'self': False, 'pos': 'NP'}
+1084*{'text': "Pope Gregory VII, who had been imprisoned by Henry IV at the Castel Sant'Angelo, Rome, is freed by Robert Guiscard.", 'self': False, 'pos': 'NP'}
+1084*{'text': 'Antioch is captured by the Seljuk Turks from the Byzantines.', 'self': False, 'pos': 'NP'}
+1084*{'text': 'Chancellor Sima Guang and a group of scholars of the Chinese Song Dynasty complete the compilation of the Zizhi Tongjian, an enormous written universal history of China in 294 volumes of 3 million written Chinese characters.', 'self': False, 'pos': 'NP'}
+1083*{'text': 'Sancho I of Aragon conquers Graus.', 'self': False, 'pos': 'NP'}
+1083*{'text': 'Alfonso VI of Castile conquers Talavera de la Reina.', 'self': False, 'pos': 'NP'}
+1083*{'text': 'Bosnia is conquered by Duklja.', 'self': False, 'pos': 'NP'}
+1083*{'date': 'June', 'text': "Pope Gregory VII is besieged in Castel Sant'Angelo by Henry IV, Holy Roman Emperor.", 'self': False, 'pos': 'NP'}
+1083*{'text': 'Fall of Ceuta to the Almoravids after five years of siege.', 'self': False, 'pos': 'NP'}
+1082*{'text': 'The Rochester Cathedral is completed.', 'self': False, 'pos': 'DET'}
+1082*{'text': 'The German Henry IV, Holy Roman Emperor besieges Rome and gains entry; a synod is agreed upon by the Romans to rule on the dispute between Henry and Pope Gregory VII.', 'self': False, 'pos': 'DET'}
+1082*{'text': 'Ottokar II succeeds his brother Adalbero (died 1086 or 1087) as margrave of Styria.', 'self': False, 'pos': 'NP'}
+1082*{'text': 'The Korean printing of the entire Buddhist Tripitaka is completed.', 'self': False, 'pos': 'DET'}
+1082*{'text': 'A military campaign advised by Shen Kuo fails.', 'self': False, 'pos': 'DET'}
+1081*{'date': 'May 8', 'text': 'Alfonso VI of Castile marries Constance of Burgundy.', 'self': False, 'pos': 'NP'}
+1081*{'date': 'October 18', 'text': 'Alexius I helps defend Albania from the Normans (the first recorded mention of Albania), but is defeated at the Battle of Dyrrhachium (Durazzo).', 'self': False, 'pos': 'NP'}
+1081*{'text': 'Corfu is taken from the Byzantine Empire by Robert Guiscard, Norman King of Southern Italy.', 'self': False, 'pos': 'NP'}
+1081*{'text': 'Byzantine emperor Nicephorus III is overthrown by Alexius I Comnenus, ending the Middle Byzantine period and beginning the Comnenan dynasty.', 'self': False, 'pos': 'NP'}
+1080*{'text': 'William I of England, in a letter, protests to the Pope that the King of England owes him no allegiance.', 'self': False, 'pos': 'NP'}
+1080*{'text': 'Osmund, Bishop of Salisbury, builds Devizes Castle.', 'self': False, 'pos': 'NP'}
+1080*{'date': 'C. 1080–1100', 'text': 'Christ Pantokrator, mosaic in the central dome, church of the Dormition, Daphni, Greece, is made.', 'self': False, 'pos': 'NP'}
+1080*{'text': 'The Armenian Kingdom of Cilicia gains independence after its founder, Prince Ruben, succeeds in establishing his authority in the mountainous regions of Cilicia (approximate date).', 'self': False, 'pos': 'DET'}
+1080*{'text': "The Song Dynasty Chinese polymath scientist and statesman Shen Kuo begins his defensive military campaign against the Tanguts of the Western Xia Kingdom, successfully defending the invasion route to Yan'an.", 'self': False, 'pos': 'DET'}
+1080*{'text': 'The Almoravid emir, Yusuf ibn Tashfin, conquers Tanger, Badis and Hunayn.', 'self': False, 'pos': 'DET'}
+1089*{'text': 'Northumbria is divided by the Normans into the counties of Northumberland, County Palatine of Durham, Yorkshire, Westmorland and Lancashire.', 'self': False, 'pos': 'NP'}
+1089*{'text': 'Cîteaux Abbey, the first Cistercian monastery, is founded in southern France.', 'self': False, 'pos': 'NP'}
+1089*{'date': 'August 11', 'text': 'A powerful earthquake is recorded in Britain.', 'self': False, 'pos': 'DET'}
+1089*{'text': 'Rama Varma Kulashekhara is crowned in Kerala.', 'self': False, 'pos': 'NP'}
+1089*{'text': 'The Synod of Melfi under Pope Urban II imposes slavery on the wives of priests.', 'self': False, 'pos': 'DET'}
+1089*{'text': 'Palmyra is destroyed by an earthquake.', 'self': False, 'pos': 'NP'}
+1088*{'text': 'Mansur ibn Nasir succeeds Nasir ibn Alnas as ruler of the Hammadid Dynasty.', 'self': False, 'pos': 'NP'}
+1088*{'text': 'The Rebellion of 1088 against William II of England is led by Odo of Bayeux.', 'self': True, 'pos': 'DET'}
+1088*{'text': 'An earthquake affects Georgia and causes large damages.', 'self': False, 'pos': 'DET'}
+1088*{'text': 'Almoravid campaign in al-Andalus.', 'self': False, 'pos': 'NP'}
+1088*{'text': 'The troops of the count of Barcelona reconquer the ancient archiepiscopal see of Tarragona (lost again in 1108).', 'self': False, 'pos': 'DET'}
+1088*{'text': 'The Dream Pool Essays is published in this year by the polymath Chinese scientist and statesman Shen Kuo.', 'self': False, 'pos': 'DET'}
+1088*{'text': 'The Chinese polymath statesman and scientist Su Song has the successful pilot model for his astronomical clock tower constructed in Kaifeng, China.', 'self': False, 'pos': 'DET'}
+1088*{'text': 'The oldest extant university, the University of Bologna, is founded.', 'self': False, 'pos': 'DET'}
+1088*{'date': 'March 12', 'text': 'Pope Urban II succeeds Pope Victor III as the 159th pope.', 'self': False, 'pos': 'NP'}
+1088*{'text': 'Work begins on the third and largest church at Cluny.', 'self': False, 'pos': 'NP'}
+1018*{'text': 'The Liao Dynasty invades Goryeo.', 'self': False, 'pos': 'DET'}
+1018*{'text': 'The last Bulgarian leader, Ibatzes, is captured.', 'self': False, 'pos': 'DET'}
+1018*{'text': 'The Peace of Bautzen is signed between Poland and Germany.', 'self': False, 'pos': 'DET'}
+1018*{'text': 'Boleslaus I of Poland takes Kiev and conquers Red Ruthenia.', 'self': False, 'pos': 'NP'}
+1018*{'text': 'Canute the Great becomes king of Denmark (or 1019), succeeding Harald II.', 'self': False, 'pos': 'NP'}
+1018*{'text': 'Buckfast Abbey is founded.', 'self': False, 'pos': 'NP'}
+1018*{'text': 'The city of Koblenz is given to the archbishop of Trier.', 'self': False, 'pos': 'DET'}
+1019*{'text': 'The Azdâji conquest puts an end to the Kingdom of Nekor in Morocco.', 'self': False, 'pos': 'DET'}
+1019*{'text': 'The last Goryeo-Khitan War ends.', 'self': False, 'pos': 'DET'}
+1019*{'text': 'Mahmud founds the Great Mosque at Ghazni, capital of the Ghaznavid Empire.', 'self': False, 'pos': 'NP'}
+1019*{'text': 'Moravia becomes part of Bohemia.', 'self': False, 'pos': 'NP'}
+1019*{'text': "Yaroslav the Wise becomes prince of Kievan Rus', succeeding Sviatopolk I.", 'self': False, 'pos': 'NP'}
+1019*{'text': 'A treaty between Sweden and Norway is conducted at Kungälv.', 'self': False, 'pos': 'DET'}
+1014*{'date': 'February 14', 'text': 'Pope Benedict VIII recognizes and crowns Henry of Bavaria (who has ruled since 1003) as King of Germany.', 'self': False, 'pos': 'NP'}
+1014*{'date': 'July', 'text': 'Battle of Salonica fought in Greece between First Bulgarian Empire and Byzantine Empire.', 'self': False, 'pos': 'NP'}
+1014*{'text': 'Cnut the Great returns to Denmark.', 'self': False, 'pos': 'NP'}
+1014*{'text': 'Holmgang is declared illegal in Norway.', 'self': False, 'pos': 'NP'}
+1014*{'text': 'Hammad ibn Buluggin recognises the Abbasid Caliphate, beginning the split of the Hammadids from the Zirids.', 'self': False, 'pos': 'NP'}
+1014*{'text': 'The Nicene-Constantinopolitan Symbol of the Faith is used for the first time during the Roman Mass after Henry II, the newly crowned Holy Roman Emperor, asks the Pope to add it together with the filioque clause.', 'self': False, 'pos': 'DET'}
+1015*{'text': 'Canute the Great invades England.', 'self': False, 'pos': 'NP'}
+1015*{'text': 'Olav Haraldsson becomes king of Norway.', 'self': False, 'pos': 'NP'}
+1015*{'text': 'Sviatopolk succeeds Vladimir as prince of Kiev.', 'self': False, 'pos': 'NP'}
+1015*{'text': 'The Ghaznavid army invades Kashmir, but is defeated.', 'self': False, 'pos': 'DET'}
+1016*{'text': 'Emperor Go-Ichijō succeeds Emperor Sanjō on the throne of Japan.', 'self': False, 'pos': 'NP'}
+1016*{'text': "George Tsul, ruler of Khazaria, is captured by a combined Byzantine–Rus' force, which effectively ends Khazaria's existence.", 'self': False, 'pos': 'NP'}
+1016*{'text': 'Melus of Bari makes a second attempt against Byzantine-held Southern Italy.', 'self': False, 'pos': 'NP'}
+1016*{'text': 'The Pisan and the Genoese republics launch a naval offensive against the Muslim strongholds of Sardegna, in particular Porto Torres and defeat the fleet of the taifa king of Denia, Mujahid al-Amiri al-Muwaffaq.', 'self': False, 'pos': 'DET'}
+1016*{'text': "Edmund II is king of England after Ethelred's death.", 'self': False, 'pos': 'NP'}
+1016*{'text': 'Canute of Denmark and Edmund II divide England.', 'self': False, 'pos': 'NP'}
+1017*{'text': 'Canute the Great is acclaimed king of England.', 'self': False, 'pos': 'NP'}
+1017*{'text': 'England is divided into the earldoms of Wessex, Mercia, East Anglia and Northumbria.', 'self': False, 'pos': 'NP'}
+1017*{'text': 'Canute marries Emma of Normandy.', 'self': False, 'pos': 'NP'}
+1017*{'text': 'Melus of Bari rebels, supported by Norman mercenaries.', 'self': False, 'pos': 'NP'}
+1017*{'text': 'Kiev burns.', 'self': False, 'pos': 'NP'}
+1017*{'text': 'The construction of Saint Sophia Cathedral in Kiev is started (approximate date).', 'self': False, 'pos': 'DET'}
+1017*{'text': "Hamza ibn-'Ali ibn-Ahmad publicly declares the founding of the Druze religion.", 'self': False, 'pos': 'NP'}
+1017*{'text': "Sunni revolt of Kairouan against the Shi'ite Zirid dynasty.", 'self': False, 'pos': 'NP'}
+1010*{'text': 'The city of Yaroslavl is said to have been founded.', 'self': False, 'pos': 'DET'}
+1010*{'text': 'Hisham II the Nephast is restored as Umayyad caliph of Córdoba, succeeding Muhammad II al-Mahdi.', 'self': False, 'pos': 'NP'}
+1010*{'text': 'Allied to Muslim rebels, the count of Barcelona sacks the Cordoba.', 'self': False, 'pos': 'NP'}
+1010*{'text': 'The Lý Dynasty is established in Vietnam (or 1009) and moves the capital to Hanoi.', 'self': False, 'pos': 'DET'}
+1010*{'text': 'The Goryeo king is unseated in a revolt, resulting in an invasion by the Liao Dynasty and the burning of the Korean capital Gaegyeong in the Second Goryeo-Khitan War.', 'self': False, 'pos': 'DET'}
+1010*{'text': 'Song Zhun of Song Dynasty China completes the work of the earlier geographer Lu Duosun, an enormous atlas of China that is written and illustrated in 1,556 chapters, showing maps of each region, city, town, and village.', 'self': False, 'pos': 'NP'}
+1010*{'text': 'The construction of Brihadeeswarar temple, Thanjavur, Tamil Nadu, India, ends.', 'self': False, 'pos': 'DET'}
+1010*{'text': 'Rajaraja I and His Teacher, detail of a wall painting in the Brihadeeswarar temple, Thanjavur, Tamil Nadu, India, is made.', 'self': False, 'pos': 'NP'}
+1010*{'text': 'Lady Murasaki writes The Tale of Genji in Japanese (approximate date).', 'self': False, 'pos': 'NP'}
+1010*{'text': 'Beowulf is written anonymously (approximate date).', 'self': False, 'pos': 'NP'}
+1010*{'text': 'Eilmer of Malmesbury attempts flight in a glider of his own construction.', 'self': False, 'pos': 'NP'}
+1011*{'date': 'June 11', 'text': 'The Byzantine army under the catapan Basil Mesardonites takes Bari from the rebellious Lombard lord Melus.', 'self': False, 'pos': 'DET'}
+1011*{'text': 'Byrhtferth of Ramsey writes his Manual, on the subject of time.', 'self': False, 'pos': 'NP'}
+1011*{'text': 'The German king Henry II enfeoffes Adalbero, Duke of Carinthia with the Carinthian duchy, including the rule over the March of Verona (or in 1012).', 'self': False, 'pos': 'DET'}
+1011*{'text': 'Ermengol II succeeds Ermengol I as Count of Urgell.', 'self': False, 'pos': 'NP'}
+1011*{'text': 'Albert II, Count of Namur succeeds Albert I.', 'self': False, 'pos': 'NP'}
+1011*{'text': 'Ibn al-Haytham (Alhacen), a famous Persian scientist working in Egypt, feigns madness in fear of angering Al-Hakim, and is kept under house arrest until 1021.', 'self': False, 'pos': 'NP'}
+1011*{'text': 'The Chinese Guangyun rime dictionary is compiled under Emperor Zhenzong of Song.', 'self': False, 'pos': 'DET'}
+1011*{'text': 'Emperor Sanjō ascends to the throne of Japan.', 'self': False, 'pos': 'NP'}
+1012*{'text': 'Mael Morda starts a rebellion against Brian Boru in Ireland, which eventually ends in 1014 at the Battle of Clontarf.', 'self': False, 'pos': 'NP'}
+1012*{'text': 'Suleiman II is restored as Umayyad caliph of Cordoba, succeeding Hisham II.', 'self': False, 'pos': 'NP'}
+1012*{'text': 'Oldrich succeeds Jaromir as duke of Bohemia.', 'self': False, 'pos': 'NP'}
+1012*{'text': 'Fatimid Caliph al-Hakim orders the destruction of all Jewish and Christian places of worship.', 'self': False, 'pos': 'NP'}
+1012*{'date': 'April 19', 'text': 'Archbishop Alphege of Canterbury is murdered by his Danish captors.', 'self': False, 'pos': 'NP'}
+1012*{'date': 'May 18', 'text': 'Pope Benedict VIII succeeds Pope Sergius IV as the 143rd pope.', 'self': False, 'pos': 'NP'}
+1012*{'text': 'Gregory VI becomes antipope.', 'self': False, 'pos': 'NP'}
+1013*{'text': 'The Poles withdraw from Pomerania (approximate date).', 'self': False, 'pos': 'DET'}
+1013*{'text': 'The Jews are expelled from the caliphate of Córdoba.', 'self': False, 'pos': 'DET'}
+1013*{'text': 'The largest of the Four Great Books of Song, the Song Dynasty Chinese encyclopedia Prime Tortoise of the Record Bureau (which had been compiled since 1005), is completed in 1,000 volumes of 9.4 million written Chinese characters.', 'self': False, 'pos': 'DET'}
+1013*{'text': 'Beauvais changes from a county to a bishopric (approximate date).', 'self': False, 'pos': 'NP'}
+1013*{'text': 'The Al-Hakim Mosque is completed in Cairo.', 'self': False, 'pos': 'DET'}
+1009*{'date': 'February 14 or March 9', 'text': 'First known mention of the name of Lithuania in connection with the murder of Saint Bruno of Querfurt.', 'self': False, 'pos': 'NP'}
+1009*{'date': 'August 29', 'text': 'Mainz Cathedral suffers extensive damage from a fire on the day of its inauguration.', 'self': False, 'pos': 'NP'}
+1009*{'text': 'Suleiman II succeeds Mohammed II as Caliph of Córdoba.', 'self': False, 'pos': 'NP'}
+1009*{'text': 'The Vikings repeatedly attack England.', 'self': False, 'pos': 'DET'}
+1009*{'text': "The Lý Dynasty, Vietnam's first independent dynasty, is proclaimed.", 'self': False, 'pos': 'DET'}
+1009*{'text': 'The provinces of Goryeo (modern-day Korea) are redistributed.', 'self': False, 'pos': 'DET'}
+1009*{'date': 'October 18', 'text': 'The Church of the Holy Sepulchre is destroyed by Caliph al-Hakim bi-Amr Allah.', 'self': False, 'pos': 'DET'}
+1009*{'date': 'July 31', 'text': 'Pope Sergius IV succeeds Pope John XVIII as the 142nd pope.', 'self': False, 'pos': 'NP'}
+1008*{'text': 'Oldest known mention of the city of Gundelfingen.', 'self': False, 'pos': 'NP'}
+1008*{'text': 'Olav Haraldsson, the future king of Norway, lands on Saaremaa Island in Estonia, wins a battle there and forces the inhabitants to pay tribute.', 'self': False, 'pos': 'NP'}
+1008*{'text': 'Georgia is unified under King Bagrat III.', 'self': False, 'pos': 'NP'}
+1008*{'text': 'Mohammed II succeeds Hisham II as Caliph of Cordoba.', 'self': False, 'pos': 'NP'}
+1008*{'text': 'The Egyptian Fatimid Empire under Al-Hakim bi-Amr Allah sends the sea captain Domiyat on a tributary mission to Emperor Zhenzong of the Song Dynasty, in order to reestablish trade relations between Egypt and China.', 'self': False, 'pos': 'DET'}
+1008*{'text': 'Bruno of Querfurt and others try to establish a mission among the Prussians.', 'self': False, 'pos': 'NP'}
+1007*{'text': 'Aethelred buys two years of peace with the Danes for 36,000 pounds of silver.', 'self': False, 'pos': 'NP'}
+1007*{'text': 'Songjiang County, the later city of Shanghai, is founded (approximate date).', 'self': False, 'pos': 'NP'}
+1007*{'text': 'The vizier and his army invaded Babylon Persia.', 'self': False, 'pos': 'DET'}
+1007*{'text': 'Henry II of Germany founds the Diocese of Bamberg.', 'self': False, 'pos': 'NP'}
+1006*{'text': 'A major eruption of Mount Merapi volcano covers all of central Java with volcanic ash, caused devastation throughout central Java, and destroyed a Hindu kingdom on the island of Java.', 'self': False, 'pos': 'DET'}
+1006*{'text': 'Holmgang (dueling) is declared illegal in Iceland.', 'self': False, 'pos': 'NP'}
+1006*{'text': 'Aelfheah (St. Alphege) goes to Pope John XVIII at Rome for his pallium and becomes Archbishop of Canterbury.', 'self': False, 'pos': 'NP'}
+1006*{'date': 'May 1', 'text': 'The brightest supernova ever recorded, SN 1006, occurs in the constellation of Lupus.', 'self': True, 'pos': 'DET'}
+1005*{'date': 'March 25', 'text': 'Malcolm II succeeds Cináed III as king of Scotland, killing him and his son Giric II of Scotland in the battle of Monzievard.', 'self': False, 'pos': 'NP'}
+1005*{'text': 'Aeddan ap Blegywryd, prince of Gwynedd succeeds Cynan ap Hywel.', 'self': False, 'pos': 'NP'}
+1005*{'text': 'Pomerania revolts against the church.', 'self': False, 'pos': 'NP'}
+1005*{'text': 'Schaffhausen starts minting its own coins.', 'self': False, 'pos': 'NP'}
+1005*{'text': 'Pisan offensive against the Muslim strongholds on the coast of Calabria.', 'self': False, 'pos': 'NP'}
+1005*{'date': 'January 13–January 18', 'text': 'The Shanyuan Treaty is negotiated between the Liao Dynasty and the Song Dynasty.', 'self': False, 'pos': 'DET'}
+1005*{'text': 'Lê Trung Tông succeeds Lê Hoàn as the emperor of Vietnam, preceding anarchy and 8 months succession war with Long Ngân and other princes.', 'self': False, 'pos': 'NP'}
+1005*{'date': 'October', 'text': 'Defeat of Long Ngân and his death in Thạch Hà by hands of natives.', 'self': False, 'pos': 'NP'}
+1005*{'text': 'Lê Ngoạ Triều succeeds Lê Trung Tông, killing him after just three days of reign, beginning tyrannical executions.', 'self': False, 'pos': 'NP'}
+1005*{'text': 'Shūi Wakashū is compiled (earliest possible date).', 'self': False, 'pos': 'NP'}
+1004*{'text': 'Plague and famine episode in North Africa.', 'self': False, 'pos': 'NP'}
+1004*{'date': 'December', 'text': 'The Samanid dynasty ends in Bokhara.', 'self': False, 'pos': 'DET'}
+1004*{'text': 'The Liao Dynasty launches a major offensive against the Song Dynasty.', 'self': False, 'pos': 'DET'}
+1004*{'date': 'May 14', 'text': 'Henry II is crowned Holy Roman Emperor at Pavia.', 'self': False, 'pos': 'NP'}
+1004*{'text': 'Henry II launches war against Boleslav of Poland.', 'self': False, 'pos': 'NP'}
+1004*{'text': 'Boleslaus I of Poland loses Bohemia after having become duke the previous year.', 'self': False, 'pos': 'NP'}
+1004*{'text': 'Sancho III becomes king of Navarre, Aragon and Castille.', 'self': False, 'pos': 'NP'}
+1004*{'text': 'Sweyn I of Denmark destroys Norwich.', 'self': False, 'pos': 'NP'}
+1004*{'text': 'Aberdeen becomes a bishopric.', 'self': False, 'pos': 'NP'}
+1004*{'text': 'The troops of the vizir Al-Mansur sack the Catalan city of Manresa.', 'self': False, 'pos': 'DET'}
+1004*{'text': 'Pope John XVIII (1004–1009).', 'self': True, 'pos': 'NP'}
+1003*{'date': 'January 25', 'text': 'Werner, Margrave of the Nordmark succeeds Lothair.', 'self': False, 'pos': 'NP'}
+1003*{'date': 'February 9', 'text': 'Boleslaus III of Bohemia is restored to authority with armed support from Bolesław I the Brave of Poland.', 'self': False, 'pos': 'NP'}
+1003*{'date': 'May 4', 'text': 'Herman III, Duke of Swabia succeeds Herman II.', 'self': False, 'pos': 'NP'}
+1003*{'text': 'Vladivoj of Bohemia succeeds Boleslaus III.', 'self': False, 'pos': 'NP'}
+1003*{'text': 'Boleslaus IV succeeds Vladivoj of Bohemia.', 'self': False, 'pos': 'NP'}
+1003*{'text': 'Wilfred succeeds Abbot Oliva as count of Berga.', 'self': False, 'pos': 'NP'}
+1003*{'text': 'Sweyn I of Denmark begins his first invasion of England.', 'self': False, 'pos': 'NP'}
+1003*{'text': 'Humbert I becomes the first count of Savoy.', 'self': False, 'pos': 'NP'}
+1003*{'text': 'Robert II of France marries Constance of Arles.', 'self': False, 'pos': 'NP'}
+1003*{'text': 'Boleslaus I of Poland becomes duke of Bohemia and Moravia.', 'self': False, 'pos': 'NP'}
+1003*{'text': 'Stephen I of Hungary invades Transylvania and organises the Diocese of Transylvania (possible date).', 'self': False, 'pos': 'NP'}
+1003*{'text': 'Deutz Abbey is founded at Deutz by Heribert of Cologne.', 'self': False, 'pos': 'NP'}
+1003*{'text': 'The troops of the Caliphate of Cordoba defeats the northern Christian armies at the battle of Albesa.', 'self': False, 'pos': 'DET'}
+1003*{'text': 'Zacharias succeeds Philotheos as Patriarch of Alexandria.', 'self': False, 'pos': 'NP'}
+1003*{'text': 'The Zubu khan surrenders to the Liao Dynasty.', 'self': False, 'pos': 'DET'}
+1003*{'text': 'The construction of Brihadeeswarar temple, Thanjavur, Tamil Nadu, India, starts.', 'self': False, 'pos': 'DET'}
+1003*{'date': 'May 16', 'text': 'Pope John XVII succeeds Pope Silvester II as the 140th pope.', 'self': False, 'pos': 'NP'}
+1003*{'date': 'December 25', 'text': 'Pope John XVIII succeeds Pope John XVII as the 141st pope.', 'self': False, 'pos': 'NP'}
+1002*{'date': 'January 23', 'text': 'Henry II succeeds Otto III as king of Germany.', 'self': False, 'pos': 'NP'}
+1002*{'date': 'June', 'text': 'Frederick is sent as an imperial legate to the Synod of Pöhlde to mediate between the claims of Bernard, Bishop of Hildesheim, and Willigis, Archbishop of Mainz, concerning the control of the abbey of Gandersheim.', 'self': False, 'pos': 'NP'}
+1002*{'date': 'November', 'text': 'Frederick is elected Archbishop of Ravenna.', 'self': False, 'pos': 'NP'}
+1002*{'text': 'Vladivoj succeeds Boleslaus III, Duke of Bohemia.', 'self': False, 'pos': 'NP'}
+1002*{'text': 'Otto of Worms withdraws his nomination for the title of Holy Roman Emperor and receives Duchy of Carinthia in return.', 'self': False, 'pos': 'NP'}
+1002*{'text': 'John IV of Naples is probably released from German captivity by Henry II, Holy Roman Emperor.', 'self': False, 'pos': 'NP'}
+1002*{'text': 'Danegeld is paid by Æthelred the Unready to prevent Viking raids against England.', 'self': False, 'pos': 'NP'}
+1002*{'date': 'August 8', 'text': 'Abd al-Malik succeeds Al-Mansur, chief minister of the Umayyad Caliphate of Córdoba, Spain.', 'self': False, 'pos': 'NP'}
+1002*{'date': 'December', 'text': 'Khalaf I of Sistan surrenders to Ghaznavids in Taq.', 'self': False, 'pos': 'NP'}
+1002*{'text': 'Rafael of Makuria constructs a red brick building in Old Dongola.', 'self': False, 'pos': 'NP'}
+1001*{'date': 'July 31', 'text': 'Emperor Otto III confirms possessions of Ulric Manfred II of Turin and grants him privileges.', 'self': False, 'pos': 'NP'}
+1001*{'date': 'July', 'text': 'Sergius II becomes Patriarch of Constantinople.', 'self': False, 'pos': 'NP'}
+1001*{'text': 'Byzantine Emperor Basil II attempts to reconquer Bulgaria.', 'self': False, 'pos': 'NP'}
+1001*{'text': "Robert II, King of France marries for the third time, with Constance Taillefer d'Arles.", 'self': False, 'pos': 'NP'}
+1001*{'text': "Otto III, Holy Roman Emperor has Charlemagne's vault opened (see Aachen Cathedral).", 'self': False, 'pos': 'NP'}
+1001*{'text': 'Boleslaw I of Poland begins ruling parts of Slovakia.', 'self': False, 'pos': 'NP'}
+1001*{'text': 'Vseslav Izyaslavich of Polotsk begins ruling Polotsk.', 'self': False, 'pos': 'NP'}
+1001*{'text': 'Werner I, Bishop of Strasbourg begins ruling Archbishopric of Strasbourg.', 'self': False, 'pos': 'NP'}
+1001*{'text': 'First reference to Khotyn, Ukrainian town and to Nyalka, Hungarian village, as to Chimudi.', 'self': False, 'pos': 'NP'}
+1001*{'text': 'Baitoushan volcano on what would be the Chinese-Korean border, erupts with a force of 6.5, the fourth largest Holocene blast (approximate date).', 'self': False, 'pos': 'NP'}
+1001*{'text': 'Mahmud of Ghazni, Muslim leader of Ghazni, begins a series of raids into Northern India.', 'self': False, 'pos': 'NP'}
+1001*{'text': 'Jayapala suffers defeat from Ghaznavid Empire near Peshawar.', 'self': False, 'pos': 'NP'}
+1001*{'text': 'Khmer King Jayavarman V is succeeded by Udayadityavarman I and/or Suryavarman I.', 'self': False, 'pos': 'NP'}
+1001*{'text': 'The Buddhist ruler of Butuan in the Philippines (P’u-tuan in the Sung Dynasty records), Sari Bata Shaja, makes the first tributary mission to China.', 'self': False, 'pos': 'DET'}
+1001*{'text': 'Oqropiri (Ioane I), Svimeon III and Melkisedek I are Catholicoi of Iberia within one year.', 'self': False, 'pos': 'NP'}
+1001*{'text': 'Khazrun ben Falful from Maghrawa family Banu Khazrun begins ruling Tripoli.', 'self': False, 'pos': 'NP'}
+1001*{'text': 'A tomb of saint Ivo (possibly) is uncovered in Huntingdonshire.', 'self': False, 'pos': 'DET'}
+1038*{'text': 'The name of Versailles, then a small village, appears for the first time in a Medieval charter.', 'self': False, 'pos': 'DET'}
+1038*{'text': 'The Western Xia declare their independence from Liao China.', 'self': False, 'pos': 'DET'}
+1039*{'date': 'June 4', 'text': 'Henry III becomes King of Germany.', 'self': False, 'pos': 'NP'}
+1039*{'text': 'The Abbey of Bec is founded.', 'self': False, 'pos': 'DET'}
+1039*{'text': 'Bretislav I of Bohemia invades Poland.', 'self': False, 'pos': 'NP'}
+1032*{'date': 'October 21', 'text': 'Benedict IX succeeds John XIX, as the 145th pope.', 'self': False, 'pos': 'NP'}
+1032*{'text': 'The first mention of the city of Kursk.', 'self': False, 'pos': 'DET'}
+1033*{'date': 'February 2', 'text': 'Conrad II, Holy Roman Emperor, becomes King of Burgundy.', 'self': False, 'pos': 'NP'}
+1033*{'text': 'Panic spreads throughout Europe that the end of the universe may be near, on the supposed 1,000th anniversary of the crucifixion of Christ, due to some unusually harsh spring weather.', 'self': False, 'pos': 'NP'}
+1030*{'text': 'The cities of Kaunas in Lithuania and Tartu in Estonia are founded.', 'self': False, 'pos': 'DET'}
+1030*{'text': 'Earliest mention of Thalwil, Switzerland.', 'self': False, 'pos': 'NP'}
+1030*{'text': 'Henry I of France revolts against his father Robert.', 'self': False, 'pos': 'NP'}
+1030*{'text': 'The Song Dynasty Chinese historian and scholar Ouyang Xiu obtains his jinshi degree at the age of only 22 by passing the highest level examinations in the country (his third attempt), leading him into a distinguished path as a scholar-official.', 'self': False, 'pos': 'DET'}
+1030*{'text': 'Byzantine Emperor Romanus III invades Syria.', 'self': False, 'pos': 'NP'}
+1030*{'text': 'Masud seizes the throne of the Ghaznavid Empire after the death of his father Mahmud.', 'self': False, 'pos': 'NP'}
+1031*{'text': 'The Moorish Caliphate of Córdoba collapses.', 'self': False, 'pos': 'DET'}
+1031*{'text': 'Byzantine general George Maniaces captures Edessa.', 'self': False, 'pos': 'NP'}
+1031*{'text': 'Henry I becomes King of France.', 'self': False, 'pos': 'NP'}
+1031*{'text': 'Bezprym seizes the throne of Poland from Mieszko II.', 'self': False, 'pos': 'NP'}
+1036*{'text': 'A Zirid attack in Sicily takes Palermo from the Normans but fails to fully reconquer the island.', 'self': False, 'pos': 'DET'}
+1036*{'date': 'February 5', 'text': "Edward the Confessor's younger brother Alfred Aetheling is blinded and murdered in an apparent attempt to seize the throne of England from Harold I.", 'self': False, 'pos': 'NP'}
+1036*{'text': 'Emperor Go-Suzaku ascends the throne of Japan.', 'self': False, 'pos': 'NP'}
+1036*{'text': 'First appearance of the Flower Sermon in Buddhist literature.', 'self': False, 'pos': 'NP'}
+1037*{'text': 'Ferdinand I becomes the king of Castile and Leon.', 'self': False, 'pos': 'NP'}
+1037*{'text': 'Harold I seizes the crown of England from his half-brother Harthacanute.', 'self': False, 'pos': 'NP'}
+1037*{'text': 'George Maniaces begins a campaign against the Arabs in Sicily.', 'self': False, 'pos': 'NP'}
+1037*{'text': 'The Song Dynasty Chinese rime dictionary of the Jiyun is published.', 'self': False, 'pos': 'DET'}
+1037*{'text': 'Seljuq dynasty starts.', 'self': False, 'pos': 'NP'}
+1034*{'text': 'The heir to the displaced Balhae kings revolts against the Liao Dynasty, and flees to Goryeo when defeated.', 'self': False, 'pos': 'DET'}
+1035*{'text': 'Pisa launches a naval assault against the Saracen pirates strongholds in the Lipari Islands.', 'self': False, 'pos': 'NP'}
+1035*{'text': 'Harald I becomes king of England.', 'self': False, 'pos': 'NP'}
+1035*{'text': 'Harthacanute becomes king of Denmark.', 'self': False, 'pos': 'NP'}
+1035*{'text': 'Magnus I becomes king of Norway.', 'self': False, 'pos': 'NP'}
+1035*{'text': 'William II (the future William I of England) becomes duke of Normandy.', 'self': False, 'pos': 'NP'}
+1035*{'text': 'Koper is awarded town rights.', 'self': False, 'pos': 'NP'}
+1035*{'text': 'The first Freimarkt festival is held in Bremen.', 'self': False, 'pos': 'DET'}
+1025*{'date': 'April 18', 'text': 'Boleslaw I Chrobry is crowned as the first king of Poland.', 'self': False, 'pos': 'NP'}
+1025*{'text': 'Srivijaya, a partly Buddhist kingdom based in Sumatra, is attacked by the Chola Empire of southern India in a dispute over trading rights in South-east Asia.', 'self': False, 'pos': 'NP'}
+1025*{'text': 'Constantine VIII succeeds his brother Basil II as Byzantine Emperor.', 'self': False, 'pos': 'NP'}
+1024*{'text': 'The Salian Dynasty of the Holy Roman Empire is founded by Conrad II.', 'self': False, 'pos': 'DET'}
+1024*{'date': 'April 19', 'text': 'Pope John XIX succeeds Pope Benedict VIII (his brother) as the 144th pope.', 'self': False, 'pos': 'NP'}
+1024*{'text': "The world's first paper-printed money, which later greatly benefits the economy of the Song Dynasty, originates in the Sichuan province of China.", 'self': False, 'pos': 'DET'}
+1024*{'text': 'Emperor Mahmud of Ghazni sacks the Hindu religious center of Somnath, slaughtering over 50,000 people and carrying off vast amounts of treasure.', 'self': False, 'pos': 'NP'}
+1027*{'date': 'March 26', 'text': 'Pope John XIX crowns Conrad II Holy Roman Emperor.', 'self': False, 'pos': 'NP'}
+1027*{'date': 'May 14', 'text': 'Henri I is crowned king of France at Reims Cathedral.', 'self': False, 'pos': 'NP'}
+1027*{'text': 'Aldred becomes abbot of Tavistock.', 'self': False, 'pos': 'NP'}
+1027*{'text': 'The Tibetan calendar begins.', 'self': False, 'pos': 'DET'}
+1027*{'text': 'Civil war begins in Japan.', 'self': False, 'pos': 'NP'}
+1027*{'text': 'Bagrat IV becomes king of Georgia.', 'self': False, 'pos': 'NP'}
+1026*{'text': 'Archbishop Ariberto crowns Conrad II King of Italy in Milan.', 'self': False, 'pos': 'NP'}
+1026*{'text': 'Pietro Barbolano becomes Doge of Venice.', 'self': False, 'pos': 'NP'}
+1026*{'text': 'Henry VI becomes king of Bavaria (later Henry III, Holy Roman Emperor).', 'self': False, 'pos': 'NP'}
+1026*{'text': 'The Battle of the Helgeå is fought in Scandinavia.', 'self': False, 'pos': 'DET'}
+1026*{'text': 'A Zubu revolt against the Liao Dynasty is suppressed, with the Zubu forced to pay an annual tribute.', 'self': False, 'pos': 'DET'}
+1021*{'text': 'The Moorish kingdom of Valencia becomes independent from the Ummayyad caliphate.', 'self': False, 'pos': 'DET'}
+1021*{'text': 'Mahmud appoints Ayaz to the throne, making Lahore the capital of the Ghaznavid Empire.', 'self': False, 'pos': 'NP'}
+1021*{'text': 'A Khitan princess is sent to marry into the Goryeo royal family, securing ties between the Koreans and the Liao Dynasty.', 'self': False, 'pos': 'DET'}
+1021*{'text': 'The Song Dynasty Chinese capital city of Kaifeng has some half a million residents by this year; including all those present in the nine designated suburbs, the population is over a million people.', 'self': False, 'pos': 'DET'}
+1021*{'text': 'The Chola Empire invades Bengal.', 'self': False, 'pos': 'DET'}
+1020*{'text': 'Goryeo and the Liao Dynasty exchange embassies following a seven-year territorial dispute.', 'self': False, 'pos': 'NP'}
+1020*{'text': 'The massive Kandariya Mahadeva Hindu Temple is completed in the Chandela capital of Khajuraho.', 'self': False, 'pos': 'DET'}
+1020*{'text': 'The city of Saint-Germain-en-Laye is founded.', 'self': False, 'pos': 'DET'}
+1020*{'text': 'Henry II of Germany conducts his third Italian military campaign .', 'self': False, 'pos': 'NP'}
+1020*{'text': 'Canute the Great codifies the laws of England.', 'self': False, 'pos': 'NP'}
+1023*{'text': 'The Judge-Governor of Seville takes advantage of the disintegration of the caliphate of Córdoba, and seizes power as Abbad I, thus founding the Abbadid dynasty.', 'self': False, 'pos': 'DET'}
+1023*{'text': 'Abd ar-Rahman V is proclaimed Caliph at Córdoba.', 'self': False, 'pos': 'NP'}
+1023*{'text': 'The Ghaznavid Empire occupies Transoxiana.', 'self': False, 'pos': 'DET'}
+1022*{'text': 'Upon the death of Olof Skötkonung, he is succeeded by his son Anund Jakob as king of Sweden.', 'self': False, 'pos': 'NP'}
+1022*{'text': 'The Song Dynasty Chinese military has one million registered soldiers, an increase since the turn of the 11th century when the Song military only had nine hundred thousand soldiers.', 'self': False, 'pos': 'DET'}
+1022*{'text': 'Aethelnoth, Archbishop of Canterbury, is received at Rome.', 'self': False, 'pos': 'NP'}
+1022*{'text': 'The Synod of Pavia issues decrees against non-celibate clergy and against simony.', 'self': False, 'pos': 'DET'}
+1022*{'text': 'Robert II the Pious burns some canons of St. Croix in Orléans, for holding that the world is inherently evil.', 'self': False, 'pos': 'NP'}
+1028*{'date': 'April 14', 'text': 'Henry III, son of Conrad II, is elected king of the Germans.', 'self': False, 'pos': 'NP'}
+1028*{'text': 'Cnut becomes King of Norway.', 'self': False, 'pos': 'NP'}
+1028*{'date': 'November 15', 'text': 'Romanus Argyrus becomes Eastern Roman Emperor as Romanus III.', 'self': False, 'pos': 'NP'}
+1100*{'text': 'The Ancient Pueblo Peoples culture rises (approximate date).', 'self': False, 'pos': 'DET'}
+1100*{'text': 'Oraibi becomes and remains the first and oldest populated settlement in the USA and what is now Arizona.', 'self': False, 'pos': 'NP'}
+1100*{'text': 'The city of Cusco, Peru is founded.', 'self': False, 'pos': 'DET'}
+1100*{'text': 'The Liao Dynasty crushes the Zubu and takes their khan prisoner.', 'self': False, 'pos': 'DET'}
+1100*{'text': "Song Dynasty China's population reaches roughly 100 million.", 'self': False, 'pos': 'NP'}
+1100*{'text': 'Emperor Huizong of Song starts to rule in China.', 'self': False, 'pos': 'NP'}
+1100*{'date': 'January', 'text': 'The Saljukid ruler Mahmud I is expelled from Bagdad by his brother, Barkiyaruq but Mahmud I manages to retake the city during his Spring offensive.', 'self': False, 'pos': 'DET'}
+1100*{'date': 'Mai or June', 'text': 'Raymond de Saint-Gilles sails to Byzantium to obtain the support of the emperor Alexios in his attempt to seize Tripoli.', 'self': False, 'pos': 'NP'}
+1100*{'date': 'August 1', 'text': "A Genoese fleets leaves Italy to support the Crusaders' effort to conquer the coastal cities, the ships reach Latakia on Septsember 25.", 'self': False, 'pos': 'DET'}
+1100*{'date': 'August', 'text': 'Bohemond I of Antioch is captured by the Danishmends at the Battle of Melitene, leaving Tancred as regent of the Principality of Antioch for two years.', 'self': False, 'pos': 'NP'}
+1100*{'text': 'Genoa, Venice and Pisa gain trading privileges from the Crusader states in return for their service during the conquest of the coastal cities.', 'self': False, 'pos': 'NP'}
+1100*{'date': 'December 25', 'text': 'Baldwin I becomes King of Jerusalem in replacement of his late brother Godefroy de Bouillon.', 'self': False, 'pos': 'NP'}
+1100*{'date': 'September 16', 'text': "The Almoravid army defeats the Castellan troops at the battle of Malagón (near today's Ciudad Real).", 'self': False, 'pos': 'DET'}
+1100*{'date': 'October 18', 'text': 'Peter I of Aragon conquers Barbastro (North) from the hands of the Almoravids.', 'self': False, 'pos': 'NP'}
+1100*{'date': 'December 25', 'text': 'Philip I of France associate his son to the government of the realm.', 'self': False, 'pos': 'NP'}
+1100*{'text': 'Philip I of France conquers the Vexin area and adds the city of Bourges and the province of Berry to his estate.', 'self': False, 'pos': 'NP'}
+1100*{'text': 'Dagobert of Pisa becomes Latin Patriarch of Jerusalem.', 'self': False, 'pos': 'NP'}
+1100*{'text': 'Frederick I of Schwarzburg becomes archbishop of Cologne and begins the construction of the castle of Volmarstein.', 'self': False, 'pos': 'NP'}
+1050*{'text': 'Leofric becomes Bishop of Exeter.', 'self': False, 'pos': 'NP'}
+1050*{'text': 'Hedeby is sacked by King Harald Hardråde of Norway during the course of a conflict with Sweyn II of Denmark.', 'self': False, 'pos': 'NP'}
+1050*{'text': 'Upon the death of Anund Jacob, he is succeeded by his brother Emund the Old as king of Sweden.', 'self': False, 'pos': 'NP'}
+1050*{'text': 'The brewery of Weltenburg Abbey is first mentioned, thus making it one of the oldest still operating breweries in the world.', 'self': False, 'pos': 'DET'}
+1051*{'text': 'Godwin, Earl of Wessex, is exiled from England by King Edward the Confessor for refusing to take action against the townspeople of Dover.', 'self': False, 'pos': 'NP'}
+1051*{'date': 'May 19', 'text': 'Henry I of France marries Anne of Kiev at the cathedral of Reims.', 'self': False, 'pos': 'NP'}
+1051*{'text': 'William of Normandy fights for his life and crown in Normandy.', 'self': False, 'pos': 'NP'}
+1052*{'text': 'Defeat of the Zirid dynasty against the Hilalian invaders at the battle of the jabal Haydaran.', 'self': False, 'pos': 'NP'}
+1052*{'text': 'Godwin, Earl of Wessex returns to England from exile.', 'self': False, 'pos': 'NP'}
+1052*{'text': 'The Seljuk Turks conquer Isfahan, Persia.', 'self': False, 'pos': 'DET'}
+1053*{'text': 'Jōchō makes Amida Buddha, Byodo-in.', 'self': False, 'pos': 'NP'}
+1054*{'date': 'July 4', 'text': 'The SN 1054 supernova is recorded by the Chinese, Arab and possibly Native Americans near the star ζ Tauri.', 'self': True, 'pos': 'DET'}
+1054*{'date': 'July 16', 'text': "Cardinal Humbertus, a representative of Pope Leo IX, and Michael Cerularius, Patriarch of Constantinople, decree each other's excommunication.", 'self': False, 'pos': 'NP'}
+1054*{'date': 'July 27', 'text': "Siward, Earl of Northumbria invades Scotland to support Malcolm Canmore against Macbeth, who usurped the Scottish throne from Malcolm's father, King Duncan.", 'self': False, 'pos': 'NP'}
+1054*{'text': "Lý Nhật Tôn, third king of the Lý Dynasty, begins to rule in Vietnam and changes the country's official name to Đại Việt.", 'self': False, 'pos': 'NP'}
+1055*{'text': 'The Almoravids conquer Aoudaghost (present-day Mauritania).', 'self': False, 'pos': 'DET'}
+1055*{'date': 'December 18', 'text': 'The Seljuk Turks capture Baghdad; Al-Malik al-Rahim is taken prisoner.', 'self': False, 'pos': 'DET'}
+1055*{'date': 'January 11', 'text': 'Theodora becomes reigning empress of the Byzantine Empire.', 'self': False, 'pos': 'NP'}
+1055*{'date': 'October 24', 'text': 'Ralph the Timid is defeated by the Welsh.', 'self': False, 'pos': 'NP'}
+1055*{'date': 'April 13', 'text': 'Pope Victor II succeeds Pope Leo IX as the 153rd pope.', 'self': False, 'pos': 'NP'}
+1055*{'text': 'An abbey was set up at Tihany, Hungary by András (Andrew) I.', 'self': False, 'pos': 'DET'}
+1056*{'text': 'Anselm leaves Italy.', 'self': False, 'pos': 'NP'}
+1056*{'text': 'Henry IV, Holy Roman Emperor, becomes King of Germany.', 'self': False, 'pos': 'NP'}
+1056*{'text': 'Ottokar, Count of Steyr, becomes Margrave of the Karantanian March, later known as Styria.', 'self': False, 'pos': 'NP'}
+1056*{'text': 'The Pagoda of Fugong Temple of Shanxi in northern China is built during the Liao Dynasty.', 'self': False, 'pos': 'DET'}
+1056*{'text': 'The Muslims expel 300 Christians from Jerusalem, and European Christians are forbidden to enter the Church of the Holy Sepulcher.', 'self': False, 'pos': 'DET'}
+1057*{'text': 'The Banu Hilal take Kairouan.', 'self': False, 'pos': 'DET'}
+1057*{'text': 'William the Conqueror defeats a Franco-Angevin army at the mouth of the Dives River, Normandy.', 'self': False, 'pos': 'NP'}
+1057*{'text': 'Ferdinand I of Castile takes Lamego and Viseu from Christian lords allied to the Muslim taifas.', 'self': False, 'pos': 'NP'}
+1057*{'date': 'August 2', 'text': 'Pope Stephen IX (sometimes referred to as Stephen X) succeeds Pope Victor II as the 154th pope.', 'self': False, 'pos': 'NP'}
+1058*{'text': 'Antipope Benedict X is crowned pope, but later deposed.', 'self': False, 'pos': 'NP'}
+1058*{'text': 'Pope Nicholas II is elected pope in December and installed in the following year.', 'self': False, 'pos': 'NP'}
+1058*{'text': 'The Battle of Varaville is fought.', 'self': False, 'pos': 'DET'}
+1058*{'text': 'Boleslaus II takes office as duke of Poland.', 'self': False, 'pos': 'NP'}
+1058*{'text': 'Aldred becomes the first English bishop to make a pilgrimage to Jerusalem.', 'self': False, 'pos': 'NP'}
+1058*{'text': 'The Almoravids conquer the Berghouata.', 'self': False, 'pos': 'DET'}
+1059*{'date': 'January 24', 'text': 'Pope Nicholas II succeeds Pope Stephen IX as the 155th Pope, installed in opposition to Antipope Benedict X.', 'self': False, 'pos': 'NP'}
+1059*{'date': 'August', 'text': 'Robert Guiscard signs the Treaty of Melfi with Pope Nicholas II.', 'self': False, 'pos': 'NP'}
+1059*{'text': 'Anselm settles at the Benedictine monastery of Le Bec in Normandy.', 'self': False, 'pos': 'NP'}
+1059*{'text': 'The Lateran Council makes the College of Cardinals the sole voters in the election of popes.', 'self': False, 'pos': 'DET'}
+1059*{'text': "Muhammed ben Da'ud, known as Alp Arslan, becomes second sultan of the Seljuk Turks.", 'self': False, 'pos': 'NP'}
+1059*{'text': 'Peter Krešimir IV is crowned King of Croatia and Dalmatia.', 'self': False, 'pos': 'NP'}
+1059*{'text': 'Isaac I Comnenus resigns as Byzantine Emperor, appointing Constantine Ducas as his successor.', 'self': False, 'pos': 'NP'}
+1043*{'date': 'October 31', 'text': 'Venus occults Jupiter.', 'self': False, 'pos': 'NP'}
+1043*{'text': 'Edward the Confessor is crowned King of England at Winchester Cathedral.', 'self': False, 'pos': 'NP'}
+1043*{'text': 'Henry III, Holy Roman Emperor marries Agnes de Poitou.', 'self': False, 'pos': 'NP'}
+1043*{'text': 'The revolt of George Maniaces against Byzantine Emperor Constantine IX ends when Maniaces is killed in battle near Thessalonica.', 'self': False, 'pos': 'DET'}
+1043*{'text': 'The Ziyarid dynasty of Persia is crushed by the Seljuks.', 'self': False, 'pos': 'DET'}
+1043*{'text': 'The Norman brothers, William Iron Arm and Drogo de Hauteville, assume power in Apulia.', 'self': False, 'pos': 'DET'}
+1043*{'text': 'The first king of the Kingdom of Nri, Eze Nri Ìfikuánim is installed in West Africa.', 'self': False, 'pos': 'DET'}
+1042*{'date': 'April 18 or April 19', 'text': 'Emperor Michael V of the Byzantine Empire attempts to remain sole Emperor by sending his adoptive mother and co-ruler Zoe of Byzantium to a monastery.', 'self': False, 'pos': 'NP'}
+1042*{'date': 'April 19', 'text': 'Michael V of the Byzantine Empire is deposed by popular revolt.', 'self': False, 'pos': 'NP'}
+1042*{'date': 'June 8', 'text': 'Edward the Confessor becomes King of England.', 'self': False, 'pos': 'NP'}
+1042*{'text': 'George Maniaces, Byzantine general in Sicily, revolts against Constantine IX.', 'self': False, 'pos': 'NP'}
+1042*{'text': "Harald III of Norway, at this time leader of the Varangian Guard in the Byzantine Empire, returns to Norway, possibly because of his involvement in Maniaces' revolt.", 'self': False, 'pos': 'NP'}
+1042*{'text': 'Magnus I of Norway becomes King of Denmark.', 'self': False, 'pos': 'NP'}
+1042*{'text': 'The Normans in Italy move their capital to Melfi.', 'self': False, 'pos': 'DET'}
+1042*{'text': 'Abad II succeeds his father to the throne of Sevilla.', 'self': False, 'pos': 'NP'}
+1042*{'text': 'The Almoravids, led by Abdullah Ibn Yasin, invade Morocco.', 'self': False, 'pos': 'DET'}
+1041*{'text': "The Zirid dynasty rejects the Shi'ite obedience and the Fatimid domination and recognizes the Abbasids as their overlords.", 'self': False, 'pos': 'DET'}
+1041*{'text': 'Worcester rebels against the naval taxes of Harthacanute.', 'self': False, 'pos': 'NP'}
+1041*{'text': 'Edward the Confessor returns from exile to become the heir of Harthacanute.', 'self': False, 'pos': 'NP'}
+1041*{'text': 'The number of enlisted soldiers in the Song Dynasty Chinese military reaches well over 1,250,000 troops, an increase since 1022 when there were a million soldiers.', 'self': False, 'pos': 'DET'}
+1040*{'date': 'June 17', 'text': 'Harthacanute lands at Sandwich and reclaims the English Throne.', 'self': False, 'pos': 'NP'}
+1040*{'text': 'The oldest brewery still active is founded at Weihenstephan.', 'self': False, 'pos': 'DET'}
+1040*{'text': 'The Shalu Monastery is founded in Tibet.', 'self': False, 'pos': 'DET'}
+1047*{'text': 'Harald III becomes sole king of Norway.', 'self': False, 'pos': 'NP'}
+1047*{'text': 'Sweyn II is crowned king of Denmark.', 'self': False, 'pos': 'NP'}
+1047*{'text': 'Pope Clement II is succeeded by Pope Benedict IX as the 150th pope.', 'self': False, 'pos': 'NP'}
+1047*{'text': 'Revolt of Leo Tornikios in the Byzantine Empire.', 'self': False, 'pos': 'NP'}
+1046*{'date': 'March 5', 'text': 'Naser Khosrow begins the seven-year Middle Eastern journey which he later describes in his book Safarnameh.', 'self': False, 'pos': 'NP'}
+1046*{'date': 'December 20', 'text': 'Pope Gregory VI is accused of simony at the Council of Sutri, and abdicates as pope.', 'self': False, 'pos': 'NP'}
+1046*{'date': 'December 25', 'text': 'Pope Clement II succeeds Pope Gregory VI as the 149th pope.', 'self': False, 'pos': 'NP'}
+1046*{'text': 'The first contact occurs between the Byzantine Empire and the Seljuks.', 'self': False, 'pos': 'DET'}
+1046*{'text': 'Henry III is crowned Holy Roman Emperor by Pope Clement II.', 'self': False, 'pos': 'NP'}
+1046*{'text': 'Song Dynasty Chinese judge and magistrate Bao Qingtian writes a memorial to the throne, warning about governmental corruption and a foreseeable bankruptcy of the Chinese iron industry, if increasingly poorer families continued to be listed on the register for iron-smelting households (while more rich households avoid being listed for fear of financial calamity).', 'self': False, 'pos': 'NP'}
+1045*{'text': 'Emperor Go-Reizei ascends the throne of Japan.', 'self': False, 'pos': 'NP'}
+1045*{'text': 'Edward the Confessor marries Edith of Wessex and begins construction of Westminster Abbey.', 'self': False, 'pos': 'NP'}
+1045*{'date': 'January 20', 'text': 'Pope Sylvester III becomes the 146th pope, succeeding former pope Benedict IX, who abdicated the previous year.', 'self': False, 'pos': 'NP'}
+1045*{'date': 'April', 'text': 'Pope Sylvester III is deposed (election deemed invalid); Pope Benedict IX is elected once more, becoming the 147th pope.', 'self': False, 'pos': 'NP'}
+1045*{'date': 'May 5', 'text': 'Pope Gregory VI becomes the 148th pope, following the deposition of Pope Benedict IX.', 'self': False, 'pos': 'NP'}
+1045*{'text': 'The Lingxiao Pagoda of China is built during the Song Dynasty.', 'self': False, 'pos': 'DET'}
+1045*{'text': 'The Qingli Reforms, put forth by the Chinese statesmen Ouyang Xiu and Fan Zhongyan in 1043, are halted by their conservative ministerial peers, but would later influence reform efforts under Wang Anshi.', 'self': False, 'pos': 'DET'}
+1044*{'text': 'Benedict IX abdicates as pope.', 'self': False, 'pos': 'NP'}
+1044*{'text': 'The Chinese military treatise of the Wujing Zongyao is written and compiled by scholars Zeng Gongliang (曾公亮), Ding Du (丁度), and Yang Weide (楊惟德) during the Song Dynasty.', 'self': False, 'pos': 'DET'}
+1049*{'text': 'A truce is declared between the Byzantine Empire and the Seljuk Turks.', 'self': False, 'pos': 'DET'}
+1049*{'text': 'The Pisans successfully complete the conquest of Sardegna upon the Andalusian occupiers.', 'self': False, 'pos': 'DET'}
+1049*{'date': 'February 12', 'text': 'Pope Leo IX succeeds Pope Damasus II as the 152nd pope.', 'self': False, 'pos': 'NP'}
+1048*{'text': 'The city of Oslo is founded by Harald Hardråde of Norway.', 'self': False, 'pos': 'DET'}
+1048*{'text': 'Failed Byzantine attempt to reconquer Malta.', 'self': False, 'pos': 'NP'}
+1048*{'date': 'July 16', 'text': 'Pope Benedict IX is driven from Rome, ending his third and final pontificate.', 'self': False, 'pos': 'NP'}
+1048*{'date': 'July 17', 'text': 'Pope Damasus II succeeds Pope Benedict IX as the 151st pope.', 'self': False, 'pos': 'NP'}

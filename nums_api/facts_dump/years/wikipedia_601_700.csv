@@ -1,0 +1,363 @@
+668*{'text': 'Childeric II succeeds Clotaire III as King of the Franks.', 'self': False, 'pos': 'NP'}
+668*{'text': 'Kotrag leads Khazars in overthrowing his brother Batbayan who moves south into caucasus with his Balkars, Asparukh moves into Moesia, while the remaining two sons of Kubrat move into Pannonian and ultimately also Keramissian plains.', 'self': False, 'pos': 'NP'}
+668*{'date': 'September 15', 'text': 'Eastern Roman Emperor Constans II is assassinated in his bath at Syracuse, Italy.', 'self': False, 'pos': 'NP'}
+668*{'text': 'Mezezius is proclaimed Emperor by the army in Syracuse in the absence of the sons of Constans II.', 'self': False, 'pos': 'NP'}
+668*{'text': 'Constantine IV, son of Constans II, becomes Byzantine Emperor, succeeding Constans II.', 'self': False, 'pos': 'NP'}
+668*{'text': 'Arab forces conquer the Garamantes.', 'self': False, 'pos': 'NP'}
+668*{'text': 'The ancient Korean kingdom of Goguryeo, in southern Manchuria and northern Korea, is overthrown by the alliance of Tang China and Silla.', 'self': False, 'pos': 'DET'}
+668*{'text': 'The Emperor of Japan hunts on the Moor of Ōmi-Gamōno.', 'self': False, 'pos': 'DET'}
+668*{'text': 'Theodore of Tarsus is made archbishop of Canterbury.', 'self': False, 'pos': 'NP'}
+667*{'text': 'The city of Oderzo is destroyed by the Lombards.', 'self': False, 'pos': 'DET'}
+667*{'text': 'The Daysan River floods Edessa in Asia.', 'self': False, 'pos': 'DET'}
+666*{'text': 'Chertsey Abbey is founded.', 'self': False, 'pos': 'NP'}
+666*{'text': 'Wilfrid returns from France newly consecrated as Bishop of York.', 'self': False, 'pos': 'NP'}
+665*{'text': 'Swithelm is succeeded by Sighere and Sebbi as kings of Essex.', 'self': False, 'pos': 'NP'}
+665*{'text': 'Batbayan succeeds Kubrat in Onoguria.', 'self': False, 'pos': 'NP'}
+665*{'text': 'The city of Seongnam is renamed Hansanju.', 'self': False, 'pos': 'DET'}
+664*{'text': 'Arab armies conquer Kabul.', 'self': False, 'pos': 'NP'}
+664*{'text': 'Kuo Wu Tsung of Tang comes to Japan and spends 7 months there.', 'self': False, 'pos': 'NP'}
+664*{'date': 'September', 'text': 'The Synod of Whitby is held in Northumbria.', 'self': False, 'pos': 'DET'}
+663*{'text': 'Byzantine Emperor Constans II invades south Italy.', 'self': False, 'pos': 'NP'}
+663*{'text': 'A brief outbreak of plague hits Britain.', 'self': False, 'pos': 'DET'}
+663*{'text': 'An anonymous monk reaches the summit of mount Fuji.', 'self': False, 'pos': 'DET'}
+662*{'text': 'The regent Grimuald usurps the kingship of the Lombards, driving Perctarit into exile and killing Godepert.', 'self': False, 'pos': 'DET'}
+662*{'text': 'The Emperor of Japan orders Abe no Hirafu to escort Buyeo Pung to Baekje, where he is made to take up the succession to the dignity.', 'self': False, 'pos': 'DET'}
+661*{'text': 'The Imperial fleet of Japan invades Kyūshū by the order of Empress Saimei.', 'self': False, 'pos': 'DET'}
+661*{'text': "Emperor Tenji ascends to the throne of Japan after Empress Saimei's death.", 'self': False, 'pos': 'NP'}
+661*{'text': 'Caliph Ali ibn Abi Talib is assassinated; with his assassination the Rashidun Caliphate ends and Muawiyah I founds the Umayyad caliphate.', 'self': False, 'pos': 'NP'}
+660*{'text': 'Slavic principality of Carantania is first mentioned in historical sources.', 'self': False, 'pos': 'NP'}
+660*{'text': 'Childeric II is proclaimed king of Austrasia.', 'self': False, 'pos': 'NP'}
+660*{'text': 'Swithelm succeeds Sigeberht II as king of Essex.', 'self': False, 'pos': 'NP'}
+660*{'text': 'Felix assumes the titles of Duke of Vasconia and Aquitaine.', 'self': False, 'pos': 'NP'}
+660*{'text': 'Baekje in southwestern Korea is overthrown by the alliance of the Tang and Silla, led by General Su Dingfang, General Kim Yu-shin and Kim Beopmin.', 'self': False, 'pos': 'NP'}
+660*{'text': 'Emperor Gaozong of Tang suffers a stroke; his wife Wu Zetian starts to rule.', 'self': False, 'pos': 'NP'}
+660*{'text': 'Naka no Ōe no Ōji of Japan for the first time makes a clepsydra at Asuka, by which he causes the people to know the hours.', 'self': False, 'pos': 'NP'}
+692*{'text': 'The Quinisext Council, held in Constantinople, lays the foundation for Orthodox Canon Law.', 'self': False, 'pos': 'DET'}
+690*{'text': "The approximate date of the earliest known blindfold chess, played by Sa'id bin Jubair.", 'self': False, 'pos': 'DET'}
+691*{'text': 'Theuderic III is succeeded by Clovis IV as king of Austrasia.', 'self': False, 'pos': 'NP'}
+691*{'text': 'Wilfrid, Bishop of Northumbria, is expelled to Mercia.', 'self': False, 'pos': 'NP'}
+691*{'text': 'The building of the Dome of the Rock is completed in Jerusalem.', 'self': False, 'pos': 'DET'}
+697*{'text': 'Emperor Mommu succeeds Empress Jitō on the throne of Japan.', 'self': False, 'pos': 'NP'}
+697*{'text': 'Paolo Lucio Anafesto is elected the first Doge of Venice.', 'self': False, 'pos': 'NP'}
+697*{'text': 'Approximate date of the Council of Birr, where the northern part of Ireland accepts the Roman calculations for celebrating Easter.', 'self': False, 'pos': 'NP'}
+697*{'text': 'A festival for the opening of the eyes of Buddhist images is held in Yakushiji Temple in Japan.', 'self': False, 'pos': 'DET'}
+694*{'text': 'The Maronites defeat Justinian II.', 'self': False, 'pos': 'DET'}
+694*{'text': 'Ine of Wessex makes peace with Kent.', 'self': False, 'pos': 'NP'}
+694*{'text': "Japan's capital is moved from Asuka to Fujiwara-kyō.", 'self': False, 'pos': 'NP'}
+695*{'text': 'The people of Byzantium revolt against Justinian II.', 'self': False, 'pos': 'DET'}
+695*{'text': 'Childebert III succeeds Clovis IV as king of the Franks.', 'self': False, 'pos': 'NP'}
+695*{'text': 'Sigeheard and Swafred succeed Sebbi as kings of Essex.', 'self': False, 'pos': 'NP'}
+695*{'text': 'Willibrordus is appointed archbishop of the Frisians.', 'self': False, 'pos': 'NP'}
+698*{'date': 'Autumn–winter', 'text': 'The Byzantine general Heraclius, brother of Tiberius III, launches a campaign into Syria, defeats an army from Antioch and raids as far as Samosata.', 'self': False, 'pos': 'DET'}
+698*{'text': 'Dae Jo-young establishes the Balhae Kingdom.', 'self': False, 'pos': 'NP'}
+698*{'text': 'Khun Lo, a Thai prince, conquers Muang Sua, an early Laotian kingdom.', 'self': False, 'pos': 'NP'}
+698*{'text': 'The festival of first-fruits (daijosai) is held in Japan.', 'self': False, 'pos': 'DET'}
+698*{'text': 'Kapagan of Göktürks conquers part of Transoxiana.', 'self': False, 'pos': 'NP'}
+699*{'text': 'Umayyad troops invade Armenia and secure submission of Smbat VI Bagratuni.', 'self': False, 'pos': 'NP'}
+678*{'text': 'The first Arab siege of Constantinople (674–678) ends.', 'self': True, 'pos': 'DET'}
+678*{'date': 'June 27', 'text': 'Pope Agatho succeeds Pope Donus as the 79th pope.', 'self': False, 'pos': 'NP'}
+679*{'text': 'Adamnan becomes abbot of the monastery on Iona.', 'self': False, 'pos': 'NP'}
+674*{'text': 'Dagobert II and Theuderic I succeed Childeric II as king(s) of the Franks.', 'self': False, 'pos': 'NP'}
+674*{'text': 'The first glass windows are placed in English churches.', 'self': False, 'pos': 'DET'}
+674*{'text': 'Cenfus and then Aescwine succeed to the throne of Wessex.', 'self': False, 'pos': 'NP'}
+674*{'text': 'Monkwearmouth monastery founded by Benedict Biscop in the Kingdom of Northumbria.', 'self': False, 'pos': 'NP'}
+674*{'text': 'The first Arab siege of Constantinople begins.', 'self': False, 'pos': 'DET'}
+675*{'text': 'Frithuwold of Surrey is baptised and so is his son; Surrey becomes Christian.', 'self': False, 'pos': 'NP'}
+675*{'text': 'The twenty-five-year-old Wang Bo (王勃) writes Tengwang Ge Xu to celebrate the Tengwang Pavilion.', 'self': False, 'pos': 'DET'}
+675*{'date': 'March 16', 'text': "Emperor Temmu, Japan's current emperor, decrees the end of serfdom.", 'self': False, 'pos': 'NP'}
+675*{'date': 'May 8', 'text': 'The Japanese Emperor issues a decree to distribute the tax-rice for peasants in poverty, as well as a decree regulating of fishing and hunting, ordering a halt to eating the flesh of cattle, horses, dogs, monkeys or barn-yard fowls.', 'self': False, 'pos': 'DET'}
+675*{'text': 'Some Japanese ministers who oppose the Emperor are banished to an isolated island.', 'self': False, 'pos': 'DET'}
+675*{'date': 'September 16', 'text': 'A typhoon strikes Japan.', 'self': False, 'pos': 'DET'}
+675*{'text': 'The abbeys of Abingdon, England and Bath are founded.', 'self': False, 'pos': 'DET'}
+675*{'text': 'Aldhelm is made abbot of Malmesbury Abbey.', 'self': False, 'pos': 'NP'}
+676*{'date': 'November 2', 'text': 'Pope Donus succeeds Pope Adeodatus as the 78th pope.', 'self': False, 'pos': 'NP'}
+676*{'text': 'Cuthbert of Lindisfarne withdraws to a hermitage.', 'self': False, 'pos': 'NP'}
+677*{'text': 'Tang China declares the deposed Bojang of Goguryeo "King of Joseon," placing him in charge of the Liaodong area under the Protectorate General to Pacify the East.', 'self': False, 'pos': 'NP'}
+670*{'text': 'The city of Kairouan is founded in what is now Tunisia.', 'self': False, 'pos': 'DET'}
+670*{'text': 'The Kingdom of Khotan is conquered by Tibet.', 'self': False, 'pos': 'DET'}
+670*{'text': 'A Goguryeo restoration movement, led by Geom Mojam in northern Korea, places Anseung on the throne.', 'self': False, 'pos': 'DET'}
+670*{'text': 'A family register, Kogo-nenjaku, is prepared in Japan.', 'self': False, 'pos': 'DET'}
+670*{'text': 'Hōryū-ji, the Buddhist temple in Japan, burns down; its reconstruction is immediately begun.', 'self': False, 'pos': 'NP'}
+670*{'text': 'The diocese of Dorchester-on-Thames in England is replaced by the Diocese of Winchester.', 'self': False, 'pos': 'DET'}
+671*{'text': 'The Anglo-Saxon Chronicle reports "This year happened that great destruction among the fowls.', 'self': False, 'pos': 'DET'}
+671*{'date': 'June 10', 'text': 'A clepsydra is placed in the capital of Japan.', 'self': False, 'pos': 'DET'}
+671*{'text': 'Silla seizes control of the former Baekje capital of Sabi from the Tang Protectorate General to Pacify the East.', 'self': False, 'pos': 'NP'}
+672*{'text': 'Wamba succeeds Reccaswinth as king of the Visigoths.', 'self': False, 'pos': 'NP'}
+672*{'text': 'Emperor Kōbun reigns briefly as emperor of Japan, followed by his uncle Emperor Temmu who overthrew his nephew in a brief but violent battle called The Jinshin War.', 'self': False, 'pos': 'NP'}
+672*{'date': 'April 11', 'text': 'Pope Adeodatus II succeeds Pope Vitalian as the 77th pope.', 'self': False, 'pos': 'NP'}
+673*{'text': 'The city of Ely, England is founded.', 'self': False, 'pos': 'DET'}
+673*{'date': 'March 20', 'text': 'Emperor Temmu assumes the Chrysanthemum throne of Japan at the Palace of Kiyomihara in Asuka.', 'self': False, 'pos': 'NP'}
+700*{'text': 'The Mount Edziza volcanic complex erupts in northern British Columbia, Canada.', 'self': False, 'pos': 'DET'}
+700*{'text': 'Diquis culture starts in Central America (approximate date).', 'self': False, 'pos': 'NP'}
+700*{'text': 'The Beverley Grammar School is founded by St. John of Beverley (approximate date).', 'self': False, 'pos': 'DET'}
+700*{'text': 'Musa bin Nusair defeats the Berber army in Algeria, ending resistance against the Arabs there.', 'self': False, 'pos': 'NP'}
+700*{'text': 'Mohammad ibn Alashath revolts against Abdul Malik ibn Marwan in the Sistan and Balochistan regions.', 'self': False, 'pos': 'NP'}
+700*{'text': 'The Umayyad prince Abdallah ibn Abd al-Malik captures the Byzantine stronghold of Theodosiopolis.', 'self': False, 'pos': 'DET'}
+700*{'text': 'Amida Buddha, fresco in the kon-dō, Horyu-ji, is made.', 'self': False, 'pos': 'NP'}
+700*{'text': 'Saint Adamnan convinces 51 kings to adopt the Cáin Adomnáin, which defines the relationship between women and priests.', 'self': False, 'pos': 'NP'}
+641*{'text': 'Chindaswinth deposes Tulga, and becomes king of the Visigoths.', 'self': False, 'pos': 'NP'}
+641*{'date': 'February 11', 'text': 'Byzantine Emperor Heraclius dies.', 'self': False, 'pos': 'NP'}
+641*{'date': 'November 8', 'text': 'Alexandria is formally surrendered to Amr ibn al-As by a treaty.', 'self': False, 'pos': 'NP'}
+641*{'text': 'Caesarea surrenders to the Arabs.', 'self': False, 'pos': 'NP'}
+641*{'text': 'The city of Fostat (later Cairo) is founded in Egypt.', 'self': False, 'pos': 'DET'}
+640*{'text': 'Tulga succeeds his father Suinthila as king of the Visigoths.', 'self': False, 'pos': 'NP'}
+640*{'text': 'The French city of Lille is founded by Lyderic.', 'self': False, 'pos': 'DET'}
+640*{'date': 'July', 'text': 'The Battle of Heliopolis is fought between Arab Muslim armies and the Byzantine Empire.', 'self': False, 'pos': 'DET'}
+640*{'text': "Emperor Taizong's campaign against Xiyu states, or the Western Regions in the Tarim Basin, commences in this year, as the Tang Dynasty Chinese commander Hou Junji captures Gaochang to solidify Chinese rule in Central Asia.", 'self': False, 'pos': 'NP'}
+640*{'date': 'May 28', 'text': 'Pope Severinus succeeds Pope Honorius I as the 71st pope.', 'self': False, 'pos': 'NP'}
+640*{'date': 'December 24', 'text': 'Pope John IV succeeds Pope Severinus as the 72nd pope.', 'self': False, 'pos': 'NP'}
+643*{'text': 'Rothari, King of the Lombards, issues the Lombard law code.', 'self': False, 'pos': 'NP'}
+643*{'text': 'Arab armies win their first North African victory in Tripoli.', 'self': False, 'pos': 'NP'}
+643*{'text': 'Pirooz, the son of the last Sassanid king of Persia, flees to Tang Dynasty China.', 'self': False, 'pos': 'NP'}
+643*{'text': 'A Chinese Tang ambassador is sent to the North Indian Empire.', 'self': False, 'pos': 'DET'}
+642*{'text': 'Batbayan succeeds Kubrat as ruler of the Bulgars (approximate date).', 'self': False, 'pos': 'NP'}
+642*{'text': 'Yeon Gaesomun seizes power over the Goguryeo kingdom and places King Bojang on the throne.', 'self': False, 'pos': 'NP'}
+642*{'text': 'Emperor Taizong of Tang issues a decree throughout China that increases the punishment for men who deliberately inflict injuries upon themselves (most commonly breaking their own legs) in order to avoid military conscription.', 'self': False, 'pos': 'NP'}
+642*{'text': 'The earliest surviving dated Arabic papyrus, PERF 558, and the earliest known Arabic text with diacritical marks is written.', 'self': False, 'pos': 'DET'}
+642*{'date': 'November 24', 'text': 'Pope Theodore I succeeds Pope John IV as the 73rd pope.', 'self': False, 'pos': 'NP'}
+642*{'text': 'A monastic settlement is founded in Hampshire, England, which later becomes Winchester Cathedral.', 'self': False, 'pos': 'DET'}
+645*{'text': 'The Byzantines recapture Alexandria from the Arabs.', 'self': False, 'pos': 'DET'}
+645*{'text': 'The reign of Empress Kogyoku of Ancient Japan ends.', 'self': False, 'pos': 'DET'}
+645*{'text': 'Furubito no Ōe no Ōji plots rebellion, and is killed by Naka no Ōe no Ōji in Yoshino.', 'self': False, 'pos': 'NP'}
+645*{'text': 'Goguryeo general Yang Man-chun resists the Emperor Taizong of Tang.', 'self': False, 'pos': 'NP'}
+645*{'text': "Great Wild Goose Pagoda at Ci'en Temple, Xi'an, Shanxi, is first erected.", 'self': False, 'pos': 'NP'}
+644*{'text': 'The Tang dynasty of China begins the invasion of Goguryo.', 'self': False, 'pos': 'DET'}
+644*{'text': 'Uthman Ibn Affan succeeds Umar as caliph.', 'self': False, 'pos': 'NP'}
+647*{'text': 'A stone tower astronomical observatory named Cheomseongdae is constructed in Silla (southern Korea) around this time.', 'self': False, 'pos': 'DET'}
+647*{'text': 'The first Muslim invasion of North Africa led by Uthman ibn Affan of the Rashidun Caliphate.', 'self': False, 'pos': 'DET'}
+646*{'text': 'Alexandria is recaptured by the Arabs after a Byzantine attempt to retake Egypt fails, ending nearly 1,000 year of Greaco-Roman civilization in Egypt.', 'self': False, 'pos': 'NP'}
+646*{'text': "The Xueyantuo state is destroyed by the Chinese Tang Dynasty, ending Emperor Taizong's campaign against Xueyantuo.", 'self': False, 'pos': 'DET'}
+646*{'text': 'An edict of the Taika Reforms is promulgated in Japan.', 'self': False, 'pos': 'DET'}
+646*{'text': 'Emperor Kōtoku makes a decree about the policies of building tombs.', 'self': False, 'pos': 'NP'}
+649*{'text': 'Reccaswinth succeeds his father Chindaswinth as king of the Visigoths.', 'self': False, 'pos': 'NP'}
+649*{'text': 'Soga no Kurayamada no Ishikawa Maro is killed by Naka no Ōe no Ōji.', 'self': False, 'pos': 'NP'}
+649*{'date': 'July 5', 'text': 'Pope Martin I succeeds Pope Theodore I as the 74th pope.', 'self': False, 'pos': 'NP'}
+649*{'text': 'The Lateran Council of 649, convoked by Pope Martin I, strongly condemns Monothelitism.', 'self': True, 'pos': 'DET'}
+648*{'text': 'Pope Theodore I excommunicates patriarch Paul II of Constantinople.', 'self': False, 'pos': 'NP'}
+648*{'text': 'The Book of Jin is compiled in China during the Tang Dynasty.', 'self': False, 'pos': 'DET'}
+623*{'text': 'Clotaire II, king of the Franks, makes his son Dagobert I king of Austrasia.', 'self': False, 'pos': 'NP'}
+623*{'text': 'Samo, reputedly a Frankish merchant, is elected King of the Slavs in Moravia, Slovakia and Lower Austria.', 'self': False, 'pos': 'NP'}
+623*{'text': 'Tori Busshi makes "Shaka Triad", in the kon-dō, Horyu-ji.', 'self': False, 'pos': 'NP'}
+622*{'date': 'June 4', 'text': "Wang Shichong surrenders to Li Shimin following Dou Jiande's defeat.", 'self': False, 'pos': 'NP'}
+622*{'text': 'Xuanzang is fully ordained as a monk at the age of 20.', 'self': False, 'pos': 'NP'}
+621*{'date': 'June 4', 'text': "Wang Shichong surrenders to Li Shimin following Dou Jiande's defeat.", 'self': False, 'pos': 'NP'}
+621*{'text': "Muhammad is said to have visited heaven aboard the steed/unicorn with wings or Buraq, in the Isra wal-Miraj, (the Night Journey), from Mecca and then to heaven from Jerusalem's Temple Mount, then back to Mecca.", 'self': False, 'pos': 'NP'}
+620*{'text': 'The Slavs attack Thessaloniki.', 'self': False, 'pos': 'DET'}
+620*{'text': 'Pulakesi II defeats the Harsha army on the Banks of the River Narmada.', 'self': False, 'pos': 'NP'}
+620*{'text': 'Medina is converted to Islam.', 'self': False, 'pos': 'NP'}
+627*{'date': 'April 11', 'text': 'Paulinus, a Roman missionary, baptizes King Edwin of Deira.', 'self': False, 'pos': 'NP'}
+627*{'text': "St Peter's School, York, founded by Paulinus.", 'self': False, 'pos': 'NP'}
+626*{'date': 'August 7', 'text': 'The Byzantines defeat the Avars and Slavs, who were besieging Constantinople for the first time.', 'self': False, 'pos': 'DET'}
+626*{'text': 'Arioald succeeds his brother-in-law Adaloald as king of the Lombards (approximate date).', 'self': False, 'pos': 'NP'}
+626*{'text': 'Edinburgh is founded by King Edwin of Northumbria.', 'self': False, 'pos': 'NP'}
+626*{'text': 'Penda becomes king of Mercia (traditional date).', 'self': False, 'pos': 'NP'}
+626*{'date': 'September 3', 'text': 'Emperor Gaozu of Tang China abdicates in favor of his son Li Shimin.', 'self': False, 'pos': 'NP'}
+625*{'date': 'March 23', 'text': 'Battle of Uhud (Muhammad retreats against the inhabitants of Mecca), which they consider a victory.', 'self': False, 'pos': 'NP'}
+625*{'date': 'October 27', 'text': 'Pope Honorius I succeeds Pope Boniface V as the 70th pope.', 'self': False, 'pos': 'NP'}
+624*{'text': 'Justus becomes Archbishop of Canterbury.', 'self': False, 'pos': 'NP'}
+624*{'date': 'March 17', 'text': 'The Battle of Badr is fought.', 'self': False, 'pos': 'DET'}
+629*{'date': 'September', 'text': 'Jerusalem is reconquered by the Byzantine Empire from the Persian Empire.', 'self': False, 'pos': 'NP'}
+629*{'text': "The Battle of Mu'tah, the first Muslim expedition outside Arabia, fails to take the lands east of the Jordan River.", 'self': False, 'pos': 'DET'}
+629*{'text': 'Poet Al-Khansa meets Muhammad and converts to Islam.', 'self': False, 'pos': 'NP'}
+629*{'text': 'Dagobert I becomes king of all of the Frankish territory.', 'self': False, 'pos': 'NP'}
+629*{'text': 'Emperor Jomei ascends to the throne of Japan.', 'self': False, 'pos': 'NP'}
+629*{'text': "The Chinese Tang Dynasty launches Emperor Taizong's campaign against Eastern Tujue, a Göktürk khanate.", 'self': False, 'pos': 'DET'}
+629*{'date': 'Arabia: Battle of Khaybar', 'text': 'Muslim attack and capture of this fortified Jewish oasis, 150 kilometers from Medina.', 'self': False, 'pos': 'NP'}
+629*{'text': 'The Maya military outpost of Dos Pilas is founded.', 'self': False, 'pos': 'DET'}
+628*{'text': 'Pippin of Landen becomes Mayor of the Palace in Austrasia.', 'self': False, 'pos': 'NP'}
+628*{'date': 'February 23', 'text': 'Khosrau II of Persia is overthrown.', 'self': False, 'pos': 'NP'}
+628*{'text': 'Brahmagupta writes the Brahmasphutasiddhanta, an early, yet very advanced, math book.', 'self': False, 'pos': 'NP'}
+656*{'text': 'Oswiu of Northumbria annexes Mercia.', 'self': False, 'pos': 'NP'}
+656*{'text': 'The Battle of Bassorah (also known as Battle of the Camel) between Ali and Aisha, part of the first civil war in Islam, takes place in modern-day Basra, Iraq.', 'self': False, 'pos': 'DET'}
+656*{'text': 'Ali succeeds Uthman as Caliph.', 'self': False, 'pos': 'NP'}
+657*{'text': 'The Chinese Tang Dynasty under Emperor Gaozong of Tang defeats a Turkish army.', 'self': False, 'pos': 'DET'}
+657*{'text': 'Emperor Gaozong of Tang commissions the pharmacology publication of an official materia medica, which documents 833 different substances taken from various stones, minerals, metals, plants, herbs, animals, vegetables, fruits, and cereal crops used for medicinal purposes.', 'self': False, 'pos': 'NP'}
+657*{'date': 'June 2', 'text': 'Pope Eugene I dies and is subsequently canonized.', 'self': False, 'pos': 'NP'}
+657*{'date': 'July 30', 'text': 'Pope Vitalian succeeds Pope Eugene I as the 76th pope.', 'self': False, 'pos': 'NP'}
+657*{'text': 'Saint Hilda founds an abbey on the Yorkshire coast at Whitby.', 'self': False, 'pos': 'NP'}
+654*{'text': 'Rhodes is invaded by an Arab force; remains of the Colossus of Rhodes are sold off.', 'self': False, 'pos': 'NP'}
+654*{'text': 'Nakatomi no Kamatari of Japan is granted the Shikwan (the Purple Cap).', 'self': False, 'pos': 'NP'}
+654*{'text': 'A Japanese ambassador is sent to Tang again.', 'self': False, 'pos': 'DET'}
+654*{'date': 'September 17', 'text': 'Martin I arrives in Constantinople, where he is eventually deposed as pope by the emperor Constans II.', 'self': False, 'pos': 'NP'}
+655*{'text': 'Peada succeeds his father Penda as king of Mercia.', 'self': False, 'pos': 'NP'}
+655*{'text': 'Clovis II is succeeded by Clotaire III as king of the Franks.', 'self': False, 'pos': 'NP'}
+655*{'text': 'Arab armies conquer Khurasan.', 'self': False, 'pos': 'NP'}
+652*{'text': 'Rodoald succeeds his father Rothari as king of the Lombards.', 'self': False, 'pos': 'NP'}
+652*{'text': 'A new palace of Japan is moved to Naniwa.', 'self': False, 'pos': 'DET'}
+652*{'text': 'The registers of population are prepared in Japan.', 'self': False, 'pos': 'DET'}
+652*{'text': 'Khazaria becomes an independent state (approximate date).', 'self': False, 'pos': 'NP'}
+653*{'text': 'Sigeberht II the Good succeeds Sigeberht I the Little as king of Essex.', 'self': False, 'pos': 'NP'}
+653*{'text': 'Aripert, nephew of Theodelinda, succeeds Rodoald as king of the Lombards.', 'self': False, 'pos': 'NP'}
+653*{'text': 'Naka no Ōe no Ōji changes his residence to Asuka with Empress Hashibito and other Imperial family members and ministers.', 'self': False, 'pos': 'NP'}
+653*{'text': 'Pope Martin I is arrested on orders of Byzantine Emperor Constans II.', 'self': False, 'pos': 'NP'}
+650*{'text': 'The first Chinese paper money is issued, yet these banknotes will not become government-issued until the Song Dynasty era Sichuan province issues them in the year 1024, with the central government of China following suit in the 12th century.', 'self': False, 'pos': 'DET'}
+650*{'text': 'A white pheasant is presented to the Emperor of Japan, who is pleased and begins a new nengo to be called Hakuchi, meaning the white pheasant.', 'self': False, 'pos': 'DET'}
+650*{'text': "St. Martin's Church is built in Canterbury, England.", 'self': False, 'pos': 'NP'}
+650*{'text': 'Hungry Tigress Jataka, panel of the Tamamushi Shrine, Horyu-ji, is made.', 'self': False, 'pos': 'NP'}
+651*{'text': 'Clovis II, king of Neustria and Burgundy, marries the future Saint Bathilde.', 'self': False, 'pos': 'NP'}
+651*{'text': 'Yazdegerd III of Persia is killed in Merv by his followers, ending both Persian resistance to Arab conquest, and the Sassanid dynasty.', 'self': False, 'pos': 'NP'}
+651*{'text': "The Qur'an is written down.", 'self': False, 'pos': 'DET'}
+658*{'text': "The Union of Slavic Tribes falls apart after King Samo's death.", 'self': False, 'pos': 'DET'}
+658*{'text': 'Cadwaladr launches the last Welsh offensive against the Saxons in Britain.', 'self': False, 'pos': 'NP'}
+658*{'text': 'Tang China defeats Western Turkic Kaganate.', 'self': False, 'pos': 'NP'}
+630*{'text': 'The Byzantine-Arab Wars begin.', 'self': False, 'pos': 'DET'}
+630*{'text': 'Muhammad sets out to capture Mecca by force.', 'self': False, 'pos': 'NP'}
+630*{'text': 'Armenia is invaded by Chorpan Tarkhan.', 'self': False, 'pos': 'NP'}
+630*{'text': 'The Chinese Buddhist monk Xuan Zang reaches India.', 'self': False, 'pos': 'DET'}
+630*{'text': 'Ardashir is assassinated, and succeeded by Shahrbaraz as king of Persia; Sharbaraz is assassinated and succeeded by Boran.', 'self': False, 'pos': 'NP'}
+630*{'text': "The Tang Dynasty Chinese general Li Jing captures the Jiali Khan Ashina Duobi, which leads to success in Emperor Taizong's campaign against Eastern Tujue launched at the end of the previous year, and results in the disintegration of the Göktürk Khanate.", 'self': False, 'pos': 'DET'}
+631*{'text': 'The Battle of Wogastisburg is fought between the Slavs led by Samo, and the Franks led by their king, Dagobert I.', 'self': False, 'pos': 'DET'}
+632*{'text': 'Khan Kubrat starts to rule in Great Bulgaria.', 'self': False, 'pos': 'NP'}
+632*{'date': 'December', 'text': 'Abu Bakr defeats Mosailima in the Battle of Akraba.', 'self': False, 'pos': 'NP'}
+632*{'text': 'Queen Seondeok is crowned in Korea.', 'self': False, 'pos': 'NP'}
+632*{'text': 'Yazdgird III starts to rule in Persia.', 'self': False, 'pos': 'NP'}
+632*{'text': 'Ridda Wars begins.', 'self': False, 'pos': 'NP'}
+632*{'date': 'February 23', 'text': "The Last Sermon (Khutbah, Khutbatul Wada') of Prophet Muhammad.", 'self': False, 'pos': 'DET'}
+633*{'text': 'Oswald of Bernicia becomes Bretwalda.', 'self': False, 'pos': 'NP'}
+633*{'text': 'Osric becomes king of Deira.', 'self': False, 'pos': 'NP'}
+633*{'text': 'Arab armies invade Syria and Iraq.', 'self': False, 'pos': 'NP'}
+633*{'text': 'Li Chung Feng builds a celestial globe.', 'self': False, 'pos': 'NP'}
+633*{'text': 'The Fourth Council of Toledo is held.', 'self': False, 'pos': 'DET'}
+634*{'text': 'Oswald of Northumbria defeats Cadwallon ap Cadfan of Gwynedd in the Battle of Heavenfield and reunites Northumbria.', 'self': False, 'pos': 'NP'}
+634*{'text': 'The Rashidun Caliphate starts the Islamic conquest of the Byzantine empire.', 'self': False, 'pos': 'DET'}
+634*{'date': 'September 20', 'text': 'Khalid Ibn Walid captures Damascus.', 'self': False, 'pos': 'NP'}
+634*{'text': "The Xianbei/Tibetan state of Tuyuhun is invaded by Tang Dynasty China during Emperor Taizong's campaign against Tuyuhun, led by commander Li Jing, resulting in the assassination of their leader (Busabuo Khan Murong Fuyun) in 635 and the dissolving of their state in 672.", 'self': False, 'pos': 'DET'}
+634*{'text': 'Umar ibn al-Khattab succeeds Abu Bakr as Sunni Caliph.', 'self': False, 'pos': 'NP'}
+635*{'text': 'Kubrat overthrows Avars in Ukraine.', 'self': False, 'pos': 'NP'}
+635*{'text': 'Saint Aidan founds Lindisfarne in Northumbria, England.', 'self': False, 'pos': 'NP'}
+635*{'text': 'The Chinese historian Yao Silian completes the Book of Liang.', 'self': False, 'pos': 'DET'}
+636*{'text': 'Rothari marries Queen Gundeparga, and becomes king of the Lombards.', 'self': False, 'pos': 'NP'}
+636*{'text': 'The city of Basra, Iraq is founded on a canal by Caliph Omar.', 'self': False, 'pos': 'DET'}
+636*{'text': 'The Xumi Pagoda of Zhengding, China, is built during the reign of Emperor Taizong of Tang.', 'self': False, 'pos': 'DET'}
+636*{'text': 'The historical texts of the Book of Northern Qi, Book of Chen, and Book of Sui are compiled in China during the Tang Dynasty.', 'self': False, 'pos': 'DET'}
+637*{'text': 'Muslim forces under the Rashidun Caliphate conquer Jerusalem, Aleppo and Antioch.', 'self': False, 'pos': 'NP'}
+637*{'text': 'Songtsen Gampo builds the first palace on the site of the Potala Palace.', 'self': False, 'pos': 'NP'}
+638*{'text': 'The Islamic calendar is introduced.', 'self': False, 'pos': 'DET'}
+639*{'text': 'Clovis II succeeds Dagobert I as king of the Franks in Neustria and Burgundy.', 'self': False, 'pos': 'NP'}
+639*{'text': 'The Xueyantuo assaults the Chinese-conquered vassal of Eastern Tujue.', 'self': False, 'pos': 'DET'}
+639*{'text': 'An unsuccessful revolt of Prince Kürşat of Eastern Turks in China.', 'self': False, 'pos': 'DET'}
+639*{'text': 'The Caliph Umar ibn al-Khattab initiates the Islamic invasion of Egypt.', 'self': False, 'pos': 'DET'}
+639*{'text': 'The Plague of Emmaus breaks out.', 'self': False, 'pos': 'DET'}
+605*{'text': "Emperor Yang Guang of the Sui Dynasty orders the capital to be transferred from Chang'an to Luoyang, and orders the Grand Canal to be built.", 'self': False, 'pos': 'NP'}
+605*{'text': 'Amshuvarma becomes king of Licchavi.', 'self': False, 'pos': 'NP'}
+605*{'text': 'The Chinese Zhaozhou Bridge is completed under the Sui Dynasty, the earliest known fully stone open-spandrel segmental arch bridge in the world.', 'self': False, 'pos': 'DET'}
+605*{'text': "Aj Ne' Yohl Mat becomes ruler of Palenque.", 'self': False, 'pos': 'NP'}
+604*{'text': 'The Sassanids destroy the Byzantine fortress of Dara.', 'self': False, 'pos': 'DET'}
+604*{'text': 'Saebert succeeds Sledda as King of Essex.', 'self': False, 'pos': 'NP'}
+604*{'text': 'Theudebert II and Theuderic II defeat Clotaire II in battle.', 'self': False, 'pos': 'NP'}
+604*{'date': 'September 13', 'text': 'Pope Sabinian succeeds Pope Gregory I as the 65th pope.', 'self': False, 'pos': 'NP'}
+604*{'text': 'Saint Laurence becomes Archbishop of Canterbury.', 'self': False, 'pos': 'NP'}
+604*{'text': "Mellitus becomes Bishop of London and founds the first St. Paul's Cathedral.", 'self': False, 'pos': 'NP'}
+604*{'text': 'Justus founds a cathedral in Rochester, England.', 'self': False, 'pos': 'NP'}
+607*{'text': 'Ceolwulf of Wessex fights the South Saxons.', 'self': False, 'pos': 'NP'}
+607*{'date': 'February 19', 'text': 'Pope Boniface III succeeds Pope Sabinian as the 66th pope, but dies the same year.', 'self': False, 'pos': 'NP'}
+607*{'date': 'October 11', 'text': 'Thomas I is appointed Patriarch of Constantinople.', 'self': False, 'pos': 'NP'}
+607*{'text': 'The Pantheon in Rome is converted into a church.', 'self': False, 'pos': 'DET'}
+606*{'text': 'Cearl becomes king of Mercia.', 'self': False, 'pos': 'NP'}
+606*{'text': 'Shashanka is the first recorded independent king of Bengal (approximate date).', 'self': False, 'pos': 'NP'}
+606*{'text': 'The diocese of Aquileia becomes a patriarchate.', 'self': False, 'pos': 'DET'}
+601*{'text': 'Peter (Byzantine general) defeats the Eurasian Avars.', 'self': False, 'pos': 'NP'}
+601*{'text': 'Liuva II succeeds his brother Reccared as King of the Visigoths.', 'self': False, 'pos': 'NP'}
+601*{'text': "The earliest dated English words are 'Town' and 'Priest', both recorded in the Laws of Æthelberht of Kent.", 'self': False, 'pos': 'DET'}
+601*{'text': 'The Qieyun, a Chinese character rhyme dictionary, is published.', 'self': False, 'pos': 'DET'}
+601*{'text': 'The future Archbishops of Canterbury, Mellitus, Justus, and Honorius, and the future Archbishop of York Paulinus, are sent to England by Pope Gregory I to aid Augustine in his missionary work.', 'self': False, 'pos': 'DET'}
+603*{'text': 'Witteric overthrows and defeats Liuva II, becoming king of the Visigoths.', 'self': False, 'pos': 'NP'}
+603*{'text': "Japan's Prince Shotoku establishes a twelve level cap and rank system and is said to have authored a seventeen-article constitution.", 'self': False, 'pos': 'NP'}
+603*{'text': 'The future Pope Boniface III is appointed papal legate to Constantinople.', 'self': False, 'pos': 'DET'}
+602*{'text': 'Maurice, at war with the Avars and always dealing with the lack of money, decrees that the army should stay for winter beyond the Danube, which proves to be a serious mistake.', 'self': False, 'pos': 'NP'}
+602*{'text': 'A series of wars begin between the Byzantine Empire and the Sassanid Empire.', 'self': False, 'pos': 'DET'}
+609*{'text': 'Edessa is taken by the Sassanids.', 'self': False, 'pos': 'NP'}
+609*{'text': 'The tax census of the Sui Dynasty government in China records roughly 9 million registered households in the empire, a population size of roughly 50 million people.', 'self': False, 'pos': 'DET'}
+609*{'text': 'Shibi Khan becomes the khagan in the Eastern Turkish Empire.', 'self': False, 'pos': 'NP'}
+609*{'text': 'The Pantheon is consecrated to the Virgin Mary and all saints by Pope Boniface IV (or 610).', 'self': False, 'pos': 'DET'}
+608*{'text': 'Eochaid Buide succeeds Áedán mac Gabráin as king of Dál Riata.', 'self': False, 'pos': 'NP'}
+608*{'text': 'Khosrau II of Persia attacks Chalcedon.', 'self': False, 'pos': 'NP'}
+608*{'date': 'August 25', 'text': 'Pope Boniface IV succeeds Pope Boniface III as the 67th pope.', 'self': False, 'pos': 'NP'}
+608*{'text': 'The observance of Halloween in the Roman Catholic Church is first recorded.', 'self': False, 'pos': 'DET'}
+618*{'text': 'The Sui Dynasty ends and the Tang Dynasty begins in China.', 'self': False, 'pos': 'DET'}
+618*{'text': 'A civil war begins in Medina.', 'self': False, 'pos': 'DET'}
+618*{'text': 'Tong Khan becomes the khagan of Western Turkic Khaganate.', 'self': False, 'pos': 'NP'}
+619*{'text': 'The Avars attack Constantinople.', 'self': False, 'pos': 'DET'}
+619*{'text': 'The Second Perso-Turkic War is fought and ended with Decisive Sassanid victory.', 'self': False, 'pos': 'DET'}
+619*{'text': 'The Meccan boycott of Hashemites and Muhammad ends.', 'self': False, 'pos': 'DET'}
+619*{'text': 'The calculation of the Chinese calendar begins to use true motions of the sun and moon modeled using two offset opposing parabolas.', 'self': False, 'pos': 'DET'}
+619*{'text': 'The Chinese begin using large orchestras.', 'self': False, 'pos': 'DET'}
+619*{'date': 'December 23', 'text': 'Pope Boniface V succeeds Pope Adeodatus I as the 69th pope.', 'self': False, 'pos': 'NP'}
+619*{'text': 'Mellitus becomes Archbishop of Canterbury.', 'self': False, 'pos': 'NP'}
+619*{'text': 'Kubrat, ruler of the Bulgars, is baptised in Constantinople.', 'self': False, 'pos': 'NP'}
+612*{'text': 'Theuderic II becomes king of Austrasia.', 'self': False, 'pos': 'NP'}
+612*{'text': "Sak K'uk' succeeds Aj Ne' Yohl Mat as ruler of Palenque.", 'self': False, 'pos': 'NP'}
+612*{'text': 'Saint Columbanus moves to Italy to establish the monastery of Bobbio (approximate date).', 'self': False, 'pos': 'NP'}
+612*{'text': 'The Holy Sponge is brought to Constantinople from Palestine.', 'self': False, 'pos': 'DET'}
+613*{'text': 'The Byzantine emperor Heraclius marries his niece Martina.', 'self': False, 'pos': 'DET'}
+613*{'text': 'Clotaire II reunites the Frankish kingdoms by ordering the murder of Sigebert II.', 'self': False, 'pos': 'NP'}
+613*{'text': 'Shahrbaraz of Persia captures Damascus.', 'self': False, 'pos': 'NP'}
+613*{'text': 'Isanapura becomes the capital of the Cambodian kingdom of Chenla.', 'self': False, 'pos': 'NP'}
+613*{'text': 'The Abbey of St. Gall is founded.', 'self': False, 'pos': 'DET'}
+613*{'text': 'Muhammad begins preaching Islam in public.', 'self': False, 'pos': 'NP'}
+610*{'date': 'October 4', 'text': 'Heraclius arrives by ship from Africa at Constantinople, overthrows East Roman Emperor Phocas and becomes Emperor.', 'self': False, 'pos': 'NP'}
+610*{'text': 'The Avars try to invade Italy.', 'self': False, 'pos': 'DET'}
+610*{'text': 'Gundemar succeeds Witteric as king of the Visigoths.', 'self': False, 'pos': 'NP'}
+610*{'text': 'St. Columbanus and St. Gall begin missionary work in Bregenz.', 'self': False, 'pos': 'NP'}
+610*{'text': 'St. John the Merciful becomes Patriarch of Alexandria.', 'self': False, 'pos': 'NP'}
+616*{'text': 'Eadbald succeeds Ethelbert as king of Kent.', 'self': False, 'pos': 'NP'}
+616*{'text': 'Edwin becomes king of Northumbria.', 'self': False, 'pos': 'NP'}
+616*{'text': 'Oswald of Northumbria flees to Iona.', 'self': False, 'pos': 'NP'}
+616*{'text': 'Adaloald succeeds his father Agilulf as king of the Lombards (approximate date).', 'self': False, 'pos': 'NP'}
+616*{'text': 'Alexandria is captured by Khosrau II of Persia.', 'self': False, 'pos': 'NP'}
+616*{'text': 'The Banu Hashim clan begins to boycott Muhammad.', 'self': False, 'pos': 'DET'}
+616*{'text': 'A shrine on the site of the future Westminster Abbey is founded.', 'self': False, 'pos': 'DET'}
+617*{'text': 'Sigehbert I becomes king of Essex.', 'self': False, 'pos': 'NP'}
+617*{'text': 'Sui Gong Di succeeds Sui Yang Di as emperor of China.', 'self': False, 'pos': 'NP'}
+617*{'text': 'The Persian Army, under the command of General Spahbodh Shaahin, conquers Chalcedon after a long siege.', 'self': False, 'pos': 'DET'}
+614*{'text': 'The Palace of Diocletian is damaged by the Avars, who sack nearby Salona.', 'self': False, 'pos': 'DET'}
+614*{'text': 'The Persian Empire under general Shahrbaraz captures and sacks Jerusalem; the Church of the Holy Sepulchre is damaged by fire and the True Cross is captured.', 'self': False, 'pos': 'DET'}
+614*{'text': 'The Persians destroy the Ghassanid kingdom.', 'self': False, 'pos': 'DET'}
+614*{'text': 'The Sudarium of Oviedo is taken from Jerusalem.', 'self': False, 'pos': 'DET'}
+615*{'text': 'The Edict of Paris grants extensive rights to the Frankish nobility.', 'self': False, 'pos': 'DET'}
+615*{'text': 'Pippin of Landen becomes Mayor of the Austrasian Palace.', 'self': False, 'pos': 'NP'}
+615*{'text': 'Edwin of Northumbria takes refuge in East Anglia; he marries Cwenburga, daughter of Cearl of Mercia.', 'self': False, 'pos': 'NP'}
+615*{'text': 'The Turks invade China.', 'self': False, 'pos': 'DET'}
+615*{'text': "Sak K'uk' is succeeded by Pacal the Great as ruler of Palenque.", 'self': False, 'pos': 'NP'}
+615*{'date': 'October 19', 'text': 'Pope Adeodatus I (also known as Deusdedit) succeeds Pope Boniface IV as the 68th pope.', 'self': False, 'pos': 'NP'}
+688*{'text': 'Emperor Justinian II of the Byzantine Empire defeats the Bulgarians.', 'self': False, 'pos': 'NP'}
+685*{'text': "Sussex attacks Kent, supporting Eadric's claim to the throne held by Hlothhere.", 'self': False, 'pos': 'NP'}
+685*{'text': 'Surrey takes Wessex as its overlord.', 'self': False, 'pos': 'NP'}
+685*{'text': 'The Umayyad caliph Marwan I (684–685) is succeeded by Abd al-Malik ibn Marwan (685–705).', 'self': True, 'pos': 'DET'}
+685*{'text': 'Wu Zetian gives two giant pandas to Japan.', 'self': False, 'pos': 'NP'}
+685*{'date': 'July 23', 'text': 'Pope John V succeeds Pope Benedict II as the 82nd pope.', 'self': False, 'pos': 'NP'}
+685*{'text': 'Cuthbert is consecrated bishop of Lindisfarne.', 'self': False, 'pos': 'NP'}
+685*{'text': 'John Maroun is elected as the first patriarch in the Maronite Church.', 'self': False, 'pos': 'NP'}
+685*{'text': 'The Al-Aqsa Mosque is established by early Islam.', 'self': False, 'pos': 'DET'}
+684*{'text': 'Wu Ze Tian takes power in China.', 'self': False, 'pos': 'NP'}
+684*{'text': 'The Ummayad caliph Muawiya II is succeeded by Marwan I.', 'self': False, 'pos': 'DET'}
+684*{'date': 'September 7', 'text': "A large comet is observed in Japan (it's Japan's oldest observation record of the Halley's Comet).", 'self': False, 'pos': 'DET'}
+684*{'date': 'November 13', 'text': 'Emperor Temmu institutes eight titles of eight classes (Yakusa-no-kabane) in Japan.', 'self': False, 'pos': 'NP'}
+684*{'date': 'November 26', 'text': 'A great earthquake strikes Japan.', 'self': False, 'pos': 'DET'}
+684*{'date': 'June 26', 'text': 'Pope Benedict II succeeds Pope Leo II as the 81st pope.', 'self': False, 'pos': 'NP'}
+687*{'text': 'Egica succeeds Erwig as king of the Visigoths.', 'self': False, 'pos': 'NP'}
+687*{'text': 'Adamnan visits the Northumbrian court of Ecgfrith to ransom Irish captives.', 'self': False, 'pos': 'NP'}
+687*{'date': 'December 15', 'text': 'Pope Sergius I succeeds Pope Conon as the 84th pope.', 'self': False, 'pos': 'NP'}
+686*{'text': 'The Kingdom of Kent is attacked and conquered by West Saxons under Caedwalla.', 'self': False, 'pos': 'DET'}
+686*{'text': 'Caedwalla exterminates the Jutes of the Isle of Wight and kills King Arwald.', 'self': False, 'pos': 'NP'}
+686*{'date': 'October 1', 'text': 'Emperor Temmu of Japan dies.', 'self': False, 'pos': 'NP'}
+686*{'text': "Emperor Temmu's son, Prince Ōtsu, is falsely accused of treason by Jito and forced to commit suicide along with his wife, Princess Yamanobe.", 'self': False, 'pos': 'NP'}
+681*{'text': 'The Bulgars under Asparukh win the war with the Byzantine Empire; the latter signs a peace treaty, which is considered by most as the birth-date of Bulgaria.', 'self': False, 'pos': 'DET'}
+681*{'text': 'Wilfrid of York is expelled from Northumbria by Ecgfrith, and retires into Sussex.', 'self': False, 'pos': 'NP'}
+681*{'text': 'Kutluk Khan revolts and reestablishes the Turkish khaganate.', 'self': False, 'pos': 'NP'}
+681*{'date': 'September 16', 'text': 'The Sixth Ecumenical Council (opened on November 12, 680 in Constantinople) concludes.', 'self': False, 'pos': 'DET'}
+680*{'text': 'The Bulgars subjugate the country of current-day Bulgaria.', 'self': False, 'pos': 'DET'}
+680*{'text': 'Pippin of Herstal becomes Mayor of the Palace.', 'self': False, 'pos': 'NP'}
+680*{'text': 'Erwig deposes Wamba to become king of the Visigoths.', 'self': False, 'pos': 'NP'}
+680*{'date': 'October 10', 'text': 'The Battle of Karbala results in the martyrdom of Imam Hussein.', 'self': False, 'pos': 'DET'}
+680*{'text': 'Umayyad caliph Muawiyah I is succeeded by Yazid I ibn Muawiyah.', 'self': False, 'pos': 'NP'}
+680*{'date': 'November 12', 'text': 'The Sixth Ecumenical Council opens in Constantinople and ends September 16, 681.', 'self': False, 'pos': 'DET'}
+683*{'text': 'The reign of Pacal the Great, ruler of Maya state of Palenque, comes to an end.', 'self': False, 'pos': 'DET'}
+683*{'text': 'The Umayyad caliph Yazid I (680–683) is succeeded by Muawiya II ibn Yazid (683–684).', 'self': True, 'pos': 'DET'}
+683*{'text': 'Emperor Temmu of Japan decrees that copper coins must be used instead of silver coins.', 'self': False, 'pos': 'NP'}
+682*{'text': 'Jarrow Priory is established by Benedict Biscop in the Kingdom of Northumbria.', 'self': False, 'pos': 'NP'}
+682*{'text': 'The first entry is made in the Welsh chronicle Brut y Tywysogion.', 'self': False, 'pos': 'DET'}
+682*{'text': 'Emperor Temmu of Japan issues a decree forbidding the Japanese-style cap of ranks and garments, and changing them into Chinese ones.', 'self': False, 'pos': 'NP'}
+682*{'date': 'January 3', 'text': 'Venus occults Jupiter.', 'self': False, 'pos': 'NP'}
+682*{'date': 'August 17', 'text': 'Pope Leo II succeeds Pope Agatho as the 80th pope.', 'self': False, 'pos': 'NP'}
+682*{'text': 'The venerable Bede goes to Jarrow.', 'self': False, 'pos': 'DET'}
